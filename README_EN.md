@@ -1,4 +1,4 @@
-# fishingWithStudy
+# FishingWithStudy
 
 [![Stardew Valley](https://img.shields.io/badge/Stardew%20Valley-1.6%2B-brightgreen)](https://www.stardewvalley.net/)
 [![SMAPI](https://img.shields.io/badge/SMAPI-4.0%2B-blue)](https://smapi.io/)
