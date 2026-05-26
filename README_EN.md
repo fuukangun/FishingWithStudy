@@ -55,11 +55,11 @@ The mod tracks which questions you get wrong and periodically re-tests you on th
 
 After answering **66+ questions** globally, each successful catch has a **70% chance** to trigger a quality bonus based on your overall accuracy:
 
-| Accuracy | Quality |
-|----------|---------|
-| \> 80% | Iridium |
-| \> 70% | Gold |
-| \> 60% | Silver |
+| Accuracy | Probability | Quality |
+|----------|------------|---------|
+| \> 80% | 70% | Iridium |
+| \> 70% | 70% | Gold |
+| \> 60% | 70% | Silver |
 
 If the 70% roll fails, or you have fewer than 66 total answers, the vanilla fish quality logic applies.
 
