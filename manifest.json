@@ -1,0 +1,9 @@
+{
+  "Name": "fishingWithStudy",
+  "Author": "fuukangun",
+  "Version": "1.0.0",
+  "Description": "将钓鱼小游戏修改成答题类游戏",
+  "UniqueID": "fuukangun.fishingWithStudy",
+  "EntryDll": "fishingWithStudy.dll",
+  "MinimumApiVersion": "4.0.0"
+}

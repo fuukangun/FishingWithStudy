@@ -1,0 +1,7868 @@
+[
+  {
+    "category": "characters",
+    "category_i18n": "Characters",
+    "questionList": [
+      {
+        "id": "sv_char_001",
+        "type": "single",
+        "question": "What is Pam's favorite gift?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fried Egg"
+          },
+          {
+            "tag": "B",
+            "text": "Diamond"
+          },
+          {
+            "tag": "C",
+            "text": "Poppy"
+          },
+          {
+            "tag": "D",
+            "text": "Beer"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_char_002",
+        "type": "single",
+        "question": "What does Abigail love?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Amethyst"
+          },
+          {
+            "tag": "B",
+            "text": "Topaz"
+          },
+          {
+            "tag": "C",
+            "text": "Jade"
+          },
+          {
+            "tag": "D",
+            "text": "Ruby"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_003",
+        "type": "single",
+        "question": "What does Sebastian love?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Tear Drop Ore"
+          },
+          {
+            "tag": "B",
+            "text": "Void Egg"
+          },
+          {
+            "tag": "C",
+            "text": "Obsidian"
+          },
+          {
+            "tag": "D",
+            "text": "Frozen Tear"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_char_004",
+        "type": "single",
+        "question": "Where does Clint work?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Blacksmith"
+          },
+          {
+            "tag": "B",
+            "text": "General Store"
+          },
+          {
+            "tag": "C",
+            "text": "Carpenter Shop"
+          },
+          {
+            "tag": "D",
+            "text": "Museum"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_005",
+        "type": "single",
+        "question": "What is Marnie's farm called?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Marnie's Ranch"
+          },
+          {
+            "tag": "B",
+            "text": "Happy Ranch"
+          },
+          {
+            "tag": "C",
+            "text": "Green Meadow Ranch"
+          },
+          {
+            "tag": "D",
+            "text": "Stardew Ranch"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_006",
+        "type": "single",
+        "question": "Who works at the Stardrop Saloon?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Lewis"
+          },
+          {
+            "tag": "B",
+            "text": "Gus"
+          },
+          {
+            "tag": "C",
+            "text": "Pierre"
+          },
+          {
+            "tag": "D",
+            "text": "Willy"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_char_007",
+        "type": "single",
+        "question": "What is Haley's favorite gift?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Coconut"
+          },
+          {
+            "tag": "B",
+            "text": "Pink Cake"
+          },
+          {
+            "tag": "C",
+            "text": "Sunflower"
+          },
+          {
+            "tag": "D",
+            "text": "Fruit Salad"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_char_008",
+        "type": "single",
+        "question": "What is Elliott's favorite gift?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Crab Cakes"
+          },
+          {
+            "tag": "B",
+            "text": "Lobster Bisque"
+          },
+          {
+            "tag": "C",
+            "text": "Coffee"
+          },
+          {
+            "tag": "D",
+            "text": "Pomegranate"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_char_009",
+        "type": "single",
+        "question": "What is Penny's favorite gift?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Ruby"
+          },
+          {
+            "tag": "B",
+            "text": "Diamond"
+          },
+          {
+            "tag": "C",
+            "text": "Emerald"
+          },
+          {
+            "tag": "D",
+            "text": "Amethyst"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_char_010",
+        "type": "single",
+        "question": "What day is Harvey's clinic closed?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Monday"
+          },
+          {
+            "tag": "B",
+            "text": "Tuesday"
+          },
+          {
+            "tag": "C",
+            "text": "Thursday"
+          },
+          {
+            "tag": "D",
+            "text": "Sunday"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_char_011",
+        "type": "single",
+        "question": "What is Shane's favorite gift?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Beer"
+          },
+          {
+            "tag": "B",
+            "text": "Hot Pepper"
+          },
+          {
+            "tag": "C",
+            "text": "Pizza"
+          },
+          {
+            "tag": "D",
+            "text": "Spicy Pepper Jelly"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_012",
+        "type": "single",
+        "question": "Who lives in the basement?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Sebastian"
+          },
+          {
+            "tag": "B",
+            "text": "Maru"
+          },
+          {
+            "tag": "C",
+            "text": "Sam"
+          },
+          {
+            "tag": "D",
+            "text": "Abigail"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_013",
+        "type": "single",
+        "question": "Which season does Kent return to Pelican Town in Year 1?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Spring"
+          },
+          {
+            "tag": "B",
+            "text": "Summer"
+          },
+          {
+            "tag": "C",
+            "text": "Fall"
+          },
+          {
+            "tag": "D",
+            "text": "Winter"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_char_014",
+        "type": "single",
+        "question": "What is Demetrius's relationship to Robin?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Husband"
+          },
+          {
+            "tag": "B",
+            "text": "Brother"
+          },
+          {
+            "tag": "C",
+            "text": "Neighbor"
+          },
+          {
+            "tag": "D",
+            "text": "Friend"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_015",
+        "type": "single",
+        "question": "Where can Junimos be found?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Community Center"
+          },
+          {
+            "tag": "B",
+            "text": "The Mines"
+          },
+          {
+            "tag": "C",
+            "text": "The Forest"
+          },
+          {
+            "tag": "D",
+            "text": "The Beach"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_016",
+        "type": "single",
+        "question": "Where does the Dwarf live?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "East entrance of the Mines"
+          },
+          {
+            "tag": "B",
+            "text": "Adventurer's Guild"
+          },
+          {
+            "tag": "C",
+            "text": "Secret Woods"
+          },
+          {
+            "tag": "D",
+            "text": "Magic Forest"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_017",
+        "type": "single",
+        "question": "Where can Victor be found?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Pelican Town"
+          },
+          {
+            "tag": "B",
+            "text": "Ginger Island"
+          },
+          {
+            "tag": "C",
+            "text": "Ridgeside Village"
+          },
+          {
+            "tag": "D",
+            "text": "He is not a vanilla NPC"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_char_018",
+        "type": "single",
+        "question": "What is Jas's relationship to Vincent?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "They are friends"
+          },
+          {
+            "tag": "B",
+            "text": "Siblings"
+          },
+          {
+            "tag": "C",
+            "text": "Cousins"
+          },
+          {
+            "tag": "D",
+            "text": "Neighbors"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_char_019",
+        "type": "single",
+        "question": "Where can you buy Ice Cream?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Alex's Ice Cream Stand"
+          },
+          {
+            "tag": "B",
+            "text": "Stardrop Saloon"
+          },
+          {
+            "tag": "C",
+            "text": "Pierre's General Store"
+          },
+          {
+            "tag": "D",
+            "text": "JojaMart"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_020",
+        "type": "single",
+        "question": "Which character likes to go to the gym?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Alex"
+          },
+          {
+            "tag": "B",
+            "text": "Sam"
+          },
+          {
+            "tag": "C",
+            "text": "Sebastian"
+          },
+          {
+            "tag": "D",
+            "text": "Shane"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_021",
+        "type": "single",
+        "question": "When does Clint send the player a blueprint?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "After upgrading tools"
+          },
+          {
+            "tag": "B",
+            "text": "Cannot be obtained"
+          },
+          {
+            "tag": "C",
+            "text": "Reach Mining level 10"
+          },
+          {
+            "tag": "D",
+            "text": "After completing Clint's special order"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_char_022",
+        "type": "single",
+        "question": "Where can Lewis's purple shorts be found?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Marnie's room"
+          },
+          {
+            "tag": "B",
+            "text": "Lewis's house"
+          },
+          {
+            "tag": "C",
+            "text": "Community Center"
+          },
+          {
+            "tag": "D",
+            "text": "Sewer"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_023",
+        "type": "single",
+        "question": "Which NPC has a birthday in Winter?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Sebastian"
+          },
+          {
+            "tag": "B",
+            "text": "Abigail"
+          },
+          {
+            "tag": "C",
+            "text": "Sam"
+          },
+          {
+            "tag": "D",
+            "text": "Penny"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_024",
+        "type": "single",
+        "question": "Who are Robin's family members?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Demetrius, Maru, Sebastian"
+          },
+          {
+            "tag": "B",
+            "text": "Demetrius and Maru"
+          },
+          {
+            "tag": "C",
+            "text": "Sebastian and Maru"
+          },
+          {
+            "tag": "D",
+            "text": "Only Demetrius"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_025",
+        "type": "single",
+        "question": "What does Willy enjoy besides selling fishing supplies?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fixing boats"
+          },
+          {
+            "tag": "B",
+            "text": "Cooking"
+          },
+          {
+            "tag": "C",
+            "text": "Fishing"
+          },
+          {
+            "tag": "D",
+            "text": "Painting"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_char_026",
+        "type": "single",
+        "question": "Who is Vincent's mother?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Jodi"
+          },
+          {
+            "tag": "B",
+            "text": "Caroline"
+          },
+          {
+            "tag": "C",
+            "text": "Evelyn"
+          },
+          {
+            "tag": "D",
+            "text": "Penny"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_027",
+        "type": "single",
+        "question": "Which field is Maru skilled in?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Science and engineering"
+          },
+          {
+            "tag": "B",
+            "text": "Cooking"
+          },
+          {
+            "tag": "C",
+            "text": "Farming"
+          },
+          {
+            "tag": "D",
+            "text": "Fishing"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "locations",
+    "category_i18n": "Locations",
+    "questionList": [
+      {
+        "id": "sv_loc_001",
+        "type": "single",
+        "question": "What day is Pierre's General Store closed?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Monday"
+          },
+          {
+            "tag": "B",
+            "text": "Wednesday"
+          },
+          {
+            "tag": "C",
+            "text": "Sunday"
+          },
+          {
+            "tag": "D",
+            "text": "Friday"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_loc_002",
+        "type": "single",
+        "question": "How many rooms are in the Community Center?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "4"
+          },
+          {
+            "tag": "B",
+            "text": "5"
+          },
+          {
+            "tag": "C",
+            "text": "6"
+          },
+          {
+            "tag": "D",
+            "text": "7"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_loc_003",
+        "type": "single",
+        "question": "Who is the curator of the Museum?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Clint"
+          },
+          {
+            "tag": "B",
+            "text": "Gunther"
+          },
+          {
+            "tag": "C",
+            "text": "Rasmodius"
+          },
+          {
+            "tag": "D",
+            "text": "Demetrius"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_loc_004",
+        "type": "single",
+        "question": "On what day of Spring Year 1 do the Mines open?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Day 3"
+          },
+          {
+            "tag": "B",
+            "text": "Day 5"
+          },
+          {
+            "tag": "C",
+            "text": "Day 7"
+          },
+          {
+            "tag": "D",
+            "text": "Day 10"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_loc_005",
+        "type": "single",
+        "question": "What repairs the Bus?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Complete all bundles"
+          },
+          {
+            "tag": "B",
+            "text": "Complete the Pantry bundles"
+          },
+          {
+            "tag": "C",
+            "text": "Complete the Boiler Room bundle"
+          },
+          {
+            "tag": "D",
+            "text": "Pay 50000g"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_loc_006",
+        "type": "single",
+        "question": "Which two days does the Traveling Merchant appear?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Friday and Sunday"
+          },
+          {
+            "tag": "B",
+            "text": "Monday and Thursday"
+          },
+          {
+            "tag": "C",
+            "text": "Wednesday and Saturday"
+          },
+          {
+            "tag": "D",
+            "text": "Tuesday and Saturday"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_007",
+        "type": "single",
+        "question": "Where is the Adventurer's Guild?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "East of the Mines"
+          },
+          {
+            "tag": "B",
+            "text": "Next to Robin's"
+          },
+          {
+            "tag": "C",
+            "text": "Beach pier"
+          },
+          {
+            "tag": "D",
+            "text": "Near the Bus Stop"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_008",
+        "type": "single",
+        "question": "Where is the Wizard's Tower?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Southern Cindersap Forest"
+          },
+          {
+            "tag": "B",
+            "text": "Mountain top"
+          },
+          {
+            "tag": "C",
+            "text": "East Beach"
+          },
+          {
+            "tag": "D",
+            "text": "The Desert"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_009",
+        "type": "single",
+        "question": "How many ways can you warp to Ginger Island?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "1"
+          },
+          {
+            "tag": "B",
+            "text": "2"
+          },
+          {
+            "tag": "C",
+            "text": "3"
+          },
+          {
+            "tag": "D",
+            "text": "4"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_loc_010",
+        "type": "single",
+        "question": "Where is the Railroad?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Above the Mountains"
+          },
+          {
+            "tag": "B",
+            "text": "Right of the Bus Stop"
+          },
+          {
+            "tag": "C",
+            "text": "South of the Desert"
+          },
+          {
+            "tag": "D",
+            "text": "Left of the Beach"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_011",
+        "type": "single",
+        "question": "How do you get the Sewer key?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Donate 60 items to the Museum"
+          },
+          {
+            "tag": "B",
+            "text": "Reach Fishing level 10"
+          },
+          {
+            "tag": "C",
+            "text": "Complete all bundles"
+          },
+          {
+            "tag": "D",
+            "text": "Pay 50000g"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_012",
+        "type": "single",
+        "question": "What day is JojaMart closed?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Monday"
+          },
+          {
+            "tag": "B",
+            "text": "Wednesday"
+          },
+          {
+            "tag": "C",
+            "text": "Never closes"
+          },
+          {
+            "tag": "D",
+            "text": "Sunday"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_loc_013",
+        "type": "single",
+        "question": "Where can you find Golden Walnuts?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Interactions all over Ginger Island"
+          },
+          {
+            "tag": "B",
+            "text": "Fishing treasure chests"
+          },
+          {
+            "tag": "C",
+            "text": "Skull Cavern"
+          },
+          {
+            "tag": "D",
+            "text": "The Mines"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_014",
+        "type": "single",
+        "question": "How many marriage candidates are in Stardew Valley?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "10"
+          },
+          {
+            "tag": "B",
+            "text": "12"
+          },
+          {
+            "tag": "C",
+            "text": "6"
+          },
+          {
+            "tag": "D",
+            "text": "8"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_loc_015",
+        "type": "single",
+        "question": "Where can you fish in Stardew Valley?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Ocean, River, Lake, Mines"
+          },
+          {
+            "tag": "B",
+            "text": "Ocean only"
+          },
+          {
+            "tag": "C",
+            "text": "River only"
+          },
+          {
+            "tag": "D",
+            "text": "Ponds only"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_016",
+        "type": "single",
+        "question": "Where does Evelyn live?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "1 Willow Lane"
+          },
+          {
+            "tag": "B",
+            "text": "Pelican Town Square"
+          },
+          {
+            "tag": "C",
+            "text": "Cindersap Forest Road"
+          },
+          {
+            "tag": "D",
+            "text": "Mountain Way"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_017",
+        "type": "single",
+        "question": "Where is Leah's cottage?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Cindersap Forest"
+          },
+          {
+            "tag": "B",
+            "text": "Mountains"
+          },
+          {
+            "tag": "C",
+            "text": "Beach"
+          },
+          {
+            "tag": "D",
+            "text": "Pelican Town"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_018",
+        "type": "single",
+        "question": "What time must you be home in Stardew Valley?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "2:00 AM"
+          },
+          {
+            "tag": "B",
+            "text": "1:00 AM"
+          },
+          {
+            "tag": "C",
+            "text": "12:00 AM"
+          },
+          {
+            "tag": "D",
+            "text": "3:00 AM"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_019",
+        "type": "single",
+        "question": "What is in Cindersap Forest?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Secret Woods, Wizard Tower, Marnie's Ranch"
+          },
+          {
+            "tag": "B",
+            "text": "Only trees"
+          },
+          {
+            "tag": "C",
+            "text": "Mine entrance"
+          },
+          {
+            "tag": "D",
+            "text": "Bus stop"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_020",
+        "type": "single",
+        "question": "What seasonal fish can be caught in Cindersap Forest pond?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Specific fish in Spring and Summer"
+          },
+          {
+            "tag": "B",
+            "text": "Only Carp"
+          },
+          {
+            "tag": "C",
+            "text": "Same all year"
+          },
+          {
+            "tag": "D",
+            "text": "Nothing"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_021",
+        "type": "single",
+        "question": "Where can you find the Golden Sickle?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Secret Woods stump"
+          },
+          {
+            "tag": "B",
+            "text": "Mine level 120"
+          },
+          {
+            "tag": "C",
+            "text": "Skull Cavern"
+          },
+          {
+            "tag": "D",
+            "text": "Behind Marnie's house"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_022",
+        "type": "single",
+        "question": "Where can you get the Fiberglass Rod?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Buy from Willy at Fishing level 2"
+          },
+          {
+            "tag": "B",
+            "text": "Fishing level 5 reward"
+          },
+          {
+            "tag": "C",
+            "text": "Beach forage"
+          },
+          {
+            "tag": "D",
+            "text": "Robin crafts it"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_023",
+        "type": "single",
+        "question": "Who lives by the pond in southern Cindersap Forest?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Leah"
+          },
+          {
+            "tag": "B",
+            "text": "Linus"
+          },
+          {
+            "tag": "C",
+            "text": "Willy"
+          },
+          {
+            "tag": "D",
+            "text": "Marnie"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_024",
+        "type": "single",
+        "question": "What are Willy's Fish Shop hours?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "9 AM to 5 PM daily"
+          },
+          {
+            "tag": "B",
+            "text": "10 AM to 6 PM"
+          },
+          {
+            "tag": "C",
+            "text": "Only on sunny days"
+          },
+          {
+            "tag": "D",
+            "text": "Open 24 hours"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_025",
+        "type": "single",
+        "question": "What does the Spa (Bath House) do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Restores energy and health"
+          },
+          {
+            "tag": "B",
+            "text": "Allows fishing"
+          },
+          {
+            "tag": "C",
+            "text": "Allows mining"
+          },
+          {
+            "tag": "D",
+            "text": "Buy items"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_026",
+        "type": "single",
+        "question": "How many farm maps are there to choose from?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "8 (including 1.6 additions)"
+          },
+          {
+            "tag": "B",
+            "text": "5"
+          },
+          {
+            "tag": "C",
+            "text": "7"
+          },
+          {
+            "tag": "D",
+            "text": "10"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_027",
+        "type": "single",
+        "question": "Who lives in the Sewers?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Krobus"
+          },
+          {
+            "tag": "B",
+            "text": "Dwarf"
+          },
+          {
+            "tag": "C",
+            "text": "Mr. Qi"
+          },
+          {
+            "tag": "D",
+            "text": "Junimos"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "crops",
+    "category_i18n": "Crops",
+    "questionList": [
+      {
+        "id": "sv_crop_001",
+        "type": "single",
+        "question": "What season do Blueberries grow in?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Spring"
+          },
+          {
+            "tag": "B",
+            "text": "Summer"
+          },
+          {
+            "tag": "C",
+            "text": "Fall"
+          },
+          {
+            "tag": "D",
+            "text": "Winter"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_crop_002",
+        "type": "single",
+        "question": "How many days does Ancient Fruit take to grow?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "21 days"
+          },
+          {
+            "tag": "B",
+            "text": "24 days"
+          },
+          {
+            "tag": "C",
+            "text": "28 days"
+          },
+          {
+            "tag": "D",
+            "text": "14 days"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_crop_003",
+        "type": "single",
+        "question": "What season can Cactus Fruit be planted in?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Spring"
+          },
+          {
+            "tag": "B",
+            "text": "Summer"
+          },
+          {
+            "tag": "C",
+            "text": "Fall"
+          },
+          {
+            "tag": "D",
+            "text": "Greenhouse or Ginger Island only"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_crop_004",
+        "type": "single",
+        "question": "Which crop can be harvested repeatedly?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Cauliflower"
+          },
+          {
+            "tag": "B",
+            "text": "Parsnip"
+          },
+          {
+            "tag": "C",
+            "text": "Cranberry"
+          },
+          {
+            "tag": "D",
+            "text": "Potato"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_crop_005",
+        "type": "single",
+        "question": "Which bundle requires Gold-quality Parsnips?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Spring Crops Bundle"
+          },
+          {
+            "tag": "B",
+            "text": "Quality Crops Bundle"
+          },
+          {
+            "tag": "C",
+            "text": "Summer Crops Bundle"
+          },
+          {
+            "tag": "D",
+            "text": "Garden Bundle"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_crop_006",
+        "type": "single",
+        "question": "What is Starfruit most famous for?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "High-profit wine"
+          },
+          {
+            "tag": "B",
+            "text": "Cooking"
+          },
+          {
+            "tag": "C",
+            "text": "Bundles"
+          },
+          {
+            "tag": "D",
+            "text": "Gifting"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_007",
+        "type": "single",
+        "question": "What can Cauliflower sometimes grow into?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Giant Cauliflower"
+          },
+          {
+            "tag": "B",
+            "text": "Golden Cauliflower"
+          },
+          {
+            "tag": "C",
+            "text": "Rainbow Cauliflower"
+          },
+          {
+            "tag": "D",
+            "text": "Diamond Cauliflower"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_008",
+        "type": "single",
+        "question": "How many days do Melons take to grow?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "10 days"
+          },
+          {
+            "tag": "B",
+            "text": "12 days"
+          },
+          {
+            "tag": "C",
+            "text": "14 days"
+          },
+          {
+            "tag": "D",
+            "text": "8 days"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_crop_009",
+        "type": "single",
+        "question": "What is the best thing about fruit trees in the Greenhouse?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Any tree bears fruit all year"
+          },
+          {
+            "tag": "B",
+            "text": "Only Apple trees"
+          },
+          {
+            "tag": "C",
+            "text": "Only Cherry trees"
+          },
+          {
+            "tag": "D",
+            "text": "Fruit trees cannot be planted there"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_010",
+        "type": "single",
+        "question": "How often do Cranberries regrow?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "2 days"
+          },
+          {
+            "tag": "B",
+            "text": "3 days"
+          },
+          {
+            "tag": "C",
+            "text": "5 days"
+          },
+          {
+            "tag": "D",
+            "text": "7 days"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_crop_011",
+        "type": "single",
+        "question": "Which Fall crop can be harvested repeatedly?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Cranberry"
+          },
+          {
+            "tag": "B",
+            "text": "Pumpkin"
+          },
+          {
+            "tag": "C",
+            "text": "Yam"
+          },
+          {
+            "tag": "D",
+            "text": "Red Cabbage"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_012",
+        "type": "single",
+        "question": "How many days do Parsnips take to grow?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "3 days"
+          },
+          {
+            "tag": "B",
+            "text": "4 days"
+          },
+          {
+            "tag": "C",
+            "text": "5 days"
+          },
+          {
+            "tag": "D",
+            "text": "6 days"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_crop_013",
+        "type": "single",
+        "question": "Which crop can be planted in both Spring and Summer?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Hot Pepper"
+          },
+          {
+            "tag": "B",
+            "text": "Tomato"
+          },
+          {
+            "tag": "C",
+            "text": "Blueberry"
+          },
+          {
+            "tag": "D",
+            "text": "Hops"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_crop_014",
+        "type": "single",
+        "question": "What crops can you grow in Winter?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Winter Wild Seeds"
+          },
+          {
+            "tag": "B",
+            "text": "None"
+          },
+          {
+            "tag": "C",
+            "text": "All crops"
+          },
+          {
+            "tag": "D",
+            "text": "Any if watered"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_015",
+        "type": "single",
+        "question": "Which crop has a chance to yield extra harvest?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Potato"
+          },
+          {
+            "tag": "B",
+            "text": "Strawberry"
+          },
+          {
+            "tag": "C",
+            "text": "Blueberry"
+          },
+          {
+            "tag": "D",
+            "text": "All of the above"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_016",
+        "type": "single",
+        "question": "How many days do Poppies take to grow?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "5 days"
+          },
+          {
+            "tag": "B",
+            "text": "7 days"
+          },
+          {
+            "tag": "C",
+            "text": "10 days"
+          },
+          {
+            "tag": "D",
+            "text": "12 days"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_crop_017",
+        "type": "single",
+        "question": "What support structure do Hops need?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fences"
+          },
+          {
+            "tag": "B",
+            "text": "Trellis/Stakes"
+          },
+          {
+            "tag": "C",
+            "text": "No support"
+          },
+          {
+            "tag": "D",
+            "text": "Trees"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_crop_018",
+        "type": "single",
+        "question": "Which fruit tree bears fruit in Fall?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Apple"
+          },
+          {
+            "tag": "B",
+            "text": "Cherry"
+          },
+          {
+            "tag": "C",
+            "text": "Peach"
+          },
+          {
+            "tag": "D",
+            "text": "Pomegranate"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_019",
+        "type": "single",
+        "question": "How many days does Red Cabbage take to grow?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "9 days"
+          },
+          {
+            "tag": "B",
+            "text": "7 days"
+          },
+          {
+            "tag": "C",
+            "text": "12 days"
+          },
+          {
+            "tag": "D",
+            "text": "6 days"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_020",
+        "type": "single",
+        "question": "How often can Coffee Beans be harvested?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Every 2 days"
+          },
+          {
+            "tag": "B",
+            "text": "Every day"
+          },
+          {
+            "tag": "C",
+            "text": "Every 3 days"
+          },
+          {
+            "tag": "D",
+            "text": "Every 4 days"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_021",
+        "type": "single",
+        "question": "Which Summer crop can grow into a giant crop?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Melon"
+          },
+          {
+            "tag": "B",
+            "text": "Hot Pepper"
+          },
+          {
+            "tag": "C",
+            "text": "Blueberry"
+          },
+          {
+            "tag": "D",
+            "text": "Tomato"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_022",
+        "type": "single",
+        "question": "How many days do Hops take to grow?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "11 days"
+          },
+          {
+            "tag": "B",
+            "text": "8 days"
+          },
+          {
+            "tag": "C",
+            "text": "14 days"
+          },
+          {
+            "tag": "D",
+            "text": "10 days"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_023",
+        "type": "single",
+        "question": "Which Fall crop can grow into a giant crop?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Pumpkin"
+          },
+          {
+            "tag": "B",
+            "text": "Cranberry"
+          },
+          {
+            "tag": "C",
+            "text": "Yam"
+          },
+          {
+            "tag": "D",
+            "text": "Bok Choy"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_024",
+        "type": "single",
+        "question": "What can Wild Seeds grow into?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Random seasonal foraged crop"
+          },
+          {
+            "tag": "B",
+            "text": "Regular crop"
+          },
+          {
+            "tag": "C",
+            "text": "Fruit tree"
+          },
+          {
+            "tag": "D",
+            "text": "Nothing"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_025",
+        "type": "single",
+        "question": "Which crop's seeds can be bought at the Egg Festival?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Strawberry"
+          },
+          {
+            "tag": "B",
+            "text": "Blueberry"
+          },
+          {
+            "tag": "C",
+            "text": "Cranberry"
+          },
+          {
+            "tag": "D",
+            "text": "Melon"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_026",
+        "type": "single",
+        "question": "Can you plant fruit trees in the Greenhouse?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Yes, they bear fruit all year"
+          },
+          {
+            "tag": "B",
+            "text": "No"
+          },
+          {
+            "tag": "C",
+            "text": "Only on the edges"
+          },
+          {
+            "tag": "D",
+            "text": "Only in pots"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_027",
+        "type": "single",
+        "question": "Which Summer crop can be harvested multiple times?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Blueberry"
+          },
+          {
+            "tag": "B",
+            "text": "Melon"
+          },
+          {
+            "tag": "C",
+            "text": "Radish"
+          },
+          {
+            "tag": "D",
+            "text": "Corn"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "animals",
+    "category_i18n": "Animals",
+    "questionList": [
+      {
+        "id": "sv_anim_001",
+        "type": "single",
+        "question": "How much gold does it cost to build a Coop?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "2000g"
+          },
+          {
+            "tag": "B",
+            "text": "3000g"
+          },
+          {
+            "tag": "C",
+            "text": "4000g"
+          },
+          {
+            "tag": "D",
+            "text": "5000g"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_anim_002",
+        "type": "single",
+        "question": "Which animal produces Truffles?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Cow"
+          },
+          {
+            "tag": "B",
+            "text": "Goat"
+          },
+          {
+            "tag": "C",
+            "text": "Pig"
+          },
+          {
+            "tag": "D",
+            "text": "Sheep"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_anim_003",
+        "type": "single",
+        "question": "Where can an Ostrich Egg be hatched?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Incubator"
+          },
+          {
+            "tag": "B",
+            "text": "Ostrich Incubator"
+          },
+          {
+            "tag": "C",
+            "text": "Heater"
+          },
+          {
+            "tag": "D",
+            "text": "Coop Incubator"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_anim_004",
+        "type": "single",
+        "question": "What special product do Ducks produce?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Duck Feather"
+          },
+          {
+            "tag": "B",
+            "text": "Duck Down"
+          },
+          {
+            "tag": "C",
+            "text": "Duck Egg"
+          },
+          {
+            "tag": "D",
+            "text": "Duck Liver"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_005",
+        "type": "single",
+        "question": "Which animal produces Goat Milk?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Cow"
+          },
+          {
+            "tag": "B",
+            "text": "Goat"
+          },
+          {
+            "tag": "C",
+            "text": "Sheep"
+          },
+          {
+            "tag": "D",
+            "text": "Ram"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_anim_006",
+        "type": "single",
+        "question": "What hatches from a Dinosaur Egg?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Dinosaur"
+          },
+          {
+            "tag": "B",
+            "text": "Void Chicken"
+          },
+          {
+            "tag": "C",
+            "text": "Golden Chicken"
+          },
+          {
+            "tag": "D",
+            "text": "Blue Chicken"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_007",
+        "type": "single",
+        "question": "In what weather will pigs not find truffles?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Rain"
+          },
+          {
+            "tag": "B",
+            "text": "Snow"
+          },
+          {
+            "tag": "C",
+            "text": "Windy"
+          },
+          {
+            "tag": "D",
+            "text": "Thunderstorm"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_008",
+        "type": "single",
+        "question": "Which animal's friendship affects product quality?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "All animals"
+          },
+          {
+            "tag": "B",
+            "text": "Chickens only"
+          },
+          {
+            "tag": "C",
+            "text": "Cows only"
+          },
+          {
+            "tag": "D",
+            "text": "Milk-producing animals"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_009",
+        "type": "single",
+        "question": "Where can Marnie's Auto-Grabber be placed?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Coops and Barns"
+          },
+          {
+            "tag": "B",
+            "text": "Coops only"
+          },
+          {
+            "tag": "C",
+            "text": "Barns only"
+          },
+          {
+            "tag": "D",
+            "text": "Anywhere outdoors"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_010",
+        "type": "single",
+        "question": "What does a Heater do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Keeps animals happy in Winter"
+          },
+          {
+            "tag": "B",
+            "text": "Speeds up animal growth"
+          },
+          {
+            "tag": "C",
+            "text": "Improves product quality"
+          },
+          {
+            "tag": "D",
+            "text": "Increases yield"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_011",
+        "type": "single",
+        "question": "What animals can live in a Coop?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Chickens, Ducks, Rabbits, Dinosaurs"
+          },
+          {
+            "tag": "B",
+            "text": "Chickens, Cows, Pigs"
+          },
+          {
+            "tag": "C",
+            "text": "Chickens only"
+          },
+          {
+            "tag": "D",
+            "text": "Chickens and Goats"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_012",
+        "type": "single",
+        "question": "Where can you get a Void Egg?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Traveling Cart or Void Chicken"
+          },
+          {
+            "tag": "B",
+            "text": "JojaMart only"
+          },
+          {
+            "tag": "C",
+            "text": "Found in the Mines"
+          },
+          {
+            "tag": "D",
+            "text": "Bundle reward"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_013",
+        "type": "single",
+        "question": "How many days between animal pregnancies?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "7 days"
+          },
+          {
+            "tag": "B",
+            "text": "3 days"
+          },
+          {
+            "tag": "C",
+            "text": "14 days"
+          },
+          {
+            "tag": "D",
+            "text": "21 days"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_014",
+        "type": "single",
+        "question": "What can an Auto-Grabber collect?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Animal products like milk and eggs"
+          },
+          {
+            "tag": "B",
+            "text": "Only eggs"
+          },
+          {
+            "tag": "C",
+            "text": "Only wool"
+          },
+          {
+            "tag": "D",
+            "text": "Crops"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_015",
+        "type": "single",
+        "question": "How does grazing outside affect animal mood?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Mood improves"
+          },
+          {
+            "tag": "B",
+            "text": "Mood worsens"
+          },
+          {
+            "tag": "C",
+            "text": "No change"
+          },
+          {
+            "tag": "D",
+            "text": "Random change"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_016",
+        "type": "single",
+        "question": "How many animals can a Deluxe Coop hold?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "12"
+          },
+          {
+            "tag": "B",
+            "text": "8"
+          },
+          {
+            "tag": "C",
+            "text": "16"
+          },
+          {
+            "tag": "D",
+            "text": "10"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_017",
+        "type": "single",
+        "question": "How many animals can a Deluxe Barn hold?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "12"
+          },
+          {
+            "tag": "B",
+            "text": "8"
+          },
+          {
+            "tag": "C",
+            "text": "16"
+          },
+          {
+            "tag": "D",
+            "text": "10"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_018",
+        "type": "single",
+        "question": "Which animal finds Truffles?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Pig"
+          },
+          {
+            "tag": "B",
+            "text": "Goat"
+          },
+          {
+            "tag": "C",
+            "text": "Cow"
+          },
+          {
+            "tag": "D",
+            "text": "Sheep"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_019",
+        "type": "single",
+        "question": "Why build fences for animals?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Keep them contained"
+          },
+          {
+            "tag": "B",
+            "text": "Make them happier"
+          },
+          {
+            "tag": "C",
+            "text": "Improve product quality"
+          },
+          {
+            "tag": "D",
+            "text": "They don't need fences"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_020",
+        "type": "single",
+        "question": "What determines animal product quality?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Friendship and mood"
+          },
+          {
+            "tag": "B",
+            "text": "Just luck"
+          },
+          {
+            "tag": "C",
+            "text": "Season"
+          },
+          {
+            "tag": "D",
+            "text": "Feed type"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_021",
+        "type": "single",
+        "question": "How is grass planted?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Use Grass Starter on any ground"
+          },
+          {
+            "tag": "B",
+            "text": "Only grows in Spring"
+          },
+          {
+            "tag": "C",
+            "text": "Buy from Robin"
+          },
+          {
+            "tag": "D",
+            "text": "Grows automatically"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_022",
+        "type": "single",
+        "question": "What can a Cheese Press turn into cheese?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Milk and Goat Milk"
+          },
+          {
+            "tag": "B",
+            "text": "Only milk"
+          },
+          {
+            "tag": "C",
+            "text": "Only goat milk"
+          },
+          {
+            "tag": "D",
+            "text": "Sheep milk"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_023",
+        "type": "single",
+        "question": "What can a Loom turn into cloth?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Wool"
+          },
+          {
+            "tag": "B",
+            "text": "Rabbit's Foot"
+          },
+          {
+            "tag": "C",
+            "text": "Animal fur"
+          },
+          {
+            "tag": "D",
+            "text": "Cotton"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_024",
+        "type": "single",
+        "question": "What two types of eggs can a Mayonnaise Machine process?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Regular egg and Dinosaur Egg"
+          },
+          {
+            "tag": "B",
+            "text": "All eggs"
+          },
+          {
+            "tag": "C",
+            "text": "Only regular eggs"
+          },
+          {
+            "tag": "D",
+            "text": "Void Egg and Dinosaur Egg"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_025",
+        "type": "single",
+        "question": "What do Rabbits sometimes drop besides wool?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Rabbit's Foot"
+          },
+          {
+            "tag": "B",
+            "text": "Diamond"
+          },
+          {
+            "tag": "C",
+            "text": "Rabbit Meat"
+          },
+          {
+            "tag": "D",
+            "text": "Feather"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_026",
+        "type": "single",
+        "question": "Which animal requires a Coop upgrade?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Ducks and Rabbits"
+          },
+          {
+            "tag": "B",
+            "text": "Only chickens"
+          },
+          {
+            "tag": "C",
+            "text": "Dinosaurs"
+          },
+          {
+            "tag": "D",
+            "text": "Void Chickens"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_027",
+        "type": "single",
+        "question": "How do you get a Blue Chicken?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Random chance after Shane's 8-heart event"
+          },
+          {
+            "tag": "B",
+            "text": "Buy from Marnie"
+          },
+          {
+            "tag": "C",
+            "text": "Hatch a blue egg"
+          },
+          {
+            "tag": "D",
+            "text": "Find in Secret Woods"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "skills",
+    "category_i18n": "Skills",
+    "questionList": [
+      {
+        "id": "sv_skill_001",
+        "type": "single",
+        "question": "How many skills are in Stardew Valley?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "3"
+          },
+          {
+            "tag": "B",
+            "text": "5"
+          },
+          {
+            "tag": "C",
+            "text": "6"
+          },
+          {
+            "tag": "D",
+            "text": "7"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_skill_002",
+        "type": "single",
+        "question": "What professions can you choose at Mining level 5?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Miner or Geologist"
+          },
+          {
+            "tag": "B",
+            "text": "Blacksmith or Prospector"
+          },
+          {
+            "tag": "C",
+            "text": "Excavator or Gemologist"
+          },
+          {
+            "tag": "D",
+            "text": "Miner or Smelter"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_003",
+        "type": "single",
+        "question": "What branches from Fisher at Fishing level 10?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Pirate or Crabber"
+          },
+          {
+            "tag": "B",
+            "text": "Fisher or Angler"
+          },
+          {
+            "tag": "C",
+            "text": "Fisher or Trapper"
+          },
+          {
+            "tag": "D",
+            "text": "Angler or Bait Master"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_skill_004",
+        "type": "single",
+        "question": "What professions at Farming level 5?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Tiller or Rancher"
+          },
+          {
+            "tag": "B",
+            "text": "Cultivator or Breeder"
+          },
+          {
+            "tag": "C",
+            "text": "Gatherer and Tiller"
+          },
+          {
+            "tag": "D",
+            "text": "Agriculturist and Animalist"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_005",
+        "type": "single",
+        "question": "What does the Botanist profession do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Foraged items are always Gold quality"
+          },
+          {
+            "tag": "B",
+            "text": "Foraged items are always Iridium quality"
+          },
+          {
+            "tag": "C",
+            "text": "Double foraged items"
+          },
+          {
+            "tag": "D",
+            "text": "No damage while foraging"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_skill_006",
+        "type": "single",
+        "question": "What professions can you choose at Combat level 10?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Defender or Gladiator"
+          },
+          {
+            "tag": "B",
+            "text": "Scout or Acrobat"
+          },
+          {
+            "tag": "C",
+            "text": "Fighter or Mage"
+          },
+          {
+            "tag": "D",
+            "text": "Knight or Archer"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_skill_007",
+        "type": "single",
+        "question": "Which is higher, Gatherer or Botanist?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Botanist"
+          },
+          {
+            "tag": "B",
+            "text": "Gatherer"
+          },
+          {
+            "tag": "C",
+            "text": "They are the same branch"
+          },
+          {
+            "tag": "D",
+            "text": "Same level"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_008",
+        "type": "single",
+        "question": "What does the Agriculturist profession do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Crops grow 10% faster"
+          },
+          {
+            "tag": "B",
+            "text": "Crop value +20%"
+          },
+          {
+            "tag": "C",
+            "text": "Wider watering range"
+          },
+          {
+            "tag": "D",
+            "text": "Half-price seeds"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_009",
+        "type": "single",
+        "question": "What does each Fishing level increase?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fishing bar size"
+          },
+          {
+            "tag": "B",
+            "text": "Fish value"
+          },
+          {
+            "tag": "C",
+            "text": "Fish weight"
+          },
+          {
+            "tag": "D",
+            "text": "All of the above"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_skill_010",
+        "type": "single",
+        "question": "What does the Prospector profession do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Double chance to find coal"
+          },
+          {
+            "tag": "B",
+            "text": "Ore sells for 50% more"
+          },
+          {
+            "tag": "C",
+            "text": "Gems sell for 30% more"
+          },
+          {
+            "tag": "D",
+            "text": "Faster mining"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_011",
+        "type": "single",
+        "question": "What does the Farm Tiller profession do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Crops worth 10% more"
+          },
+          {
+            "tag": "B",
+            "text": "Crops grow twice as fast"
+          },
+          {
+            "tag": "C",
+            "text": "Seed prices halved"
+          },
+          {
+            "tag": "D",
+            "text": "Watering range increased"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_012",
+        "type": "single",
+        "question": "What does the Blacksmith profession do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Metal bars worth 50% more"
+          },
+          {
+            "tag": "B",
+            "text": "Double ore"
+          },
+          {
+            "tag": "C",
+            "text": "Faster smelting"
+          },
+          {
+            "tag": "D",
+            "text": "Half tool upgrade cost"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_013",
+        "type": "single",
+        "question": "What does the Lumberjack profession do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Every tree can drop Hardwood"
+          },
+          {
+            "tag": "B",
+            "text": "Double chopping speed"
+          },
+          {
+            "tag": "C",
+            "text": "Get more wood"
+          },
+          {
+            "tag": "D",
+            "text": "Trees grow faster"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_014",
+        "type": "single",
+        "question": "What does the Scout profession do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Critical hit rate +50%"
+          },
+          {
+            "tag": "B",
+            "text": "Attack damage up"
+          },
+          {
+            "tag": "C",
+            "text": "Move speed up"
+          },
+          {
+            "tag": "D",
+            "text": "HP regen"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_015",
+        "type": "single",
+        "question": "What does the Fisher profession do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fish sell for 25% more"
+          },
+          {
+            "tag": "B",
+            "text": "Fishing bar bigger"
+          },
+          {
+            "tag": "C",
+            "text": "Fish bite faster"
+          },
+          {
+            "tag": "D",
+            "text": "More crab pot output"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_016",
+        "type": "single",
+        "question": "What branches from Agriculturist at Farming 10?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Agriculturist has no level 10 branch"
+          },
+          {
+            "tag": "B",
+            "text": "Artisan"
+          },
+          {
+            "tag": "C",
+            "text": "Tiller"
+          },
+          {
+            "tag": "D",
+            "text": "Rancher"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_017",
+        "type": "single",
+        "question": "Does each Fishing level reduce fish struggle?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Yes, the fishing zone reduces"
+          },
+          {
+            "tag": "B",
+            "text": "No, no effect"
+          },
+          {
+            "tag": "C",
+            "text": "Only increases bar size"
+          },
+          {
+            "tag": "D",
+            "text": "Only increases fish price"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_018",
+        "type": "single",
+        "question": "Do fishing buff foods stack?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "No, only the highest counts"
+          },
+          {
+            "tag": "B",
+            "text": "Yes, they stack"
+          },
+          {
+            "tag": "C",
+            "text": "Only stack with equipment"
+          },
+          {
+            "tag": "D",
+            "text": "Can eat multiple, time stacks"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_019",
+        "type": "single",
+        "question": "What does the Brute profession do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Damage +15%"
+          },
+          {
+            "tag": "B",
+            "text": "Double HP"
+          },
+          {
+            "tag": "C",
+            "text": "Defense up"
+          },
+          {
+            "tag": "D",
+            "text": "Double crit damage"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_020",
+        "type": "single",
+        "question": "What does the Geologist profession do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Gems may appear in pairs"
+          },
+          {
+            "tag": "B",
+            "text": "Gems sell for double"
+          },
+          {
+            "tag": "C",
+            "text": "More geodes"
+          },
+          {
+            "tag": "D",
+            "text": "Faster mining"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_021",
+        "type": "single",
+        "question": "Can you change professions at level 10?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Yes, 10000g at the dog statue"
+          },
+          {
+            "tag": "B",
+            "text": "No"
+          },
+          {
+            "tag": "C",
+            "text": "Only once"
+          },
+          {
+            "tag": "D",
+            "text": "Need to relearn skill"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_022",
+        "type": "single",
+        "question": "What does the Tracker profession do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Shows foraged item locations on screen"
+          },
+          {
+            "tag": "B",
+            "text": "Shows treasure chests"
+          },
+          {
+            "tag": "C",
+            "text": "Shows fish locations"
+          },
+          {
+            "tag": "D",
+            "text": "Shows monster locations"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_023",
+        "type": "single",
+        "question": "What does the Defender profession do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "HP +25"
+          },
+          {
+            "tag": "B",
+            "text": "Double defense"
+          },
+          {
+            "tag": "C",
+            "text": "Block chance up"
+          },
+          {
+            "tag": "D",
+            "text": "Half damage taken"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_024",
+        "type": "single",
+        "question": "What does Farming skill affect?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Crop value and hoe use"
+          },
+          {
+            "tag": "B",
+            "text": "Only watering can"
+          },
+          {
+            "tag": "C",
+            "text": "Animal product quality"
+          },
+          {
+            "tag": "D",
+            "text": "Seed prices"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_025",
+        "type": "single",
+        "question": "What branches from Angler at Fishing 10?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Pirate and Luremaster"
+          },
+          {
+            "tag": "B",
+            "text": "Fisher and Angler"
+          },
+          {
+            "tag": "C",
+            "text": "Crabber and Angler"
+          },
+          {
+            "tag": "D",
+            "text": "No branches"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_026",
+        "type": "single",
+        "question": "What is Botanist's level 5 prerequisite?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Gatherer"
+          },
+          {
+            "tag": "B",
+            "text": "Mushroom gatherer"
+          },
+          {
+            "tag": "C",
+            "text": "Tracker"
+          },
+          {
+            "tag": "D",
+            "text": "Lumberjack"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_027",
+        "type": "single",
+        "question": "What does Mining skill affect?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Pickaxe efficiency and gem discovery"
+          },
+          {
+            "tag": "B",
+            "text": "Only bomb damage"
+          },
+          {
+            "tag": "C",
+            "text": "Ore sell price"
+          },
+          {
+            "tag": "D",
+            "text": "Mining speed"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "festivals",
+    "category_i18n": "Festivals",
+    "questionList": [
+      {
+        "id": "sv_fest_001",
+        "type": "single",
+        "question": "What day of Spring is the Egg Festival?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Day 9"
+          },
+          {
+            "tag": "B",
+            "text": "Day 13"
+          },
+          {
+            "tag": "C",
+            "text": "Day 15"
+          },
+          {
+            "tag": "D",
+            "text": "Day 21"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_fest_002",
+        "type": "single",
+        "question": "What season is the Flower Dance?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Spring"
+          },
+          {
+            "tag": "B",
+            "text": "Summer"
+          },
+          {
+            "tag": "C",
+            "text": "Fall"
+          },
+          {
+            "tag": "D",
+            "text": "Winter"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_003",
+        "type": "single",
+        "question": "What minigame is at the Stardew Valley Fair?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fishing contest"
+          },
+          {
+            "tag": "B",
+            "text": "Spin wheel game"
+          },
+          {
+            "tag": "C",
+            "text": "Archery"
+          },
+          {
+            "tag": "D",
+            "text": "Racing"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_fest_004",
+        "type": "single",
+        "question": "What season is the Festival of Ice?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Spring"
+          },
+          {
+            "tag": "B",
+            "text": "Summer"
+          },
+          {
+            "tag": "C",
+            "text": "Fall"
+          },
+          {
+            "tag": "D",
+            "text": "Winter"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_fest_005",
+        "type": "single",
+        "question": "What is the main activity at Spirit's Eve?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Maze exploration"
+          },
+          {
+            "tag": "B",
+            "text": "Fishing derby"
+          },
+          {
+            "tag": "C",
+            "text": "Cooking contest"
+          },
+          {
+            "tag": "D",
+            "text": "Decoration contest"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_006",
+        "type": "single",
+        "question": "What day of Summer is the Luau?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Summer 11"
+          },
+          {
+            "tag": "B",
+            "text": "Summer 15"
+          },
+          {
+            "tag": "C",
+            "text": "Summer 20"
+          },
+          {
+            "tag": "D",
+            "text": "Summer 21"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_007",
+        "type": "single",
+        "question": "What day of Summer is the Dance of the Moonlight Jellies?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Summer 20"
+          },
+          {
+            "tag": "B",
+            "text": "Summer 25"
+          },
+          {
+            "tag": "C",
+            "text": "Summer 28"
+          },
+          {
+            "tag": "D",
+            "text": "Summer 15"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_fest_008",
+        "type": "single",
+        "question": "What season is the Stardew Valley Fair?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Spring"
+          },
+          {
+            "tag": "B",
+            "text": "Summer"
+          },
+          {
+            "tag": "C",
+            "text": "Fall"
+          },
+          {
+            "tag": "D",
+            "text": "Winter"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_fest_009",
+        "type": "single",
+        "question": "What day of Fall is Spirit's Eve?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fall 25"
+          },
+          {
+            "tag": "B",
+            "text": "Fall 27"
+          },
+          {
+            "tag": "C",
+            "text": "Fall 21"
+          },
+          {
+            "tag": "D",
+            "text": "Fall 15"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_fest_010",
+        "type": "single",
+        "question": "What is the goal of the Ice Festival competition?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Catch at least 5 fish"
+          },
+          {
+            "tag": "B",
+            "text": "Catch the most fish"
+          },
+          {
+            "tag": "C",
+            "text": "Catch the heaviest fish"
+          },
+          {
+            "tag": "D",
+            "text": "Catch a blue mystery fish"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_011",
+        "type": "single",
+        "question": "What season is the Night Market?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Winter"
+          },
+          {
+            "tag": "B",
+            "text": "Fall"
+          },
+          {
+            "tag": "C",
+            "text": "Summer"
+          },
+          {
+            "tag": "D",
+            "text": "Spring"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_012",
+        "type": "single",
+        "question": "When is the Stardew Valley Dumpling Festival?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "This festival doesn't exist"
+          },
+          {
+            "tag": "B",
+            "text": "Winter 7"
+          },
+          {
+            "tag": "C",
+            "text": "Summer 11"
+          },
+          {
+            "tag": "D",
+            "text": "Spring 5"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_013",
+        "type": "single",
+        "question": "What can you do at Spirit's Eve?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Navigate a maze for a reward"
+          },
+          {
+            "tag": "B",
+            "text": "Fishing contest"
+          },
+          {
+            "tag": "C",
+            "text": "Cooking contest"
+          },
+          {
+            "tag": "D",
+            "text": "Dance contest"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_014",
+        "type": "single",
+        "question": "How many eggs in the Egg Festival hunt?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Find 9 eggs"
+          },
+          {
+            "tag": "B",
+            "text": "Find 12 eggs"
+          },
+          {
+            "tag": "C",
+            "text": "Find 15 eggs"
+          },
+          {
+            "tag": "D",
+            "text": "Find 7 eggs"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_015",
+        "type": "single",
+        "question": "What heart level needed for a Flower Dance partner?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "4 hearts"
+          },
+          {
+            "tag": "B",
+            "text": "2 hearts"
+          },
+          {
+            "tag": "C",
+            "text": "6 hearts"
+          },
+          {
+            "tag": "D",
+            "text": "8 hearts"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_016",
+        "type": "single",
+        "question": "What can you do on the Night Market submarine?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fish for deep-sea fish"
+          },
+          {
+            "tag": "B",
+            "text": "Buy goods"
+          },
+          {
+            "tag": "C",
+            "text": "Visit aquarium"
+          },
+          {
+            "tag": "D",
+            "text": "Eat"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_017",
+        "type": "single",
+        "question": "What's the win rate of the Fair's spin wheel?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Green ~75%, Orange ~25%"
+          },
+          {
+            "tag": "B",
+            "text": "Each 50%"
+          },
+          {
+            "tag": "C",
+            "text": "Completely random"
+          },
+          {
+            "tag": "D",
+            "text": "Depends on luck"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_018",
+        "type": "single",
+        "question": "What format is the Ice Festival competition?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fishing contest: most or heaviest"
+          },
+          {
+            "tag": "B",
+            "text": "Ice sculpting"
+          },
+          {
+            "tag": "C",
+            "text": "Skiing race"
+          },
+          {
+            "tag": "D",
+            "text": "Ice hockey"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_019",
+        "type": "single",
+        "question": "How do you get Star Tokens at the Fair?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Spin wheel and fishing game"
+          },
+          {
+            "tag": "B",
+            "text": "Buy directly"
+          },
+          {
+            "tag": "C",
+            "text": "Give to Lewis"
+          },
+          {
+            "tag": "D",
+            "text": "Talk to NPCs"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_020",
+        "type": "single",
+        "question": "Where is the Night Market held?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "The Beach pier"
+          },
+          {
+            "tag": "B",
+            "text": "Pelican Town square"
+          },
+          {
+            "tag": "C",
+            "text": "Cindersap Forest"
+          },
+          {
+            "tag": "D",
+            "text": "Mountains"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_021",
+        "type": "single",
+        "question": "What festival is on Winter 8?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Festival of Ice"
+          },
+          {
+            "tag": "B",
+            "text": "Feast of the Winter Star"
+          },
+          {
+            "tag": "C",
+            "text": "Night Market"
+          },
+          {
+            "tag": "D",
+            "text": "No festival"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_022",
+        "type": "single",
+        "question": "Who is the cook at the Luau?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "The Governor"
+          },
+          {
+            "tag": "B",
+            "text": "Lewis"
+          },
+          {
+            "tag": "C",
+            "text": "Gus"
+          },
+          {
+            "tag": "D",
+            "text": "Random villager"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_023",
+        "type": "single",
+        "question": "When is the Desert Festival?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Spring 15-17"
+          },
+          {
+            "tag": "B",
+            "text": "Summer 20-22"
+          },
+          {
+            "tag": "C",
+            "text": "Fall 10-12"
+          },
+          {
+            "tag": "D",
+            "text": "Winter 5-7"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_024",
+        "type": "single",
+        "question": "What festival can be attended on Ginger Island?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "No independent festival"
+          },
+          {
+            "tag": "B",
+            "text": "Ginger Harvest Festival"
+          },
+          {
+            "tag": "C",
+            "text": "Beach Party"
+          },
+          {
+            "tag": "D",
+            "text": "Luau 2"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_025",
+        "type": "single",
+        "question": "Where does the Dance of the Moonlight Jellies take place?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "The Beach"
+          },
+          {
+            "tag": "B",
+            "text": "Cindersap Forest"
+          },
+          {
+            "tag": "C",
+            "text": "Mountain Lake"
+          },
+          {
+            "tag": "D",
+            "text": "Bus Stop"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_026",
+        "type": "single",
+        "question": "How many festivals are in Fall?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "2 (Fair and Spirit's Eve)"
+          },
+          {
+            "tag": "B",
+            "text": "1"
+          },
+          {
+            "tag": "C",
+            "text": "3"
+          },
+          {
+            "tag": "D",
+            "text": "4"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_027",
+        "type": "single",
+        "question": "Do shops operate on festival days?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Most shops are closed"
+          },
+          {
+            "tag": "B",
+            "text": "All shops open"
+          },
+          {
+            "tag": "C",
+            "text": "Only Stardrop Saloon open"
+          },
+          {
+            "tag": "D",
+            "text": "Uncertain"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "cooking",
+    "category_i18n": "Cooking",
+    "questionList": [
+      {
+        "id": "sv_cook_001",
+        "type": "single",
+        "question": "What ingredients for Bruschetta?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Bread, Tomato"
+          },
+          {
+            "tag": "B",
+            "text": "Bread, Cheese"
+          },
+          {
+            "tag": "C",
+            "text": "Bread, Garlic"
+          },
+          {
+            "tag": "D",
+            "text": "Bread, Olive Oil"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_002",
+        "type": "single",
+        "question": "What ingredients for Lucky Lunch?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Sea Cucumber, Tortilla, Blue Jazz"
+          },
+          {
+            "tag": "B",
+            "text": "Fish, Bread, Salad"
+          },
+          {
+            "tag": "C",
+            "text": "Shrimp, Rice, Seaweed"
+          },
+          {
+            "tag": "D",
+            "text": "Salmon, Egg, Tomato"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_003",
+        "type": "single",
+        "question": "What building is needed for cooking?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Kitchen (Farmhouse upgrade)"
+          },
+          {
+            "tag": "B",
+            "text": "Barn"
+          },
+          {
+            "tag": "C",
+            "text": "Coop"
+          },
+          {
+            "tag": "D",
+            "text": "Workshop"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_004",
+        "type": "single",
+        "question": "What ingredients for Crab Cakes?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Crab, Wheat Flour, Egg, Oil"
+          },
+          {
+            "tag": "B",
+            "text": "Lobster, Butter, Lemon"
+          },
+          {
+            "tag": "C",
+            "text": "Shrimp, Bread, Cheese"
+          },
+          {
+            "tag": "D",
+            "text": "Clam, Rice, Seaweed"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_005",
+        "type": "single",
+        "question": "Which dish increases max energy?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Salmon Dinner"
+          },
+          {
+            "tag": "B",
+            "text": "Cheese"
+          },
+          {
+            "tag": "C",
+            "text": "Eggplant Parmesan"
+          },
+          {
+            "tag": "D",
+            "text": "Mashed Potatoes"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_cook_006",
+        "type": "single",
+        "question": "What ingredients for Fish Taco?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Tuna, Tortilla, Red Cabbage"
+          },
+          {
+            "tag": "B",
+            "text": "Salmon, Bread, Lettuce"
+          },
+          {
+            "tag": "C",
+            "text": "Anchovy, Tortilla, Tomato"
+          },
+          {
+            "tag": "D",
+            "text": "Any fish, Flour, Cheese"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_007",
+        "type": "single",
+        "question": "Which dish greatly increases max energy?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Eggplant Parmesan"
+          },
+          {
+            "tag": "B",
+            "text": "Fried Eel"
+          },
+          {
+            "tag": "C",
+            "text": "Salmon Dinner"
+          },
+          {
+            "tag": "D",
+            "text": "Vegetable Medley"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_cook_008",
+        "type": "single",
+        "question": "What ingredients for Blueberry Tart?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Blueberry, Wheat Flour, Sugar, Egg"
+          },
+          {
+            "tag": "B",
+            "text": "Blueberry, Milk, Butter"
+          },
+          {
+            "tag": "C",
+            "text": "Blueberry, Dough, Cheese"
+          },
+          {
+            "tag": "D",
+            "text": "Blueberry, Cream, Chocolate"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_009",
+        "type": "single",
+        "question": "What ingredients for Seafoam Pudding?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Flounder, Midnight Carp, Squid Ink"
+          },
+          {
+            "tag": "B",
+            "text": "Shrimp, Crab, Clam"
+          },
+          {
+            "tag": "C",
+            "text": "Tuna, Rice, Seaweed"
+          },
+          {
+            "tag": "D",
+            "text": "Lobster, Butter, Lemon"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_010",
+        "type": "single",
+        "question": "What does Triple Shot Espresso do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Greatly increases speed"
+          },
+          {
+            "tag": "B",
+            "text": "Increases attack"
+          },
+          {
+            "tag": "C",
+            "text": "Increases defense"
+          },
+          {
+            "tag": "D",
+            "text": "Increases luck"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_011",
+        "type": "single",
+        "question": "What ingredients for Eggplant Parmesan?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Eggplant, Tomato"
+          },
+          {
+            "tag": "B",
+            "text": "Eggplant, Cheese, Tomato"
+          },
+          {
+            "tag": "C",
+            "text": "Eggplant, Breadcrumbs"
+          },
+          {
+            "tag": "D",
+            "text": "Eggplant, Egg, Cheese"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_012",
+        "type": "single",
+        "question": "What ingredients for Rice Pudding?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Milk, Sugar, Rice"
+          },
+          {
+            "tag": "B",
+            "text": "Rice, Egg"
+          },
+          {
+            "tag": "C",
+            "text": "Milk, Rice"
+          },
+          {
+            "tag": "D",
+            "text": "Sugar, Rice, Butter"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_013",
+        "type": "single",
+        "question": "What ingredients for Vegetable Medley?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Tomato, Beet"
+          },
+          {
+            "tag": "B",
+            "text": "Carrot, Potato"
+          },
+          {
+            "tag": "C",
+            "text": "Kale, Tomato"
+          },
+          {
+            "tag": "D",
+            "text": "Parsnip, Kale"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_014",
+        "type": "single",
+        "question": "What buffs does the Complete Breakfast give?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Max energy and energy regen"
+          },
+          {
+            "tag": "B",
+            "text": "Attack"
+          },
+          {
+            "tag": "C",
+            "text": "Defense"
+          },
+          {
+            "tag": "D",
+            "text": "Speed"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_015",
+        "type": "single",
+        "question": "What ingredients for Cranberry Candy?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Cranberries, Apple, Sugar"
+          },
+          {
+            "tag": "B",
+            "text": "Cranberries, Sugar"
+          },
+          {
+            "tag": "C",
+            "text": "Cranberries, Honey"
+          },
+          {
+            "tag": "D",
+            "text": "Cranberries, Chocolate"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_016",
+        "type": "single",
+        "question": "What ingredients for Fried Calamari?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Squid, Wheat Flour, Oil"
+          },
+          {
+            "tag": "B",
+            "text": "Squid, Egg"
+          },
+          {
+            "tag": "C",
+            "text": "Squid, Breadcrumbs"
+          },
+          {
+            "tag": "D",
+            "text": "Squid, Lemon"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_017",
+        "type": "single",
+        "question": "What ingredients for Hashbrowns?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Potato, Oil"
+          },
+          {
+            "tag": "B",
+            "text": "Potato, Butter"
+          },
+          {
+            "tag": "C",
+            "text": "Potato, Egg"
+          },
+          {
+            "tag": "D",
+            "text": "Potato, Cheese"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_018",
+        "type": "single",
+        "question": "Which dish restores the most energy?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Eggplant Parmesan"
+          },
+          {
+            "tag": "B",
+            "text": "Salad"
+          },
+          {
+            "tag": "C",
+            "text": "Bread"
+          },
+          {
+            "tag": "D",
+            "text": "Parsnip Soup"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_019",
+        "type": "single",
+        "question": "What ingredients for Coleslaw?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Red Cabbage, Mayonnaise"
+          },
+          {
+            "tag": "B",
+            "text": "Cabbage, Vinegar"
+          },
+          {
+            "tag": "C",
+            "text": "Cabbage, Carrot"
+          },
+          {
+            "tag": "D",
+            "text": "Cabbage, Salt"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_020",
+        "type": "single",
+        "question": "What building is needed for cooking?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Farmhouse upgrade for kitchen"
+          },
+          {
+            "tag": "B",
+            "text": "Campfire"
+          },
+          {
+            "tag": "C",
+            "text": "Anywhere"
+          },
+          {
+            "tag": "D",
+            "text": "Community Center kitchen"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_021",
+        "type": "single",
+        "question": "What ingredients for Chestnut Risotto?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Chestnut, Rice, Oil, Spices"
+          },
+          {
+            "tag": "B",
+            "text": "Chestnut, Cream"
+          },
+          {
+            "tag": "C",
+            "text": "Chestnut, Milk"
+          },
+          {
+            "tag": "D",
+            "text": "Chestnut, Mushroom"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_022",
+        "type": "single",
+        "question": "What ingredients for Salmon Dinner?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Salmon, Amaranth, Kale"
+          },
+          {
+            "tag": "B",
+            "text": "Salmon, Potato"
+          },
+          {
+            "tag": "C",
+            "text": "Salmon, Rice"
+          },
+          {
+            "tag": "D",
+            "text": "Salmon, Bread"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_023",
+        "type": "single",
+        "question": "Which foods boost Fishing skill?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fish Taco, Lobster Bisque, Seafoam Pudding"
+          },
+          {
+            "tag": "B",
+            "text": "Only Fish Taco"
+          },
+          {
+            "tag": "C",
+            "text": "Salad and Bread"
+          },
+          {
+            "tag": "D",
+            "text": "Lucky Lunch"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_024",
+        "type": "single",
+        "question": "What does Triple Shot Espresso do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Greatly increases speed"
+          },
+          {
+            "tag": "B",
+            "text": "Restores lots of energy"
+          },
+          {
+            "tag": "C",
+            "text": "Increases attack"
+          },
+          {
+            "tag": "D",
+            "text": "Increases luck"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_025",
+        "type": "single",
+        "question": "Can you batch-cook recipes?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "One at a time"
+          },
+          {
+            "tag": "B",
+            "text": "Yes, multiple at once"
+          },
+          {
+            "tag": "C",
+            "text": "Depends on recipe"
+          },
+          {
+            "tag": "D",
+            "text": "Need special tool"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_026",
+        "type": "single",
+        "question": "What ingredients for Ginger Ale?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Ginger, Sugar"
+          },
+          {
+            "tag": "B",
+            "text": "Ginger, Lemon"
+          },
+          {
+            "tag": "C",
+            "text": "Ginger, Honey"
+          },
+          {
+            "tag": "D",
+            "text": "Ginger juice, Soda"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_027",
+        "type": "single",
+        "question": "What ingredients for Gems soup?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "This dish doesn't exist"
+          },
+          {
+            "tag": "B",
+            "text": "Diamond and Milk"
+          },
+          {
+            "tag": "C",
+            "text": "Ruby and Sugar"
+          },
+          {
+            "tag": "D",
+            "text": "Jade and Water"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "fishing",
+    "category_i18n": "Fishing",
+    "questionList": [
+      {
+        "id": "sv_fish_001",
+        "type": "single",
+        "question": "What fish can be caught in the Spring River?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Sardine"
+          },
+          {
+            "tag": "B",
+            "text": "Anchovy"
+          },
+          {
+            "tag": "C",
+            "text": "Carp"
+          },
+          {
+            "tag": "D",
+            "text": "Walleye"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_fish_002",
+        "type": "single",
+        "question": "Where can the Legend be caught?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Mountain Lake"
+          },
+          {
+            "tag": "B",
+            "text": "River"
+          },
+          {
+            "tag": "C",
+            "text": "Ocean"
+          },
+          {
+            "tag": "D",
+            "text": "Secret Woods pond"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_003",
+        "type": "single",
+        "question": "What weather is best for Catfish?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Sunny"
+          },
+          {
+            "tag": "B",
+            "text": "Rainy"
+          },
+          {
+            "tag": "C",
+            "text": "Snowy"
+          },
+          {
+            "tag": "D",
+            "text": "Any weather"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_fish_004",
+        "type": "single",
+        "question": "Where does Willy sell fishing supplies?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fish Shop (Beach)"
+          },
+          {
+            "tag": "B",
+            "text": "General Store"
+          },
+          {
+            "tag": "C",
+            "text": "Blacksmith"
+          },
+          {
+            "tag": "D",
+            "text": "Carpenter"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_005",
+        "type": "single",
+        "question": "Which fish can be caught in the Summer Ocean?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Red Snapper"
+          },
+          {
+            "tag": "B",
+            "text": "Rainbow Trout"
+          },
+          {
+            "tag": "C",
+            "text": "Largemouth Bass"
+          },
+          {
+            "tag": "D",
+            "text": "Pike"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_006",
+        "type": "single",
+        "question": "What fish can be caught in Spring rain in the River?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Catfish"
+          },
+          {
+            "tag": "B",
+            "text": "Sunfish"
+          },
+          {
+            "tag": "C",
+            "text": "Smallmouth Bass"
+          },
+          {
+            "tag": "D",
+            "text": "Rainbow Trout"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_007",
+        "type": "single",
+        "question": "What does the Treasure Hunter tackle do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Increases treasure chest chance"
+          },
+          {
+            "tag": "B",
+            "text": "Attracts metal fish"
+          },
+          {
+            "tag": "C",
+            "text": "Bait never depletes"
+          },
+          {
+            "tag": "D",
+            "text": "Increases bar size"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_008",
+        "type": "single",
+        "question": "What season(s) can Flounder be caught?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Spring and Summer"
+          },
+          {
+            "tag": "B",
+            "text": "Summer and Fall"
+          },
+          {
+            "tag": "C",
+            "text": "Spring"
+          },
+          {
+            "tag": "D",
+            "text": "All seasons"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_009",
+        "type": "single",
+        "question": "What season at night can Squid be caught?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Winter"
+          },
+          {
+            "tag": "B",
+            "text": "Summer"
+          },
+          {
+            "tag": "C",
+            "text": "Fall"
+          },
+          {
+            "tag": "D",
+            "text": "Spring"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_010",
+        "type": "single",
+        "question": "Which fish can be caught in Mine water any season?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Stonefish"
+          },
+          {
+            "tag": "B",
+            "text": "Ghostfish"
+          },
+          {
+            "tag": "C",
+            "text": "Ice Pip"
+          },
+          {
+            "tag": "D",
+            "text": "Lava Eel"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_fish_011",
+        "type": "single",
+        "question": "Where can Legend II be caught?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Ginger Island summit pond"
+          },
+          {
+            "tag": "B",
+            "text": "Stardew Mountain Lake"
+          },
+          {
+            "tag": "C",
+            "text": "Secret Woods"
+          },
+          {
+            "tag": "D",
+            "text": "Mine floor 40"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_012",
+        "type": "single",
+        "question": "What season(s) can Tiger Trout be caught?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fall and Winter"
+          },
+          {
+            "tag": "B",
+            "text": "Spring and Summer"
+          },
+          {
+            "tag": "C",
+            "text": "All seasons"
+          },
+          {
+            "tag": "D",
+            "text": "Fall only"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_013",
+        "type": "single",
+        "question": "Where can Sandfish be caught?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Desert pond"
+          },
+          {
+            "tag": "B",
+            "text": "Ocean"
+          },
+          {
+            "tag": "C",
+            "text": "River"
+          },
+          {
+            "tag": "D",
+            "text": "Mountain Lake"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_014",
+        "type": "single",
+        "question": "What season(s) can Sea Cucumber be caught?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fall and Winter"
+          },
+          {
+            "tag": "B",
+            "text": "Spring and Summer"
+          },
+          {
+            "tag": "C",
+            "text": "All seasons"
+          },
+          {
+            "tag": "D",
+            "text": "Summer"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_015",
+        "type": "single",
+        "question": "What Fishing level is needed to catch Octopus?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fishing level 5"
+          },
+          {
+            "tag": "B",
+            "text": "Fishing level 3"
+          },
+          {
+            "tag": "C",
+            "text": "Fishing level 8"
+          },
+          {
+            "tag": "D",
+            "text": "None"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_016",
+        "type": "single",
+        "question": "In which season can the Crimsonfish be caught?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Summer"
+          },
+          {
+            "tag": "B",
+            "text": "Spring"
+          },
+          {
+            "tag": "C",
+            "text": "Fall"
+          },
+          {
+            "tag": "D",
+            "text": "Winter"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_017",
+        "type": "single",
+        "question": "What special feature does the Iridium Rod have?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Can use both bait and tackle"
+          },
+          {
+            "tag": "B",
+            "text": "Biggest fishing bar"
+          },
+          {
+            "tag": "C",
+            "text": "Auto-fish"
+          },
+          {
+            "tag": "D",
+            "text": "Fish never escape"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_018",
+        "type": "single",
+        "question": "What materials are needed to craft a Crab Pot?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Wood and Iron Bar"
+          },
+          {
+            "tag": "B",
+            "text": "Wood and Copper Bar"
+          },
+          {
+            "tag": "C",
+            "text": "Stone and Wood"
+          },
+          {
+            "tag": "D",
+            "text": "Fiber and Wood"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_019",
+        "type": "single",
+        "question": "What type of water is Ginger Island Beach?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Ocean"
+          },
+          {
+            "tag": "B",
+            "text": "Freshwater"
+          },
+          {
+            "tag": "C",
+            "text": "Brackish"
+          },
+          {
+            "tag": "D",
+            "text": "Special water"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_020",
+        "type": "single",
+        "question": "Where can the Mutant Carp be caught?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "The Sewers"
+          },
+          {
+            "tag": "B",
+            "text": "River"
+          },
+          {
+            "tag": "C",
+            "text": "Secret Woods"
+          },
+          {
+            "tag": "D",
+            "text": "Mines"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_021",
+        "type": "single",
+        "question": "What does the Trap Bobber tackle do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fish escape slower"
+          },
+          {
+            "tag": "B",
+            "text": "Increases bar size"
+          },
+          {
+            "tag": "C",
+            "text": "Attracts rare fish"
+          },
+          {
+            "tag": "D",
+            "text": "Increases fish value"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_022",
+        "type": "single",
+        "question": "What effect does Seafoam Pudding have?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Greatly boosts Fishing level"
+          },
+          {
+            "tag": "B",
+            "text": "Increases bar size"
+          },
+          {
+            "tag": "C",
+            "text": "Fish bite faster"
+          },
+          {
+            "tag": "D",
+            "text": "Increases treasure chance"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_023",
+        "type": "single",
+        "question": "What is needed to fish in the Desert?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fishing level 4 at Desert pond"
+          },
+          {
+            "tag": "B",
+            "text": "Any level works"
+          },
+          {
+            "tag": "C",
+            "text": "Need special rod"
+          },
+          {
+            "tag": "D",
+            "text": "Need bait"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_024",
+        "type": "single",
+        "question": "What can you get from Fishing Treasure Chests?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Artifacts, minerals, rings, items"
+          },
+          {
+            "tag": "B",
+            "text": "Only gold"
+          },
+          {
+            "tag": "C",
+            "text": "Only fish"
+          },
+          {
+            "tag": "D",
+            "text": "Only trash"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_025",
+        "type": "single",
+        "question": "What special fish can be caught in the Night Market submarine?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Midnight Squid, Ghostfish, Lava Eel"
+          },
+          {
+            "tag": "B",
+            "text": "Only normal fish"
+          },
+          {
+            "tag": "C",
+            "text": "Legendary fish"
+          },
+          {
+            "tag": "D",
+            "text": "Can't fish there"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_026",
+        "type": "single",
+        "question": "What gift does Willy love most?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Any fish or crab"
+          },
+          {
+            "tag": "B",
+            "text": "Beer"
+          },
+          {
+            "tag": "C",
+            "text": "Coffee"
+          },
+          {
+            "tag": "D",
+            "text": "Diamond"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_027",
+        "type": "single",
+        "question": "Are legendary fish catch-limited?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Once per save file"
+          },
+          {
+            "tag": "B",
+            "text": "No limit"
+          },
+          {
+            "tag": "C",
+            "text": "Once per day"
+          },
+          {
+            "tag": "D",
+            "text": "Once per season"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "mining",
+    "category_i18n": "Mining",
+    "questionList": [
+      {
+        "id": "sv_mine_001",
+        "type": "single",
+        "question": "How many floors are in the Mines?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "100"
+          },
+          {
+            "tag": "B",
+            "text": "110"
+          },
+          {
+            "tag": "C",
+            "text": "120"
+          },
+          {
+            "tag": "D",
+            "text": "130"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_mine_002",
+        "type": "single",
+        "question": "On which floors can Gold Ore be found in the Mines?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "40-60"
+          },
+          {
+            "tag": "B",
+            "text": "60-80"
+          },
+          {
+            "tag": "C",
+            "text": "80-120"
+          },
+          {
+            "tag": "D",
+            "text": "20-40"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_mine_003",
+        "type": "single",
+        "question": "How to quickly reach lower floors in the Mines?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Use the elevator"
+          },
+          {
+            "tag": "B",
+            "text": "Use a warp totem"
+          },
+          {
+            "tag": "C",
+            "text": "Jump down shafts"
+          },
+          {
+            "tag": "D",
+            "text": "Use bombs"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_004",
+        "type": "single",
+        "question": "Which monster in the Mines drops Diamonds?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Dust Sprite"
+          },
+          {
+            "tag": "B",
+            "text": "Rock Crab"
+          },
+          {
+            "tag": "C",
+            "text": "Ghost"
+          },
+          {
+            "tag": "D",
+            "text": "Skeleton"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_mine_005",
+        "type": "single",
+        "question": "Where is the Skull Cavern?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Bottom of the Mines"
+          },
+          {
+            "tag": "B",
+            "text": "The Desert"
+          },
+          {
+            "tag": "C",
+            "text": "Secret Woods"
+          },
+          {
+            "tag": "D",
+            "text": "Railroad"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_mine_006",
+        "type": "single",
+        "question": "What do Dust Sprites drop?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Coal"
+          },
+          {
+            "tag": "B",
+            "text": "Iron Ore"
+          },
+          {
+            "tag": "C",
+            "text": "Universal Ore"
+          },
+          {
+            "tag": "D",
+            "text": "Bombs"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_007",
+        "type": "single",
+        "question": "What does an Ancient Seed grow into?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Ancient Fruit"
+          },
+          {
+            "tag": "B",
+            "text": "Rare Mushroom"
+          },
+          {
+            "tag": "C",
+            "text": "Mystic Flower"
+          },
+          {
+            "tag": "D",
+            "text": "Gem Fruit Tree"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_008",
+        "type": "single",
+        "question": "Which monsters drop Iridium Ore?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Not below Mine floor 120"
+          },
+          {
+            "tag": "B",
+            "text": "Mine floors 80-120"
+          },
+          {
+            "tag": "C",
+            "text": "Skull Cavern deeper floors"
+          },
+          {
+            "tag": "D",
+            "text": "All floors"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_mine_009",
+        "type": "single",
+        "question": "Which ore can be broken for artifacts and minerals?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "All types of ore"
+          },
+          {
+            "tag": "B",
+            "text": "Universal ore only"
+          },
+          {
+            "tag": "C",
+            "text": "Geodes only"
+          },
+          {
+            "tag": "D",
+            "text": "Frozen Geodes only"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_010",
+        "type": "single",
+        "question": "What can you use the Hoe on in the Mines?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Artifact spots (wiggly worms)"
+          },
+          {
+            "tag": "B",
+            "text": "Normal ground"
+          },
+          {
+            "tag": "C",
+            "text": "Rocks"
+          },
+          {
+            "tag": "D",
+            "text": "Nothing"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_011",
+        "type": "single",
+        "question": "Where can Geodes be opened?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Clint's Blacksmith"
+          },
+          {
+            "tag": "B",
+            "text": "Museum"
+          },
+          {
+            "tag": "C",
+            "text": "Adventurer's Guild"
+          },
+          {
+            "tag": "D",
+            "text": "Carpenter"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_012",
+        "type": "single",
+        "question": "What metal is found on Mine floors 40-60?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Iron"
+          },
+          {
+            "tag": "B",
+            "text": "Copper"
+          },
+          {
+            "tag": "C",
+            "text": "Gold"
+          },
+          {
+            "tag": "D",
+            "text": "Iridium"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_013",
+        "type": "single",
+        "question": "Which ore yields extra bars when smelted?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "None, all are 1:1"
+          },
+          {
+            "tag": "B",
+            "text": "Copper"
+          },
+          {
+            "tag": "C",
+            "text": "Iron"
+          },
+          {
+            "tag": "D",
+            "text": "Gold"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_014",
+        "type": "single",
+        "question": "How to increase Prismatic Shard drop rate?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Go deeper"
+          },
+          {
+            "tag": "B",
+            "text": "Eat luck food"
+          },
+          {
+            "tag": "C",
+            "text": "Wear luck ring"
+          },
+          {
+            "tag": "D",
+            "text": "All of the above"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_015",
+        "type": "single",
+        "question": "What can Rubies be traded for at the Desert Trader?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Spicy Eel"
+          },
+          {
+            "tag": "B",
+            "text": "Triple Shot Espresso"
+          },
+          {
+            "tag": "C",
+            "text": "Diamond"
+          },
+          {
+            "tag": "D",
+            "text": "Bomb"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_016",
+        "type": "single",
+        "question": "What can Jade be traded for at the Desert Trader?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Staircase"
+          },
+          {
+            "tag": "B",
+            "text": "Bomb"
+          },
+          {
+            "tag": "C",
+            "text": "Diamond"
+          },
+          {
+            "tag": "D",
+            "text": "Weapon"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_017",
+        "type": "single",
+        "question": "From which floor does Gold Ore appear in the Mines?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Floor 80"
+          },
+          {
+            "tag": "B",
+            "text": "Floor 60"
+          },
+          {
+            "tag": "C",
+            "text": "Floor 100"
+          },
+          {
+            "tag": "D",
+            "text": "Floor 40"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_018",
+        "type": "single",
+        "question": "Does the Skull Cavern have an elevator?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "No, must start from floor 1"
+          },
+          {
+            "tag": "B",
+            "text": "Every 5 floors"
+          },
+          {
+            "tag": "C",
+            "text": "Every 10 floors"
+          },
+          {
+            "tag": "D",
+            "text": "Only at the entrance"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_019",
+        "type": "single",
+        "question": "When is the minecart track repaired?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "After completing the Boiler Room bundle"
+          },
+          {
+            "tag": "B",
+            "text": "Pay 50000g"
+          },
+          {
+            "tag": "C",
+            "text": "Reach Mining level 5"
+          },
+          {
+            "tag": "D",
+            "text": "Summer of Year 1"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_020",
+        "type": "single",
+        "question": "Can you use Staircases to descend in the Mines?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Yes, regardless of exploration"
+          },
+          {
+            "tag": "B",
+            "text": "Only when no monsters"
+          },
+          {
+            "tag": "C",
+            "text": "Not usable in Mines"
+          },
+          {
+            "tag": "D",
+            "text": "Only at elevator floors"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_021",
+        "type": "single",
+        "question": "What are the wooden crates and barrels in the Mines?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Break for loot"
+          },
+          {
+            "tag": "B",
+            "text": "Just decoration"
+          },
+          {
+            "tag": "C",
+            "text": "Can't interact"
+          },
+          {
+            "tag": "D",
+            "text": "Monster disguises"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_022",
+        "type": "single",
+        "question": "How many diamonds for Triple Shot Espresso at the Desert Trader?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "3"
+          },
+          {
+            "tag": "B",
+            "text": "1"
+          },
+          {
+            "tag": "C",
+            "text": "5"
+          },
+          {
+            "tag": "D",
+            "text": "10"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_023",
+        "type": "single",
+        "question": "What are the main monsters on Mine floor 40?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Dust Sprites and Frozen Bats"
+          },
+          {
+            "tag": "B",
+            "text": "Slimes"
+          },
+          {
+            "tag": "C",
+            "text": "Skeletons"
+          },
+          {
+            "tag": "D",
+            "text": "Ghosts"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_024",
+        "type": "single",
+        "question": "From which floor do gold-quality ores start appearing?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "There are no gold-quality ores"
+          },
+          {
+            "tag": "B",
+            "text": "Floor 80"
+          },
+          {
+            "tag": "C",
+            "text": "Floor 60"
+          },
+          {
+            "tag": "D",
+            "text": "Floor 100"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_025",
+        "type": "single",
+        "question": "Which ring prevents monsters from getting close?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Combined Iridium Band"
+          },
+          {
+            "tag": "B",
+            "text": "No such ring"
+          },
+          {
+            "tag": "C",
+            "text": "Magnetism Ring"
+          },
+          {
+            "tag": "D",
+            "text": "Thorns Ring"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_026",
+        "type": "single",
+        "question": "Where to accept Mr. Qi's challenges?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Mr. Qi's Walnut Room on Ginger Island"
+          },
+          {
+            "tag": "B",
+            "text": "Mine entrance"
+          },
+          {
+            "tag": "C",
+            "text": "Desert shop"
+          },
+          {
+            "tag": "D",
+            "text": "Secret Woods"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_027",
+        "type": "single",
+        "question": "At what floor does Iridium Ore become common in Skull Cavern?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "After floor 50"
+          },
+          {
+            "tag": "B",
+            "text": "After floor 10"
+          },
+          {
+            "tag": "C",
+            "text": "After floor 100"
+          },
+          {
+            "tag": "D",
+            "text": "Always rare"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_mine_028",
+        "type": "single",
+        "question": "Where can gems be replicated?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Gem replicator"
+          },
+          {
+            "tag": "B",
+            "text": "Clint's blacksmith"
+          },
+          {
+            "tag": "C",
+            "text": "Museum"
+          },
+          {
+            "tag": "D",
+            "text": "Farm cave"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "monsters",
+    "category_i18n": "Monsters",
+    "questionList": [
+      {
+        "id": "sv_mon_001",
+        "type": "single",
+        "question": "On which Mine floors do Green Slimes appear?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "1-20"
+          },
+          {
+            "tag": "B",
+            "text": "20-40"
+          },
+          {
+            "tag": "C",
+            "text": "40-60"
+          },
+          {
+            "tag": "D",
+            "text": "All floors"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_002",
+        "type": "single",
+        "question": "What useful item do Dust Sprites drop?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Coal"
+          },
+          {
+            "tag": "B",
+            "text": "Iron Ore"
+          },
+          {
+            "tag": "C",
+            "text": "Gold"
+          },
+          {
+            "tag": "D",
+            "text": "Bombs"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_003",
+        "type": "single",
+        "question": "What common flying monster is in the Skull Cavern?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Bat"
+          },
+          {
+            "tag": "B",
+            "text": "Ghost"
+          },
+          {
+            "tag": "C",
+            "text": "Serpent"
+          },
+          {
+            "tag": "D",
+            "text": "Butterfly"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_004",
+        "type": "single",
+        "question": "Where can Woodskip be caught?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Secret Woods pond"
+          },
+          {
+            "tag": "B",
+            "text": "River"
+          },
+          {
+            "tag": "C",
+            "text": "Ocean"
+          },
+          {
+            "tag": "D",
+            "text": "Mountain Lake"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_005",
+        "type": "single",
+        "question": "Killing which monster type rewards the Holy Blade ring?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Ghosts"
+          },
+          {
+            "tag": "B",
+            "text": "Skeletons"
+          },
+          {
+            "tag": "C",
+            "text": "Bats"
+          },
+          {
+            "tag": "D",
+            "text": "Slimes"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_mon_006",
+        "type": "single",
+        "question": "On which Mine floors do Skeletons appear?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "70-120"
+          },
+          {
+            "tag": "B",
+            "text": "40-60"
+          },
+          {
+            "tag": "C",
+            "text": "1-20"
+          },
+          {
+            "tag": "D",
+            "text": "Skull Cavern"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_007",
+        "type": "single",
+        "question": "What is the reward for killing 1000 Slimes?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Slime Ring"
+          },
+          {
+            "tag": "B",
+            "text": "Slime Incubator"
+          },
+          {
+            "tag": "C",
+            "text": "Slime Egg Press"
+          },
+          {
+            "tag": "D",
+            "text": "Slime Compactifier"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_008",
+        "type": "single",
+        "question": "Which monsters can fly in the Mines?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Bats and Ghosts"
+          },
+          {
+            "tag": "B",
+            "text": "Bats only"
+          },
+          {
+            "tag": "C",
+            "text": "Ghosts only"
+          },
+          {
+            "tag": "D",
+            "text": "Slimes"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_009",
+        "type": "single",
+        "question": "Where do Mummies appear in the Mines?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "They don't appear in the Mines"
+          },
+          {
+            "tag": "B",
+            "text": "70-80"
+          },
+          {
+            "tag": "C",
+            "text": "90-120"
+          },
+          {
+            "tag": "D",
+            "text": "40-60"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_010",
+        "type": "single",
+        "question": "What monster shoots magic bolts in the Skull Cavern?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Mummy"
+          },
+          {
+            "tag": "B",
+            "text": "Serpent"
+          },
+          {
+            "tag": "C",
+            "text": "Shadow Brute"
+          },
+          {
+            "tag": "D",
+            "text": "Shadow Shaman"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_mon_011",
+        "type": "single",
+        "question": "What monsters are on Mine floors 40-70?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Frozen Bats, Frozen Slimes, Dust Sprites"
+          },
+          {
+            "tag": "B",
+            "text": "Only slimes"
+          },
+          {
+            "tag": "C",
+            "text": "Skeletons and ghosts"
+          },
+          {
+            "tag": "D",
+            "text": "Metal Heads"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_012",
+        "type": "single",
+        "question": "What can Serpents in Skull Cavern drop?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Bombs, Iridium Ore, Essence"
+          },
+          {
+            "tag": "B",
+            "text": "Only bones"
+          },
+          {
+            "tag": "C",
+            "text": "Only gold"
+          },
+          {
+            "tag": "D",
+            "text": "Diamond"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_013",
+        "type": "single",
+        "question": "What are the main monsters on Mine floors 80-120?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Skeletons, Metal Heads, Shadow Brutes, Shadow Shaman"
+          },
+          {
+            "tag": "B",
+            "text": "Only skeletons"
+          },
+          {
+            "tag": "C",
+            "text": "Only slimes"
+          },
+          {
+            "tag": "D",
+            "text": "Only bats"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_014",
+        "type": "single",
+        "question": "Kill which monster type for the Iridium Band eradication goal?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Kill 500 Shadow monsters"
+          },
+          {
+            "tag": "B",
+            "text": "Kill 1000 Slimes"
+          },
+          {
+            "tag": "C",
+            "text": "Kill 500 Skeletons"
+          },
+          {
+            "tag": "D",
+            "text": "Kill 100 Mummies"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_015",
+        "type": "single",
+        "question": "On which floors can Mummies be found in the Mines?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Mummies are not in the Mines"
+          },
+          {
+            "tag": "B",
+            "text": "Floors 80-100"
+          },
+          {
+            "tag": "C",
+            "text": "Floors 100-120"
+          },
+          {
+            "tag": "D",
+            "text": "Floors 40-60"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_016",
+        "type": "single",
+        "question": "On which floors do Bugs appear?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Mine floors 1-40"
+          },
+          {
+            "tag": "B",
+            "text": "Secret rooms"
+          },
+          {
+            "tag": "C",
+            "text": "Cindersap Forest"
+          },
+          {
+            "tag": "D",
+            "text": "Beach"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_017",
+        "type": "single",
+        "question": "Which monster is easily knocked back by a sword?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Slimes"
+          },
+          {
+            "tag": "B",
+            "text": "Ghosts"
+          },
+          {
+            "tag": "C",
+            "text": "Mummies"
+          },
+          {
+            "tag": "D",
+            "text": "Serpents"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_018",
+        "type": "single",
+        "question": "What is the reward for killing 250 Bats?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Bat Wings no longer drop"
+          },
+          {
+            "tag": "B",
+            "text": "Bat Ring"
+          },
+          {
+            "tag": "C",
+            "text": "1000g"
+          },
+          {
+            "tag": "D",
+            "text": "Iridium Bar"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_019",
+        "type": "single",
+        "question": "What materials are needed for weapon enchanting?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Diamonds, Prismatic Shards, etc"
+          },
+          {
+            "tag": "B",
+            "text": "Only gold"
+          },
+          {
+            "tag": "C",
+            "text": "Iridium Bars"
+          },
+          {
+            "tag": "D",
+            "text": "Dragon Teeth"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_020",
+        "type": "single",
+        "question": "On which Mine floors do Shadow monsters appear?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Floors 80-120"
+          },
+          {
+            "tag": "B",
+            "text": "Floors 40-60"
+          },
+          {
+            "tag": "C",
+            "text": "Floors 1-20"
+          },
+          {
+            "tag": "D",
+            "text": "All floors"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_021",
+        "type": "single",
+        "question": "In which mine do Pepper Rex appear?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Skull Cavern"
+          },
+          {
+            "tag": "B",
+            "text": "Regular Mines"
+          },
+          {
+            "tag": "C",
+            "text": "Ginger Island cave"
+          },
+          {
+            "tag": "D",
+            "text": "Secret Woods"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_022",
+        "type": "single",
+        "question": "What can you do with a Slime Hutch?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Raise slimes for Slime Balls"
+          },
+          {
+            "tag": "B",
+            "text": "Imprison monsters"
+          },
+          {
+            "tag": "C",
+            "text": "Grow crops"
+          },
+          {
+            "tag": "D",
+            "text": "Train combat"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_023",
+        "type": "single",
+        "question": "Which monster shoots fireballs from a distance?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Shadow Shaman"
+          },
+          {
+            "tag": "B",
+            "text": "Ghost"
+          },
+          {
+            "tag": "C",
+            "text": "Mummy"
+          },
+          {
+            "tag": "D",
+            "text": "Slime"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_024",
+        "type": "single",
+        "question": "Which Skull Cavern monster drops gems?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Purple Slime"
+          },
+          {
+            "tag": "B",
+            "text": "Serpent"
+          },
+          {
+            "tag": "C",
+            "text": "Mummy"
+          },
+          {
+            "tag": "D",
+            "text": "Iridium Crab"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_025",
+        "type": "single",
+        "question": "What is the reward for killing 500 Shadow monsters?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Iridium Band"
+          },
+          {
+            "tag": "B",
+            "text": "Shadow Dagger"
+          },
+          {
+            "tag": "C",
+            "text": "5 Diamonds"
+          },
+          {
+            "tag": "D",
+            "text": "Shadow Helmet"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_026",
+        "type": "single",
+        "question": "What can Ghosts in the Mines drop?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Diamond and Ghost Essence"
+          },
+          {
+            "tag": "B",
+            "text": "Coal"
+          },
+          {
+            "tag": "C",
+            "text": "Bomb"
+          },
+          {
+            "tag": "D",
+            "text": "Gold Ore"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_027",
+        "type": "single",
+        "question": "What is the Woodskip known for in Stardew Valley?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Caught in the Secret Woods"
+          },
+          {
+            "tag": "B",
+            "text": "Drops wood"
+          },
+          {
+            "tag": "C",
+            "text": "Best food"
+          },
+          {
+            "tag": "D",
+            "text": "Used in bundles"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_028",
+        "type": "single",
+        "question": "Where to check Monster Eradication goals?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Adventurer's Guild"
+          },
+          {
+            "tag": "B",
+            "text": "Mine entrance"
+          },
+          {
+            "tag": "C",
+            "text": "Lewis's house"
+          },
+          {
+            "tag": "D",
+            "text": "Robin's shop"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "general",
+    "category_i18n": "General",
+    "questionList": [
+      {
+        "id": "sv_gen_001",
+        "type": "single",
+        "question": "How much gold do you start with on Spring 1, Year 1?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "500g"
+          },
+          {
+            "tag": "B",
+            "text": "1000g"
+          },
+          {
+            "tag": "C",
+            "text": "2000g"
+          },
+          {
+            "tag": "D",
+            "text": "3000g"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_002",
+        "type": "single",
+        "question": "When does Grandpa return to evaluate your farm?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Spring 1, Year 1"
+          },
+          {
+            "tag": "B",
+            "text": "Spring 1, Year 2"
+          },
+          {
+            "tag": "C",
+            "text": "Spring 1, Year 3"
+          },
+          {
+            "tag": "D",
+            "text": "Spring 1, Year 5"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_gen_003",
+        "type": "single",
+        "question": "How do you get a horse?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Buy from Marnie"
+          },
+          {
+            "tag": "B",
+            "text": "Build a Stable"
+          },
+          {
+            "tag": "C",
+            "text": "Tame in the wild"
+          },
+          {
+            "tag": "D",
+            "text": "Bundle reward"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_gen_004",
+        "type": "single",
+        "question": "How does the player get to Ginger Island?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fix Willy's boat"
+          },
+          {
+            "tag": "B",
+            "text": "Take the bus"
+          },
+          {
+            "tag": "C",
+            "text": "Warp scepter"
+          },
+          {
+            "tag": "D",
+            "text": "Walk across a bridge"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_005",
+        "type": "single",
+        "question": "How does time pass in Stardew Valley?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "1 sec = 1 minute"
+          },
+          {
+            "tag": "B",
+            "text": "10 sec = 10 minutes"
+          },
+          {
+            "tag": "C",
+            "text": "~7 sec = 10 minutes"
+          },
+          {
+            "tag": "D",
+            "text": "1 minute = 1 hour"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_gen_006",
+        "type": "single",
+        "question": "What is the reward for Grandpa's highest rating?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Iridium Cat Statue"
+          },
+          {
+            "tag": "B",
+            "text": "Diamond"
+          },
+          {
+            "tag": "C",
+            "text": "100000g"
+          },
+          {
+            "tag": "D",
+            "text": "Iridium Bar"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_007",
+        "type": "single",
+        "question": "How do you increase Perfection percentage?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Complete bundles, cooking, fishing, crafting, etc."
+          },
+          {
+            "tag": "B",
+            "text": "Earn 10000000g"
+          },
+          {
+            "tag": "C",
+            "text": "Reach level 10 in all skills"
+          },
+          {
+            "tag": "D",
+            "text": "Marry and have children"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_008",
+        "type": "single",
+        "question": "Can you have multiple farms?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "In different save files"
+          },
+          {
+            "tag": "B",
+            "text": "No"
+          },
+          {
+            "tag": "C",
+            "text": "Yes, in one save"
+          },
+          {
+            "tag": "D",
+            "text": "Multiplayer only"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_009",
+        "type": "single",
+        "question": "How do you get Joja Cola?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Trash cans, Joja vending machine, fishing"
+          },
+          {
+            "tag": "B",
+            "text": "Purchase only"
+          },
+          {
+            "tag": "C",
+            "text": "Trash cans only"
+          },
+          {
+            "tag": "D",
+            "text": "Free from JojaMart"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_010",
+        "type": "single",
+        "question": "Can you have pets in Stardew Valley?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Choose a cat or dog (and turtle in 1.6)"
+          },
+          {
+            "tag": "B",
+            "text": "No pets"
+          },
+          {
+            "tag": "C",
+            "text": "Cat, dog only"
+          },
+          {
+            "tag": "D",
+            "text": "Horse only"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_011",
+        "type": "single",
+        "question": "How many items can you donate to the Museum?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Over 100 artifacts and minerals"
+          },
+          {
+            "tag": "B",
+            "text": "Up to 50 items"
+          },
+          {
+            "tag": "C",
+            "text": "Unlimited"
+          },
+          {
+            "tag": "D",
+            "text": "Minerals only"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_012",
+        "type": "single",
+        "question": "What could happen if you dig through trash cans?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "NPCs might see and lose friendship"
+          },
+          {
+            "tag": "B",
+            "text": "Get fined"
+          },
+          {
+            "tag": "C",
+            "text": "Go to jail"
+          },
+          {
+            "tag": "D",
+            "text": "No consequences"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_013",
+        "type": "single",
+        "question": "Where is Mr. Qi's Walnut Room?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "East side of Ginger Island"
+          },
+          {
+            "tag": "B",
+            "text": "Desert cave"
+          },
+          {
+            "tag": "C",
+            "text": "Bottom of the Mines"
+          },
+          {
+            "tag": "D",
+            "text": "Deep in Secret Woods"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_014",
+        "type": "single",
+        "question": "What new content was added in Stardew Valley 1.6?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "New festival, crops, items and more"
+          },
+          {
+            "tag": "B",
+            "text": "Only new fishing"
+          },
+          {
+            "tag": "C",
+            "text": "Only new map"
+          },
+          {
+            "tag": "D",
+            "text": "Only new characters"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_015",
+        "type": "single",
+        "question": "How to save the game in Stardew Valley?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Sleep to end the day, auto-save"
+          },
+          {
+            "tag": "B",
+            "text": "Manual save button"
+          },
+          {
+            "tag": "C",
+            "text": "Save at season end"
+          },
+          {
+            "tag": "D",
+            "text": "Auto-save anytime"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_016",
+        "type": "single",
+        "question": "What does Joja Membership do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Pay gold for Community Center upgrades"
+          },
+          {
+            "tag": "B",
+            "text": "Discounts on items"
+          },
+          {
+            "tag": "C",
+            "text": "Get Joja Cola"
+          },
+          {
+            "tag": "D",
+            "text": "Free warp"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_017",
+        "type": "single",
+        "question": "What perfection level for all achievements?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "100%"
+          },
+          {
+            "tag": "B",
+            "text": "80%"
+          },
+          {
+            "tag": "C",
+            "text": "95%"
+          },
+          {
+            "tag": "D",
+            "text": "70%"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_018",
+        "type": "single",
+        "question": "What uses can the Farm Cave be chosen for?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fruit Bats or Mushrooms"
+          },
+          {
+            "tag": "B",
+            "text": "Gems or Ores"
+          },
+          {
+            "tag": "C",
+            "text": "Fish pond or Storage"
+          },
+          {
+            "tag": "D",
+            "text": "Brewing or Alchemy"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_019",
+        "type": "single",
+        "question": "What item is needed for marriage?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Mermaid's Pendant"
+          },
+          {
+            "tag": "B",
+            "text": "Wedding Ring"
+          },
+          {
+            "tag": "C",
+            "text": "Diamond"
+          },
+          {
+            "tag": "D",
+            "text": "Bouquet"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_020",
+        "type": "single",
+        "question": "Can the player have children?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Yes, up to 2 children after marriage"
+          },
+          {
+            "tag": "B",
+            "text": "No"
+          },
+          {
+            "tag": "C",
+            "text": "Only adopt"
+          },
+          {
+            "tag": "D",
+            "text": "Unknown"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_021",
+        "type": "single",
+        "question": "What happens to crops at season change?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Out-of-season crops die"
+          },
+          {
+            "tag": "B",
+            "text": "All crops keep growing"
+          },
+          {
+            "tag": "C",
+            "text": "Crop quality resets"
+          },
+          {
+            "tag": "D",
+            "text": "Nothing happens"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_022",
+        "type": "single",
+        "question": "What does the Return Scepter do?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Warp to the farm"
+          },
+          {
+            "tag": "B",
+            "text": "Warp anywhere"
+          },
+          {
+            "tag": "C",
+            "text": "Summon horse"
+          },
+          {
+            "tag": "D",
+            "text": "Open menu"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_023",
+        "type": "single",
+        "question": "What is the maximum stack size in Stardew Valley?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "999"
+          },
+          {
+            "tag": "B",
+            "text": "99"
+          },
+          {
+            "tag": "C",
+            "text": "9999"
+          },
+          {
+            "tag": "D",
+            "text": "No limit"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_024",
+        "type": "single",
+        "question": "How to get a horse in Stardew Valley?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Build a Stable from Robin"
+          },
+          {
+            "tag": "B",
+            "text": "Buy from Marnie"
+          },
+          {
+            "tag": "C",
+            "text": "Tame in the wild"
+          },
+          {
+            "tag": "D",
+            "text": "Bundle reward"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_025",
+        "type": "single",
+        "question": "What can a Keg process?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Fruit→Wine, Wheat→Beer, etc"
+          },
+          {
+            "tag": "B",
+            "text": "Only wine"
+          },
+          {
+            "tag": "C",
+            "text": "Only cheese"
+          },
+          {
+            "tag": "D",
+            "text": "Make bread"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_026",
+        "type": "single",
+        "question": "What new skill was added in Stardew Valley 1.6?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "No new skill"
+          },
+          {
+            "tag": "B",
+            "text": "Cooking"
+          },
+          {
+            "tag": "C",
+            "text": "Fishing"
+          },
+          {
+            "tag": "D",
+            "text": "Horse riding"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_027",
+        "type": "single",
+        "question": "What can a Fish Pond be used for?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Raise fish and harvest products"
+          },
+          {
+            "tag": "B",
+            "text": "Just decoration"
+          },
+          {
+            "tag": "C",
+            "text": "Swimming"
+          },
+          {
+            "tag": "D",
+            "text": "Grow aquatic plants"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_028",
+        "type": "single",
+        "question": "How many NPCs can you befriend in Stardew Valley?",
+        "options": [
+          {
+            "tag": "A",
+            "text": "All interactable NPCs"
+          },
+          {
+            "tag": "B",
+            "text": "Up to 10"
+          },
+          {
+            "tag": "C",
+            "text": "Up to 20"
+          },
+          {
+            "tag": "D",
+            "text": "Only marriage candidates"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  }
+]

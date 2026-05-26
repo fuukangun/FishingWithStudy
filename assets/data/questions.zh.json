@@ -1,0 +1,7868 @@
+[
+  {
+    "category": "characters",
+    "category_i18n": "角色知识",
+    "questionList": [
+      {
+        "id": "sv_char_001",
+        "type": "single",
+        "question": "潘姆最喜欢的礼物是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "煎鸡蛋"
+          },
+          {
+            "tag": "B",
+            "text": "钻石"
+          },
+          {
+            "tag": "C",
+            "text": "虞美人"
+          },
+          {
+            "tag": "D",
+            "text": "啤酒"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_char_002",
+        "type": "single",
+        "question": "阿比盖尔最喜欢什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "紫水晶"
+          },
+          {
+            "tag": "B",
+            "text": "黄水晶"
+          },
+          {
+            "tag": "C",
+            "text": "翡翠"
+          },
+          {
+            "tag": "D",
+            "text": "红宝石"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_003",
+        "type": "single",
+        "question": "塞巴斯蒂安最喜欢什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "泪滴矿"
+          },
+          {
+            "tag": "B",
+            "text": "虚空蛋"
+          },
+          {
+            "tag": "C",
+            "text": "黑曜石"
+          },
+          {
+            "tag": "D",
+            "text": "冰冻泪滴"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_char_004",
+        "type": "single",
+        "question": "克林特在哪里工作？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "铁匠铺"
+          },
+          {
+            "tag": "B",
+            "text": "杂货店"
+          },
+          {
+            "tag": "C",
+            "text": "木匠铺"
+          },
+          {
+            "tag": "D",
+            "text": "博物馆"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_005",
+        "type": "single",
+        "question": "玛妮的农场叫什么名字？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "玛妮的牧场"
+          },
+          {
+            "tag": "B",
+            "text": "幸福牧场"
+          },
+          {
+            "tag": "C",
+            "text": "绿茵牧场"
+          },
+          {
+            "tag": "D",
+            "text": "星露牧场"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_006",
+        "type": "single",
+        "question": "谁在星落酒店工作？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "刘易斯"
+          },
+          {
+            "tag": "B",
+            "text": "格斯"
+          },
+          {
+            "tag": "C",
+            "text": "皮埃尔"
+          },
+          {
+            "tag": "D",
+            "text": "威利"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_char_007",
+        "type": "single",
+        "question": "海莉最喜欢的礼物是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "椰子"
+          },
+          {
+            "tag": "B",
+            "text": "粉红蛋糕"
+          },
+          {
+            "tag": "C",
+            "text": "太阳花"
+          },
+          {
+            "tag": "D",
+            "text": "水果沙拉"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_char_008",
+        "type": "single",
+        "question": "艾利欧特最喜欢的礼物是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "蟹黄糕"
+          },
+          {
+            "tag": "B",
+            "text": "龙虾浓汤"
+          },
+          {
+            "tag": "C",
+            "text": "咖啡"
+          },
+          {
+            "tag": "D",
+            "text": "石榴"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_char_009",
+        "type": "single",
+        "question": "潘妮最喜欢的礼物是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "红宝石"
+          },
+          {
+            "tag": "B",
+            "text": "钻石"
+          },
+          {
+            "tag": "C",
+            "text": "祖母绿"
+          },
+          {
+            "tag": "D",
+            "text": "紫水晶"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_char_010",
+        "type": "single",
+        "question": "哈维的诊所星期几休息？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "星期一"
+          },
+          {
+            "tag": "B",
+            "text": "星期二"
+          },
+          {
+            "tag": "C",
+            "text": "星期四"
+          },
+          {
+            "tag": "D",
+            "text": "星期日"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_char_011",
+        "type": "single",
+        "question": "谢恩最喜欢的礼物是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "啤酒"
+          },
+          {
+            "tag": "B",
+            "text": "辣椒"
+          },
+          {
+            "tag": "C",
+            "text": "披萨"
+          },
+          {
+            "tag": "D",
+            "text": "热胡椒果冻"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_012",
+        "type": "single",
+        "question": "谁住在地下室？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "塞巴斯蒂安"
+          },
+          {
+            "tag": "B",
+            "text": "玛鲁"
+          },
+          {
+            "tag": "C",
+            "text": "山姆"
+          },
+          {
+            "tag": "D",
+            "text": "阿比盖尔"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_013",
+        "type": "single",
+        "question": "肯特在第一年的哪个季节回到鹈鹕镇？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "春季"
+          },
+          {
+            "tag": "B",
+            "text": "夏季"
+          },
+          {
+            "tag": "C",
+            "text": "秋季"
+          },
+          {
+            "tag": "D",
+            "text": "冬季"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_char_014",
+        "type": "single",
+        "question": "德米特里厄斯和罗宾是什么关系？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "丈夫"
+          },
+          {
+            "tag": "B",
+            "text": "兄弟"
+          },
+          {
+            "tag": "C",
+            "text": "邻居"
+          },
+          {
+            "tag": "D",
+            "text": "朋友"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_015",
+        "type": "single",
+        "question": "小精灵朱尼莫在哪里可以找到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "社区中心"
+          },
+          {
+            "tag": "B",
+            "text": "矿井"
+          },
+          {
+            "tag": "C",
+            "text": "森林"
+          },
+          {
+            "tag": "D",
+            "text": "海滩"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_016",
+        "type": "single",
+        "question": "矮人住在哪里？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "矿井的东侧入口"
+          },
+          {
+            "tag": "B",
+            "text": "冒险者公会"
+          },
+          {
+            "tag": "C",
+            "text": "秘密森林"
+          },
+          {
+            "tag": "D",
+            "text": "魔法森林"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_017",
+        "type": "single",
+        "question": "维克多可以在哪里找到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "鹈鹕镇"
+          },
+          {
+            "tag": "B",
+            "text": "姜岛"
+          },
+          {
+            "tag": "C",
+            "text": "里奇赛德村"
+          },
+          {
+            "tag": "D",
+            "text": "他不是原版NPC"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_char_018",
+        "type": "single",
+        "question": "贾斯和文森特是什么关系？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "他们是朋友"
+          },
+          {
+            "tag": "B",
+            "text": "兄妹"
+          },
+          {
+            "tag": "C",
+            "text": "表兄妹"
+          },
+          {
+            "tag": "D",
+            "text": "邻居"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_char_019",
+        "type": "single",
+        "question": "冰棍可以在哪里购买？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "从亚历克斯的冰棍车"
+          },
+          {
+            "tag": "B",
+            "text": "星落酒店"
+          },
+          {
+            "tag": "C",
+            "text": "皮埃尔杂货店"
+          },
+          {
+            "tag": "D",
+            "text": "Joja超市"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_020",
+        "type": "single",
+        "question": "哪个角色喜欢去健身房？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "亚历克斯"
+          },
+          {
+            "tag": "B",
+            "text": "山姆"
+          },
+          {
+            "tag": "C",
+            "text": "塞巴斯蒂安"
+          },
+          {
+            "tag": "D",
+            "text": "谢恩"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_021",
+        "type": "single",
+        "question": "克林特在什么情况下会给玩家送来蓝图？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "玩家在克林特处升级工具后"
+          },
+          {
+            "tag": "B",
+            "text": "无法获得"
+          },
+          {
+            "tag": "C",
+            "text": "达到采矿10级"
+          },
+          {
+            "tag": "D",
+            "text": "完成克林特的特殊请求"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_char_022",
+        "type": "single",
+        "question": "刘易斯的紫色裤子可以在哪里找到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "玛妮的房间"
+          },
+          {
+            "tag": "B",
+            "text": "刘易斯的家"
+          },
+          {
+            "tag": "C",
+            "text": "社区中心"
+          },
+          {
+            "tag": "D",
+            "text": "下水道"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_023",
+        "type": "single",
+        "question": "哪个NPC在冬季生日？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "塞巴斯蒂安"
+          },
+          {
+            "tag": "B",
+            "text": "阿比盖尔"
+          },
+          {
+            "tag": "C",
+            "text": "山姆"
+          },
+          {
+            "tag": "D",
+            "text": "潘妮"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_024",
+        "type": "single",
+        "question": "罗宾的家庭成员有哪些？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "德米特里厄斯、玛鲁、塞巴斯蒂安"
+          },
+          {
+            "tag": "B",
+            "text": "德米特里厄斯和玛鲁"
+          },
+          {
+            "tag": "C",
+            "text": "塞巴斯蒂安和玛鲁"
+          },
+          {
+            "tag": "D",
+            "text": "只有德米特里厄斯"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_025",
+        "type": "single",
+        "question": "威利除了卖渔具之外还喜欢做什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "修理船只"
+          },
+          {
+            "tag": "B",
+            "text": "烹饪"
+          },
+          {
+            "tag": "C",
+            "text": "钓鱼"
+          },
+          {
+            "tag": "D",
+            "text": "画画"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_char_026",
+        "type": "single",
+        "question": "文森特的妈妈是谁？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "乔迪"
+          },
+          {
+            "tag": "B",
+            "text": "卡洛琳"
+          },
+          {
+            "tag": "C",
+            "text": "艾芙琳"
+          },
+          {
+            "tag": "D",
+            "text": "潘妮"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_char_027",
+        "type": "single",
+        "question": "玛鲁的技能偏向哪个领域？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "科学和工程"
+          },
+          {
+            "tag": "B",
+            "text": "烹饪"
+          },
+          {
+            "tag": "C",
+            "text": "农业"
+          },
+          {
+            "tag": "D",
+            "text": "钓鱼"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "locations",
+    "category_i18n": "地点知识",
+    "questionList": [
+      {
+        "id": "sv_loc_001",
+        "type": "single",
+        "question": "皮埃尔的杂货店星期几休息？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "星期一"
+          },
+          {
+            "tag": "B",
+            "text": "星期三"
+          },
+          {
+            "tag": "C",
+            "text": "星期日"
+          },
+          {
+            "tag": "D",
+            "text": "星期五"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_loc_002",
+        "type": "single",
+        "question": "社区中心有多少个房间？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "4个"
+          },
+          {
+            "tag": "B",
+            "text": "5个"
+          },
+          {
+            "tag": "C",
+            "text": "6个"
+          },
+          {
+            "tag": "D",
+            "text": "7个"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_loc_003",
+        "type": "single",
+        "question": "博物馆的馆长是谁？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "克林特"
+          },
+          {
+            "tag": "B",
+            "text": "冈瑟"
+          },
+          {
+            "tag": "C",
+            "text": "拉斯"
+          },
+          {
+            "tag": "D",
+            "text": "德米特里厄斯"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_loc_004",
+        "type": "single",
+        "question": "矿井在第一年春季第几天开放？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "第3天"
+          },
+          {
+            "tag": "B",
+            "text": "第5天"
+          },
+          {
+            "tag": "C",
+            "text": "第7天"
+          },
+          {
+            "tag": "D",
+            "text": "第10天"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_loc_005",
+        "type": "single",
+        "question": "巴士在什么情况下修复？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "完成全部社区中心收集包"
+          },
+          {
+            "tag": "B",
+            "text": "完成茶水室收集包"
+          },
+          {
+            "tag": "C",
+            "text": "完成锅炉房收集包"
+          },
+          {
+            "tag": "D",
+            "text": "花费50000金"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_loc_006",
+        "type": "single",
+        "question": "旅行商人每周哪两天出现？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "周五和周日"
+          },
+          {
+            "tag": "B",
+            "text": "周一和周四"
+          },
+          {
+            "tag": "C",
+            "text": "周三和周六"
+          },
+          {
+            "tag": "D",
+            "text": "周二和周六"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_007",
+        "type": "single",
+        "question": "冒险者公会在哪里？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "矿井东边"
+          },
+          {
+            "tag": "B",
+            "text": "罗宾家旁边"
+          },
+          {
+            "tag": "C",
+            "text": "海滩码头"
+          },
+          {
+            "tag": "D",
+            "text": "巴士站旁边"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_008",
+        "type": "single",
+        "question": "巫师之塔位于哪里？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "煤矿森林南部"
+          },
+          {
+            "tag": "B",
+            "text": "山脉顶部"
+          },
+          {
+            "tag": "C",
+            "text": "海滩东边"
+          },
+          {
+            "tag": "D",
+            "text": "沙漠"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_009",
+        "type": "single",
+        "question": "有多少种方式可以传送到姜岛？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "1种"
+          },
+          {
+            "tag": "B",
+            "text": "2种"
+          },
+          {
+            "tag": "C",
+            "text": "3种"
+          },
+          {
+            "tag": "D",
+            "text": "4种"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_loc_010",
+        "type": "single",
+        "question": "火车站在什么位置？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "山脉上方"
+          },
+          {
+            "tag": "B",
+            "text": "巴士站右侧"
+          },
+          {
+            "tag": "C",
+            "text": "沙漠南部"
+          },
+          {
+            "tag": "D",
+            "text": "海滩左侧"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_011",
+        "type": "single",
+        "question": "下水道的钥匙如何获得？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "捐赠60个博物馆物品"
+          },
+          {
+            "tag": "B",
+            "text": "达到钓鱼10级"
+          },
+          {
+            "tag": "C",
+            "text": "完成所有收集包"
+          },
+          {
+            "tag": "D",
+            "text": "花费50000金购买"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_012",
+        "type": "single",
+        "question": "Joja超市星期几关门？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "星期一"
+          },
+          {
+            "tag": "B",
+            "text": "星期三"
+          },
+          {
+            "tag": "C",
+            "text": "从不关门"
+          },
+          {
+            "tag": "D",
+            "text": "星期日"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_loc_013",
+        "type": "single",
+        "question": "在哪里可以找到金色核桃？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "姜岛各地的互动"
+          },
+          {
+            "tag": "B",
+            "text": "钓鱼宝箱"
+          },
+          {
+            "tag": "C",
+            "text": "骷髅洞穴"
+          },
+          {
+            "tag": "D",
+            "text": "矿井"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_014",
+        "type": "single",
+        "question": "在星露谷有多少个可结婚的NPC？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "10个"
+          },
+          {
+            "tag": "B",
+            "text": "12个"
+          },
+          {
+            "tag": "C",
+            "text": "6个"
+          },
+          {
+            "tag": "D",
+            "text": "8个"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_loc_015",
+        "type": "single",
+        "question": "在星露谷中你可以在哪里钓鱼？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "海洋、河流、湖泊、矿井"
+          },
+          {
+            "tag": "B",
+            "text": "只有海洋"
+          },
+          {
+            "tag": "C",
+            "text": "只有河流"
+          },
+          {
+            "tag": "D",
+            "text": "只有池塘"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_016",
+        "type": "single",
+        "question": "伊芙琳住在哪里？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "柳巷1号"
+          },
+          {
+            "tag": "B",
+            "text": "鹈鹕镇广场"
+          },
+          {
+            "tag": "C",
+            "text": "苹果酒森林路"
+          },
+          {
+            "tag": "D",
+            "text": "山脉大道"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_017",
+        "type": "single",
+        "question": "莉亚的小屋在哪里？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "苹果酒森林"
+          },
+          {
+            "tag": "B",
+            "text": "山脉"
+          },
+          {
+            "tag": "C",
+            "text": "海滩"
+          },
+          {
+            "tag": "D",
+            "text": "鹈鹕镇"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_018",
+        "type": "single",
+        "question": "在星露谷中，你需要在什么时候之前回家？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "凌晨2:00"
+          },
+          {
+            "tag": "B",
+            "text": "凌晨1:00"
+          },
+          {
+            "tag": "C",
+            "text": "午夜12:00"
+          },
+          {
+            "tag": "D",
+            "text": "凌晨3:00"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_019",
+        "type": "single",
+        "question": "苹果酒森林（Cindersap Forest）里有什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "秘密森林入口、巫师塔、玛妮的牧场"
+          },
+          {
+            "tag": "B",
+            "text": "只有树木"
+          },
+          {
+            "tag": "C",
+            "text": "矿井入口"
+          },
+          {
+            "tag": "D",
+            "text": "巴士站"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_020",
+        "type": "single",
+        "question": "煤矿森林中的池塘可以钓到什么季节的鱼？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "春季和夏季的特定鱼"
+          },
+          {
+            "tag": "B",
+            "text": "只有鲤鱼"
+          },
+          {
+            "tag": "C",
+            "text": "一年四季都一样"
+          },
+          {
+            "tag": "D",
+            "text": "什么也钓不到"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_021",
+        "type": "single",
+        "question": "哪里可以找到金色镰刀？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "秘密森林的树桩中"
+          },
+          {
+            "tag": "B",
+            "text": "矿井120层"
+          },
+          {
+            "tag": "C",
+            "text": "沙漠矿井"
+          },
+          {
+            "tag": "D",
+            "text": "玛妮家后面"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_022",
+        "type": "single",
+        "question": "哪里可以获得银色钓鱼竿？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "钓鱼2级后从威利购买"
+          },
+          {
+            "tag": "B",
+            "text": "钓鱼5级奖励"
+          },
+          {
+            "tag": "C",
+            "text": "海滩拾取"
+          },
+          {
+            "tag": "D",
+            "text": "罗宾制作"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_023",
+        "type": "single",
+        "question": "苹果酒森林南部池塘边住着谁？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "莉亚"
+          },
+          {
+            "tag": "B",
+            "text": "拉斯"
+          },
+          {
+            "tag": "C",
+            "text": "威利"
+          },
+          {
+            "tag": "D",
+            "text": "玛妮"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_024",
+        "type": "single",
+        "question": "威利的渔具店营业时间是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "每天上午9点到下午5点"
+          },
+          {
+            "tag": "B",
+            "text": "上午10点到下午6点"
+          },
+          {
+            "tag": "C",
+            "text": "只在晴天营业"
+          },
+          {
+            "tag": "D",
+            "text": "24小时营业"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_025",
+        "type": "single",
+        "question": "浴室（温泉）有什么作用？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "恢复体力和生命值"
+          },
+          {
+            "tag": "B",
+            "text": "可以钓鱼"
+          },
+          {
+            "tag": "C",
+            "text": "可以采矿"
+          },
+          {
+            "tag": "D",
+            "text": "购买物品"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_026",
+        "type": "single",
+        "question": "在星露谷中一共有多少个农场地图可以选择？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "8种（包括1.6新增）"
+          },
+          {
+            "tag": "B",
+            "text": "5种"
+          },
+          {
+            "tag": "C",
+            "text": "7种"
+          },
+          {
+            "tag": "D",
+            "text": "10种"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_loc_027",
+        "type": "single",
+        "question": "下水道的居民是谁？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "科罗布斯"
+          },
+          {
+            "tag": "B",
+            "text": "矮人"
+          },
+          {
+            "tag": "C",
+            "text": "齐先生"
+          },
+          {
+            "tag": "D",
+            "text": "祝尼魔"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "crops",
+    "category_i18n": "作物知识",
+    "questionList": [
+      {
+        "id": "sv_crop_001",
+        "type": "single",
+        "question": "蓝莓在什么季节种植？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "春季"
+          },
+          {
+            "tag": "B",
+            "text": "夏季"
+          },
+          {
+            "tag": "C",
+            "text": "秋季"
+          },
+          {
+            "tag": "D",
+            "text": "冬季"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_crop_002",
+        "type": "single",
+        "question": "上古种子的生长周期是多少天？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "21天"
+          },
+          {
+            "tag": "B",
+            "text": "24天"
+          },
+          {
+            "tag": "C",
+            "text": "28天"
+          },
+          {
+            "tag": "D",
+            "text": "14天"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_crop_003",
+        "type": "single",
+        "question": "仙人掌果实在什么季节可种植？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "春季"
+          },
+          {
+            "tag": "B",
+            "text": "夏季"
+          },
+          {
+            "tag": "C",
+            "text": "秋季"
+          },
+          {
+            "tag": "D",
+            "text": "只能在温室或姜岛"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_crop_004",
+        "type": "single",
+        "question": "哪种作物可以反复收获？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "花椰菜"
+          },
+          {
+            "tag": "B",
+            "text": "防风草"
+          },
+          {
+            "tag": "C",
+            "text": "蔓越莓"
+          },
+          {
+            "tag": "D",
+            "text": "土豆"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_crop_005",
+        "type": "single",
+        "question": "金星防风草是哪个收集包需要的？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "春季作物收集包"
+          },
+          {
+            "tag": "B",
+            "text": "高品质作物收集包"
+          },
+          {
+            "tag": "C",
+            "text": "夏季作物收集包"
+          },
+          {
+            "tag": "D",
+            "text": "园艺收集包"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_crop_006",
+        "type": "single",
+        "question": "杨桃最著名的用途是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "酿酒赚取高额利润"
+          },
+          {
+            "tag": "B",
+            "text": "烹饪"
+          },
+          {
+            "tag": "C",
+            "text": "收集包"
+          },
+          {
+            "tag": "D",
+            "text": "送礼"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_007",
+        "type": "single",
+        "question": "花椰菜有概率长成什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "巨型花椰菜"
+          },
+          {
+            "tag": "B",
+            "text": "金色花椰菜"
+          },
+          {
+            "tag": "C",
+            "text": "彩虹花椰菜"
+          },
+          {
+            "tag": "D",
+            "text": "钻石花椰菜"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_008",
+        "type": "single",
+        "question": "甜瓜（蜜瓜）的生长周期是？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "10天"
+          },
+          {
+            "tag": "B",
+            "text": "12天"
+          },
+          {
+            "tag": "C",
+            "text": "14天"
+          },
+          {
+            "tag": "D",
+            "text": "8天"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_crop_009",
+        "type": "single",
+        "question": "在温室中最适合种什么果树？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "任何果树都可以全年结果"
+          },
+          {
+            "tag": "B",
+            "text": "只有苹果树"
+          },
+          {
+            "tag": "C",
+            "text": "只有樱桃树"
+          },
+          {
+            "tag": "D",
+            "text": "果树不能在温室种植"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_010",
+        "type": "single",
+        "question": "蔓越莓多久收获一次？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "2天"
+          },
+          {
+            "tag": "B",
+            "text": "3天"
+          },
+          {
+            "tag": "C",
+            "text": "5天"
+          },
+          {
+            "tag": "D",
+            "text": "7天"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_crop_011",
+        "type": "single",
+        "question": "哪种秋季作物可以持续收获？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "蔓越莓"
+          },
+          {
+            "tag": "B",
+            "text": "南瓜"
+          },
+          {
+            "tag": "C",
+            "text": "山药"
+          },
+          {
+            "tag": "D",
+            "text": "红叶卷心菜"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_012",
+        "type": "single",
+        "question": "防风草的生长周期是几天？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "3天"
+          },
+          {
+            "tag": "B",
+            "text": "4天"
+          },
+          {
+            "tag": "C",
+            "text": "5天"
+          },
+          {
+            "tag": "D",
+            "text": "6天"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_crop_013",
+        "type": "single",
+        "question": "哪种作物可以在春季和夏季种植？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "辣椒"
+          },
+          {
+            "tag": "B",
+            "text": "番茄"
+          },
+          {
+            "tag": "C",
+            "text": "蓝莓"
+          },
+          {
+            "tag": "D",
+            "text": "啤酒花"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_crop_014",
+        "type": "single",
+        "question": "在冬季你能种植什么作物？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "冬季野生种子"
+          },
+          {
+            "tag": "B",
+            "text": "什么都不能种"
+          },
+          {
+            "tag": "C",
+            "text": "所有作物"
+          },
+          {
+            "tag": "D",
+            "text": "只要浇水就可以"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_015",
+        "type": "single",
+        "question": "哪种作物在收获时有机会获得额外的产品？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "土豆"
+          },
+          {
+            "tag": "B",
+            "text": "草莓"
+          },
+          {
+            "tag": "C",
+            "text": "蓝莓"
+          },
+          {
+            "tag": "D",
+            "text": "所有上述"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_016",
+        "type": "single",
+        "question": "大壶花需要多少天成熟？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "5天"
+          },
+          {
+            "tag": "B",
+            "text": "7天"
+          },
+          {
+            "tag": "C",
+            "text": "10天"
+          },
+          {
+            "tag": "D",
+            "text": "12天"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_crop_017",
+        "type": "single",
+        "question": "啤酒花需要搭设什么支撑结构？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "栅栏"
+          },
+          {
+            "tag": "B",
+            "text": "支架"
+          },
+          {
+            "tag": "C",
+            "text": "不需要支撑"
+          },
+          {
+            "tag": "D",
+            "text": "树"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_crop_018",
+        "type": "single",
+        "question": "哪种果树在秋季结果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "苹果树"
+          },
+          {
+            "tag": "B",
+            "text": "樱桃树"
+          },
+          {
+            "tag": "C",
+            "text": "桃子树"
+          },
+          {
+            "tag": "D",
+            "text": "石榴树"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_019",
+        "type": "single",
+        "question": "红叶卷心菜的生长周期是多少天？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "9天"
+          },
+          {
+            "tag": "B",
+            "text": "7天"
+          },
+          {
+            "tag": "C",
+            "text": "12天"
+          },
+          {
+            "tag": "D",
+            "text": "6天"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_020",
+        "type": "single",
+        "question": "咖啡豆多久收获一次？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "每2天"
+          },
+          {
+            "tag": "B",
+            "text": "每天"
+          },
+          {
+            "tag": "C",
+            "text": "每3天"
+          },
+          {
+            "tag": "D",
+            "text": "每4天"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_021",
+        "type": "single",
+        "question": "哪种夏季作物会长成巨型作物？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "甜瓜"
+          },
+          {
+            "tag": "B",
+            "text": "辣椒"
+          },
+          {
+            "tag": "C",
+            "text": "蓝莓"
+          },
+          {
+            "tag": "D",
+            "text": "番茄"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_022",
+        "type": "single",
+        "question": "啤酒花需要多少天生長？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "11天"
+          },
+          {
+            "tag": "B",
+            "text": "8天"
+          },
+          {
+            "tag": "C",
+            "text": "14天"
+          },
+          {
+            "tag": "D",
+            "text": "10天"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_023",
+        "type": "single",
+        "question": "哪种秋季作物可以产生巨型作物？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "南瓜"
+          },
+          {
+            "tag": "B",
+            "text": "蔓越莓"
+          },
+          {
+            "tag": "C",
+            "text": "山药"
+          },
+          {
+            "tag": "D",
+            "text": "白菜"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_024",
+        "type": "single",
+        "question": "混合种子可以种出什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "对应季节的随机野生作物"
+          },
+          {
+            "tag": "B",
+            "text": "普通作物"
+          },
+          {
+            "tag": "C",
+            "text": "果树"
+          },
+          {
+            "tag": "D",
+            "text": "什么也没有"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_025",
+        "type": "single",
+        "question": "哪种作物的种子可以在复活节购买？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "草莓"
+          },
+          {
+            "tag": "B",
+            "text": "蓝莓"
+          },
+          {
+            "tag": "C",
+            "text": "蔓越莓"
+          },
+          {
+            "tag": "D",
+            "text": "甜瓜"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_026",
+        "type": "single",
+        "question": "在温室中可以种植果树吗？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "可以，它们全年结果"
+          },
+          {
+            "tag": "B",
+            "text": "不可以"
+          },
+          {
+            "tag": "C",
+            "text": "只能种在边缘"
+          },
+          {
+            "tag": "D",
+            "text": "只能种在花盆里"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_crop_027",
+        "type": "single",
+        "question": "哪种作物可以在夏季种植并多次收获？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "蓝莓"
+          },
+          {
+            "tag": "B",
+            "text": "甜瓜"
+          },
+          {
+            "tag": "C",
+            "text": "萝卜"
+          },
+          {
+            "tag": "D",
+            "text": "玉米"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "animals",
+    "category_i18n": "动物知识",
+    "questionList": [
+      {
+        "id": "sv_anim_001",
+        "type": "single",
+        "question": "建造鸡舍需要多少金？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "2000金"
+          },
+          {
+            "tag": "B",
+            "text": "3000金"
+          },
+          {
+            "tag": "C",
+            "text": "4000金"
+          },
+          {
+            "tag": "D",
+            "text": "5000金"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_anim_002",
+        "type": "single",
+        "question": "哪种动物生产松露？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "牛"
+          },
+          {
+            "tag": "B",
+            "text": "山羊"
+          },
+          {
+            "tag": "C",
+            "text": "猪"
+          },
+          {
+            "tag": "D",
+            "text": "羊"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_anim_003",
+        "type": "single",
+        "question": "鸵鸟蛋可以在哪里孵化？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "孵蛋器"
+          },
+          {
+            "tag": "B",
+            "text": "鸵鸟孵蛋器"
+          },
+          {
+            "tag": "C",
+            "text": "加热器"
+          },
+          {
+            "tag": "D",
+            "text": "鸡舍孵蛋器"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_anim_004",
+        "type": "single",
+        "question": "鸭子能产出什么特殊产品？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "鸭毛"
+          },
+          {
+            "tag": "B",
+            "text": "鸭绒"
+          },
+          {
+            "tag": "C",
+            "text": "鸭蛋"
+          },
+          {
+            "tag": "D",
+            "text": "鸭肝"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_005",
+        "type": "single",
+        "question": "哪种动物生产山羊奶？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "牛"
+          },
+          {
+            "tag": "B",
+            "text": "山羊"
+          },
+          {
+            "tag": "C",
+            "text": "羊"
+          },
+          {
+            "tag": "D",
+            "text": "绵羊"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_anim_006",
+        "type": "single",
+        "question": "恐龙蛋可以孵化出什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "恐龙"
+          },
+          {
+            "tag": "B",
+            "text": "虚空鸡"
+          },
+          {
+            "tag": "C",
+            "text": "金鸡"
+          },
+          {
+            "tag": "D",
+            "text": "蓝鸡"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_007",
+        "type": "single",
+        "question": "猪在什么天气下不会寻找松露？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "雨天"
+          },
+          {
+            "tag": "B",
+            "text": "雪天"
+          },
+          {
+            "tag": "C",
+            "text": "大风天"
+          },
+          {
+            "tag": "D",
+            "text": "雷雨天"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_008",
+        "type": "single",
+        "question": "哪种动物的友谊度影响产品品质？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "所有动物"
+          },
+          {
+            "tag": "B",
+            "text": "只有鸡"
+          },
+          {
+            "tag": "C",
+            "text": "只有牛"
+          },
+          {
+            "tag": "D",
+            "text": "产奶动物"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_009",
+        "type": "single",
+        "question": "玛妮出售的自动采集器可以放在哪里？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "鸡舍和畜棚"
+          },
+          {
+            "tag": "B",
+            "text": "只有鸡舍"
+          },
+          {
+            "tag": "C",
+            "text": "只有畜棚"
+          },
+          {
+            "tag": "D",
+            "text": "室外任何地方"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_010",
+        "type": "single",
+        "question": "升温器（加热器）有什么作用？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "冬季保持动物快乐"
+          },
+          {
+            "tag": "B",
+            "text": "加速动物成长"
+          },
+          {
+            "tag": "C",
+            "text": "提高产品质量"
+          },
+          {
+            "tag": "D",
+            "text": "增加产量"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_011",
+        "type": "single",
+        "question": "鸡舍可以养什么动物？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "鸡、鸭、兔子、恐龙"
+          },
+          {
+            "tag": "B",
+            "text": "鸡、牛、猪"
+          },
+          {
+            "tag": "C",
+            "text": "只有鸡"
+          },
+          {
+            "tag": "D",
+            "text": "鸡和山羊"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_012",
+        "type": "single",
+        "question": "虚空蛋可以从哪里获得？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "从旅行商人处购买或虚空鸡产出"
+          },
+          {
+            "tag": "B",
+            "text": "只能从Joja购买"
+          },
+          {
+            "tag": "C",
+            "text": "在矿井中找到"
+          },
+          {
+            "tag": "D",
+            "text": "完成收集包奖励"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_013",
+        "type": "single",
+        "question": "动物每多少天可以怀孕一次？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "7天"
+          },
+          {
+            "tag": "B",
+            "text": "3天"
+          },
+          {
+            "tag": "C",
+            "text": "14天"
+          },
+          {
+            "tag": "D",
+            "text": "21天"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_014",
+        "type": "single",
+        "question": "搜刮器（自动采集器）可以收集什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "动物产品，如牛奶和鸡蛋"
+          },
+          {
+            "tag": "B",
+            "text": "只有鸡蛋"
+          },
+          {
+            "tag": "C",
+            "text": "只有羊毛"
+          },
+          {
+            "tag": "D",
+            "text": "农作物"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_015",
+        "type": "single",
+        "question": "动物在室外吃草时心情会如何变化？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "心情变好"
+          },
+          {
+            "tag": "B",
+            "text": "心情变差"
+          },
+          {
+            "tag": "C",
+            "text": "没有变化"
+          },
+          {
+            "tag": "D",
+            "text": "随机变化"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_016",
+        "type": "single",
+        "question": "鸡舍满级（高级鸡舍）可以养多少只动物？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "12只"
+          },
+          {
+            "tag": "B",
+            "text": "8只"
+          },
+          {
+            "tag": "C",
+            "text": "16只"
+          },
+          {
+            "tag": "D",
+            "text": "10只"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_017",
+        "type": "single",
+        "question": "高级畜棚（满级）可以养多少只动物？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "12只"
+          },
+          {
+            "tag": "B",
+            "text": "8只"
+          },
+          {
+            "tag": "C",
+            "text": "16只"
+          },
+          {
+            "tag": "D",
+            "text": "10只"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_018",
+        "type": "single",
+        "question": "什么动物吃松露？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "猪"
+          },
+          {
+            "tag": "B",
+            "text": "山羊"
+          },
+          {
+            "tag": "C",
+            "text": "牛"
+          },
+          {
+            "tag": "D",
+            "text": "羊"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_019",
+        "type": "single",
+        "question": "为什么需要给动物建围栏？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "防止它们走远"
+          },
+          {
+            "tag": "B",
+            "text": "让它们更开心"
+          },
+          {
+            "tag": "C",
+            "text": "提高产品质量"
+          },
+          {
+            "tag": "D",
+            "text": "它们不需要围栏"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_020",
+        "type": "single",
+        "question": "动物产品的品质取决于什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "友谊度和心情"
+          },
+          {
+            "tag": "B",
+            "text": "只是运气"
+          },
+          {
+            "tag": "C",
+            "text": "季节"
+          },
+          {
+            "tag": "D",
+            "text": "饲料类型"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_021",
+        "type": "single",
+        "question": "草（可食用的）如何种植？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "使用草籽在任意地上种"
+          },
+          {
+            "tag": "B",
+            "text": "只能在春季生长"
+          },
+          {
+            "tag": "C",
+            "text": "从罗宾购买"
+          },
+          {
+            "tag": "D",
+            "text": "自动生长"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_022",
+        "type": "single",
+        "question": "压酪机可以将什么转化为奶酪？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "牛奶和山羊奶"
+          },
+          {
+            "tag": "B",
+            "text": "只有牛奶"
+          },
+          {
+            "tag": "C",
+            "text": "只有山羊奶"
+          },
+          {
+            "tag": "D",
+            "text": "羊奶"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_023",
+        "type": "single",
+        "question": "织布机可以将什么转化为布料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "羊毛"
+          },
+          {
+            "tag": "B",
+            "text": "兔子的脚"
+          },
+          {
+            "tag": "C",
+            "text": "动物毛"
+          },
+          {
+            "tag": "D",
+            "text": "棉花"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_024",
+        "type": "single",
+        "question": "蛋黄酱机可以加工哪两种鸡蛋？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "普通鸡蛋和恐龙蛋"
+          },
+          {
+            "tag": "B",
+            "text": "所有鸡蛋"
+          },
+          {
+            "tag": "C",
+            "text": "只有普通鸡蛋"
+          },
+          {
+            "tag": "D",
+            "text": "虚空蛋和恐龙蛋"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_025",
+        "type": "single",
+        "question": "兔子除了产毛之外有时还会掉落什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "兔子的脚"
+          },
+          {
+            "tag": "B",
+            "text": "钻石"
+          },
+          {
+            "tag": "C",
+            "text": "兔子肉"
+          },
+          {
+            "tag": "D",
+            "text": "羽毛"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_026",
+        "type": "single",
+        "question": "哪种动物只有在鸡舍升级后才可以饲养？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "鸭子和兔子"
+          },
+          {
+            "tag": "B",
+            "text": "只有鸡"
+          },
+          {
+            "tag": "C",
+            "text": "恐龙"
+          },
+          {
+            "tag": "D",
+            "text": "虚空鸡"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_anim_027",
+        "type": "single",
+        "question": "蓝色小鸡如何获得？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "触发谢恩的8心剧情后随机获得"
+          },
+          {
+            "tag": "B",
+            "text": "从玛妮购买"
+          },
+          {
+            "tag": "C",
+            "text": "孵化蓝色鸡蛋"
+          },
+          {
+            "tag": "D",
+            "text": "秘密森林中找到"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "skills",
+    "category_i18n": "技能知识",
+    "questionList": [
+      {
+        "id": "sv_skill_001",
+        "type": "single",
+        "question": "星露谷物语有多少种技能？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "3种"
+          },
+          {
+            "tag": "B",
+            "text": "5种"
+          },
+          {
+            "tag": "C",
+            "text": "6种"
+          },
+          {
+            "tag": "D",
+            "text": "7种"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_skill_002",
+        "type": "single",
+        "question": "采矿技能达到5级时可以选择什么专精？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "矿工或地质学家"
+          },
+          {
+            "tag": "B",
+            "text": "铁匠或勘探者"
+          },
+          {
+            "tag": "C",
+            "text": "挖掘者或宝石学家"
+          },
+          {
+            "tag": "D",
+            "text": "采矿工或冶炼师"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_003",
+        "type": "single",
+        "question": "钓鱼技能达到10级时，渔夫专精有什么分支？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "渔夫或垂钓者"
+          },
+          {
+            "tag": "B",
+            "text": "海盗或捕蟹人"
+          },
+          {
+            "tag": "C",
+            "text": "渔夫或捕鱼者"
+          },
+          {
+            "tag": "D",
+            "text": "垂钓者或诱饵大师"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_skill_004",
+        "type": "single",
+        "question": "耕种技能达到5级时有哪些专精选择？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "农夫或牧场主"
+          },
+          {
+            "tag": "B",
+            "text": "耕种者或饲养者"
+          },
+          {
+            "tag": "C",
+            "text": "采集者和农夫"
+          },
+          {
+            "tag": "D",
+            "text": "农业学家和动物学家"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_005",
+        "type": "single",
+        "question": "采集技能达到10级时，植物学家专精有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "采集的野生植物总是金星品质"
+          },
+          {
+            "tag": "B",
+            "text": "采集的野生植物总是铱星品质"
+          },
+          {
+            "tag": "C",
+            "text": "获得双倍采集品"
+          },
+          {
+            "tag": "D",
+            "text": "采集时不会受到伤害"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_skill_006",
+        "type": "single",
+        "question": "战斗技能10级可以选什么专精？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "防御者或角斗士"
+          },
+          {
+            "tag": "B",
+            "text": "侦察兵或忍者"
+          },
+          {
+            "tag": "C",
+            "text": "战士或法师"
+          },
+          {
+            "tag": "D",
+            "text": "骑士或弓箭手"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_skill_007",
+        "type": "single",
+        "question": "采集5级的采收者和10级的植物学家哪个更高级？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "植物学家"
+          },
+          {
+            "tag": "B",
+            "text": "采收者"
+          },
+          {
+            "tag": "C",
+            "text": "它们是同一个分支"
+          },
+          {
+            "tag": "D",
+            "text": "两者同级"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_008",
+        "type": "single",
+        "question": "耕种10级农学家专精的效果是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "作物生长速度提高10%"
+          },
+          {
+            "tag": "B",
+            "text": "作物价值提高20%"
+          },
+          {
+            "tag": "C",
+            "text": "浇水范围扩大"
+          },
+          {
+            "tag": "D",
+            "text": "种子价格减半"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_009",
+        "type": "single",
+        "question": "钓鱼技能每升一级会增加什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "钓鱼条大小"
+          },
+          {
+            "tag": "B",
+            "text": "鱼的价值"
+          },
+          {
+            "tag": "C",
+            "text": "鱼的重量"
+          },
+          {
+            "tag": "D",
+            "text": "所有上述"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_skill_010",
+        "type": "single",
+        "question": "采矿五级的勘探者专精有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "发现煤炭的几率翻倍"
+          },
+          {
+            "tag": "B",
+            "text": "矿石售价提高50%"
+          },
+          {
+            "tag": "C",
+            "text": "宝石售价提高30%"
+          },
+          {
+            "tag": "D",
+            "text": "挖矿速度加快"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_011",
+        "type": "single",
+        "question": "耕种5级农夫专精有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "作物价值提高10%"
+          },
+          {
+            "tag": "B",
+            "text": "作物生长速度翻倍"
+          },
+          {
+            "tag": "C",
+            "text": "种子价格减半"
+          },
+          {
+            "tag": "D",
+            "text": "浇水范围扩大"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_012",
+        "type": "single",
+        "question": "采矿10级铁匠专精有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "金属锭价值提高50%"
+          },
+          {
+            "tag": "B",
+            "text": "矿石翻倍"
+          },
+          {
+            "tag": "C",
+            "text": "熔炼速度加快"
+          },
+          {
+            "tag": "D",
+            "text": "工具升级费用减半"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_013",
+        "type": "single",
+        "question": "采集10级伐木工专精有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "每棵树都有几率掉落硬木"
+          },
+          {
+            "tag": "B",
+            "text": "砍树速度翻倍"
+          },
+          {
+            "tag": "C",
+            "text": "获得更多木头"
+          },
+          {
+            "tag": "D",
+            "text": "树木生长更快"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_014",
+        "type": "single",
+        "question": "战斗5级侦察兵专精有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "暴击率提高50%"
+          },
+          {
+            "tag": "B",
+            "text": "攻击力提高"
+          },
+          {
+            "tag": "C",
+            "text": "移动速度提高"
+          },
+          {
+            "tag": "D",
+            "text": "生命值恢复"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_015",
+        "type": "single",
+        "question": "钓鱼5级渔夫专精有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "鱼卖价提高25%"
+          },
+          {
+            "tag": "B",
+            "text": "钓鱼条变大"
+          },
+          {
+            "tag": "C",
+            "text": "鱼上钩更快"
+          },
+          {
+            "tag": "D",
+            "text": "蟹笼产出增加"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_016",
+        "type": "single",
+        "question": "耕种第10级农学家专精有什么升级？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "农业学家没有10级分支"
+          },
+          {
+            "tag": "B",
+            "text": "工匠"
+          },
+          {
+            "tag": "C",
+            "text": "农夫"
+          },
+          {
+            "tag": "D",
+            "text": "牧场主"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_017",
+        "type": "single",
+        "question": "钓鱼技能每升一级会减少渔获物的挣扎？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "是的，钓鱼区域减少"
+          },
+          {
+            "tag": "B",
+            "text": "不，没有影响"
+          },
+          {
+            "tag": "C",
+            "text": "只增加条大小"
+          },
+          {
+            "tag": "D",
+            "text": "只增加鱼的售价"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_018",
+        "type": "single",
+        "question": "增加钓鱼技能的食物能否叠加？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "不能，只取最高值"
+          },
+          {
+            "tag": "B",
+            "text": "可以叠加"
+          },
+          {
+            "tag": "C",
+            "text": "只能和装备叠加"
+          },
+          {
+            "tag": "D",
+            "text": "可以吃多种但时间叠加"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_019",
+        "type": "single",
+        "question": "战斗10级野蛮人专精有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "伤害提高15%"
+          },
+          {
+            "tag": "B",
+            "text": "生命值翻倍"
+          },
+          {
+            "tag": "C",
+            "text": "防御力提高"
+          },
+          {
+            "tag": "D",
+            "text": "暴击伤害翻倍"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_020",
+        "type": "single",
+        "question": "采矿5级地质学家专精有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "宝石有几率成对出现"
+          },
+          {
+            "tag": "B",
+            "text": "宝石价格翻倍"
+          },
+          {
+            "tag": "C",
+            "text": "晶洞出现率提高"
+          },
+          {
+            "tag": "D",
+            "text": "挖掘速度加快"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_021",
+        "type": "single",
+        "question": "技能满级时（10级）能否再改专精？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "可以在狗雕像处花费10000金重置"
+          },
+          {
+            "tag": "B",
+            "text": "不能"
+          },
+          {
+            "tag": "C",
+            "text": "只能改一次"
+          },
+          {
+            "tag": "D",
+            "text": "需要重新练技能"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_022",
+        "type": "single",
+        "question": "采集10级追踪者专精有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "屏幕上显示已采集物品的位置"
+          },
+          {
+            "tag": "B",
+            "text": "显示宝箱位置"
+          },
+          {
+            "tag": "C",
+            "text": "显示鱼群位置"
+          },
+          {
+            "tag": "D",
+            "text": "显示怪物位置"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_023",
+        "type": "single",
+        "question": "战斗10级防御者专精有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "生命值增加25"
+          },
+          {
+            "tag": "B",
+            "text": "防御力翻倍"
+          },
+          {
+            "tag": "C",
+            "text": "格挡几率增加"
+          },
+          {
+            "tag": "D",
+            "text": "受到的伤害减半"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_024",
+        "type": "single",
+        "question": "耕种技能影响什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "作物价值和锄头使用"
+          },
+          {
+            "tag": "B",
+            "text": "只有浇水壶"
+          },
+          {
+            "tag": "C",
+            "text": "动物产品品质"
+          },
+          {
+            "tag": "D",
+            "text": "种子价格"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_025",
+        "type": "single",
+        "question": "钓鱼10级捕蟹人专精有什么分支？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "海盗和诱饵大师"
+          },
+          {
+            "tag": "B",
+            "text": "渔夫和垂钓者"
+          },
+          {
+            "tag": "C",
+            "text": "捕蟹人和垂钓者"
+          },
+          {
+            "tag": "D",
+            "text": "没有分支"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_026",
+        "type": "single",
+        "question": "采集10级植物学家的上一级专精是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "采收者"
+          },
+          {
+            "tag": "B",
+            "text": "采蘑菇"
+          },
+          {
+            "tag": "C",
+            "text": "追踪者"
+          },
+          {
+            "tag": "D",
+            "text": "伐木工"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_skill_027",
+        "type": "single",
+        "question": "采矿技能影响什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "镐效率和宝石发现"
+          },
+          {
+            "tag": "B",
+            "text": "只有炸弹伤害"
+          },
+          {
+            "tag": "C",
+            "text": "矿石售价"
+          },
+          {
+            "tag": "D",
+            "text": "下矿速度"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "festivals",
+    "category_i18n": "节日知识",
+    "questionList": [
+      {
+        "id": "sv_fest_001",
+        "type": "single",
+        "question": "春季第几号举行复活节？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "第9天"
+          },
+          {
+            "tag": "B",
+            "text": "第13天"
+          },
+          {
+            "tag": "C",
+            "text": "第15天"
+          },
+          {
+            "tag": "D",
+            "text": "第21天"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_fest_002",
+        "type": "single",
+        "question": "花舞节在哪个月份举行？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "春季"
+          },
+          {
+            "tag": "B",
+            "text": "夏季"
+          },
+          {
+            "tag": "C",
+            "text": "秋季"
+          },
+          {
+            "tag": "D",
+            "text": "冬季"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_003",
+        "type": "single",
+        "question": "星露谷展览会上可以玩什么小游戏？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "钓鱼比赛"
+          },
+          {
+            "tag": "B",
+            "text": "转盘游戏"
+          },
+          {
+            "tag": "C",
+            "text": "射箭"
+          },
+          {
+            "tag": "D",
+            "text": "赛跑"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_fest_004",
+        "type": "single",
+        "question": "冰雪节在哪个季节举行？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "春季"
+          },
+          {
+            "tag": "B",
+            "text": "夏季"
+          },
+          {
+            "tag": "C",
+            "text": "秋季"
+          },
+          {
+            "tag": "D",
+            "text": "冬季"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "sv_fest_005",
+        "type": "single",
+        "question": "万灵节的主要活动是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "迷宫探险"
+          },
+          {
+            "tag": "B",
+            "text": "钓鱼大赛"
+          },
+          {
+            "tag": "C",
+            "text": "烹饪比赛"
+          },
+          {
+            "tag": "D",
+            "text": "装饰评比"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_006",
+        "type": "single",
+        "question": "夏威夷宴会在夏季第几天？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "夏季第11天"
+          },
+          {
+            "tag": "B",
+            "text": "夏季第15天"
+          },
+          {
+            "tag": "C",
+            "text": "夏季第20天"
+          },
+          {
+            "tag": "D",
+            "text": "夏季第21天"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_007",
+        "type": "single",
+        "question": "月光水母起舞节在夏季第几天？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "夏季第20天"
+          },
+          {
+            "tag": "B",
+            "text": "夏季第25天"
+          },
+          {
+            "tag": "C",
+            "text": "夏季第28天"
+          },
+          {
+            "tag": "D",
+            "text": "夏季第15天"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_fest_008",
+        "type": "single",
+        "question": "星露谷展览会在哪个季节？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "春季"
+          },
+          {
+            "tag": "B",
+            "text": "夏季"
+          },
+          {
+            "tag": "C",
+            "text": "秋季"
+          },
+          {
+            "tag": "D",
+            "text": "冬季"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_fest_009",
+        "type": "single",
+        "question": "万灵节在秋季第几天？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "秋季第25天"
+          },
+          {
+            "tag": "B",
+            "text": "秋季第27天"
+          },
+          {
+            "tag": "C",
+            "text": "秋季第21天"
+          },
+          {
+            "tag": "D",
+            "text": "秋季第15天"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_fest_010",
+        "type": "single",
+        "question": "冰雪节比赛的目标是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "钓到至少5条鱼"
+          },
+          {
+            "tag": "B",
+            "text": "钓到最多鱼的人获胜"
+          },
+          {
+            "tag": "C",
+            "text": "钓到最重的鱼"
+          },
+          {
+            "tag": "D",
+            "text": "钓到蓝色神秘鱼"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_011",
+        "type": "single",
+        "question": "夜市在什么季节举办？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "冬季"
+          },
+          {
+            "tag": "B",
+            "text": "秋季"
+          },
+          {
+            "tag": "C",
+            "text": "夏季"
+          },
+          {
+            "tag": "D",
+            "text": "春季"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_012",
+        "type": "single",
+        "question": "星露谷饺子节是什么时候？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "这个节日不存在"
+          },
+          {
+            "tag": "B",
+            "text": "冬季第7天"
+          },
+          {
+            "tag": "C",
+            "text": "夏季第11天"
+          },
+          {
+            "tag": "D",
+            "text": "春季第5天"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_013",
+        "type": "single",
+        "question": "万灵节可以做什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "进入迷宫并领取奖励"
+          },
+          {
+            "tag": "B",
+            "text": "钓鱼比赛"
+          },
+          {
+            "tag": "C",
+            "text": "烹饪比赛"
+          },
+          {
+            "tag": "D",
+            "text": "跳舞比赛"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_014",
+        "type": "single",
+        "question": "复活节寻蛋活动的目标是多少个彩蛋？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "找到9个彩蛋"
+          },
+          {
+            "tag": "B",
+            "text": "找到12个彩蛋"
+          },
+          {
+            "tag": "C",
+            "text": "找到15个彩蛋"
+          },
+          {
+            "tag": "D",
+            "text": "找到7个彩蛋"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_015",
+        "type": "single",
+        "question": "花舞节需要舞伴至少多少好感度？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "4颗心"
+          },
+          {
+            "tag": "B",
+            "text": "2颗心"
+          },
+          {
+            "tag": "C",
+            "text": "6颗心"
+          },
+          {
+            "tag": "D",
+            "text": "8颗心"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_016",
+        "type": "single",
+        "question": "夜市的神秘潜艇可以做什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "钓深海鱼"
+          },
+          {
+            "tag": "B",
+            "text": "购买商品"
+          },
+          {
+            "tag": "C",
+            "text": "参观水族馆"
+          },
+          {
+            "tag": "D",
+            "text": "吃饭"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_017",
+        "type": "single",
+        "question": "星露谷展览会上的转盘游戏赢的概率是多少？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "绿色约75%橙色约25%"
+          },
+          {
+            "tag": "B",
+            "text": "各50%"
+          },
+          {
+            "tag": "C",
+            "text": "完全随机"
+          },
+          {
+            "tag": "D",
+            "text": "取决于运气"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_018",
+        "type": "single",
+        "question": "冰雪节的比赛形式是？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "钓鱼比赛，钓最多或最重"
+          },
+          {
+            "tag": "B",
+            "text": "冰雕比赛"
+          },
+          {
+            "tag": "C",
+            "text": "滑雪比赛"
+          },
+          {
+            "tag": "D",
+            "text": "冰球比赛"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_019",
+        "type": "single",
+        "question": "展览会中如何获得星星币？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "玩转盘游戏和钓鱼游戏"
+          },
+          {
+            "tag": "B",
+            "text": "直接购买"
+          },
+          {
+            "tag": "C",
+            "text": "交给镇长"
+          },
+          {
+            "tag": "D",
+            "text": "和NPC对话"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_020",
+        "type": "single",
+        "question": "夜市在哪里举办？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "海滩码头"
+          },
+          {
+            "tag": "B",
+            "text": "鹈鹕镇广场"
+          },
+          {
+            "tag": "C",
+            "text": "煤矿森林"
+          },
+          {
+            "tag": "D",
+            "text": "山脉"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_021",
+        "type": "single",
+        "question": "冬季第8天是什么节日？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "冰雪节"
+          },
+          {
+            "tag": "B",
+            "text": "冬季星宴"
+          },
+          {
+            "tag": "C",
+            "text": "夜市"
+          },
+          {
+            "tag": "D",
+            "text": "不存在节日"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_022",
+        "type": "single",
+        "question": "夏威夷宴会中厨师是谁？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "州长"
+          },
+          {
+            "tag": "B",
+            "text": "刘易斯"
+          },
+          {
+            "tag": "C",
+            "text": "格斯"
+          },
+          {
+            "tag": "D",
+            "text": "随机村民"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_023",
+        "type": "single",
+        "question": "星光大会（沙漠节）在什么时候？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "春季15-17日"
+          },
+          {
+            "tag": "B",
+            "text": "夏季20-22日"
+          },
+          {
+            "tag": "C",
+            "text": "秋季10-12日"
+          },
+          {
+            "tag": "D",
+            "text": "冬季5-7日"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_024",
+        "type": "single",
+        "question": "姜岛农場可以参加什么节日？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "没有独立节日"
+          },
+          {
+            "tag": "B",
+            "text": "姜岛丰收节"
+          },
+          {
+            "tag": "C",
+            "text": "海滩派对"
+          },
+          {
+            "tag": "D",
+            "text": "夏威夷宴会2"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_025",
+        "type": "single",
+        "question": "月光水母起舞节在哪里举行？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "海滩"
+          },
+          {
+            "tag": "B",
+            "text": "煤矿森林"
+          },
+          {
+            "tag": "C",
+            "text": "高山湖"
+          },
+          {
+            "tag": "D",
+            "text": "巴士站"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_026",
+        "type": "single",
+        "question": "有多少个节日在秋季？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "2个（展览会和万灵节）"
+          },
+          {
+            "tag": "B",
+            "text": "1个"
+          },
+          {
+            "tag": "C",
+            "text": "3个"
+          },
+          {
+            "tag": "D",
+            "text": "4个"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fest_027",
+        "type": "single",
+        "question": "节日当天商店会营业吗？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "大部分商店会关闭"
+          },
+          {
+            "tag": "B",
+            "text": "所有商店正常营业"
+          },
+          {
+            "tag": "C",
+            "text": "只有星落酒店营业"
+          },
+          {
+            "tag": "D",
+            "text": "不确定"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "cooking",
+    "category_i18n": "烹饪",
+    "questionList": [
+      {
+        "id": "sv_cook_001",
+        "type": "single",
+        "question": "制作意式烤面包需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "面包、番茄"
+          },
+          {
+            "tag": "B",
+            "text": "面包、奶酪"
+          },
+          {
+            "tag": "C",
+            "text": "面包、大蒜"
+          },
+          {
+            "tag": "D",
+            "text": "面包、橄榄油"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_002",
+        "type": "single",
+        "question": "幸运午餐需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "海参、墨西哥薄饼、蓝爵"
+          },
+          {
+            "tag": "B",
+            "text": "鱼、面包、沙拉"
+          },
+          {
+            "tag": "C",
+            "text": "虾、米饭、海苔"
+          },
+          {
+            "tag": "D",
+            "text": "鲑鱼、鸡蛋、番茄"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_003",
+        "type": "single",
+        "question": "烹饪需要什么建筑？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "厨房（农舍升级）"
+          },
+          {
+            "tag": "B",
+            "text": "谷仓"
+          },
+          {
+            "tag": "C",
+            "text": "鸡舍"
+          },
+          {
+            "tag": "D",
+            "text": "工坊"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_004",
+        "type": "single",
+        "question": "蟹黄糕需要用到哪些材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "螃蟹、小麦粉、鸡蛋、油"
+          },
+          {
+            "tag": "B",
+            "text": "龙虾、黄油、柠檬"
+          },
+          {
+            "tag": "C",
+            "text": "虾、面包、奶酪"
+          },
+          {
+            "tag": "D",
+            "text": "蛤蜊、米饭、海苔"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_005",
+        "type": "single",
+        "question": "哪种食物可以增加最大体力？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "鲑鱼晚餐"
+          },
+          {
+            "tag": "B",
+            "text": "奶酪"
+          },
+          {
+            "tag": "C",
+            "text": "帕尔玛奶酪茄子"
+          },
+          {
+            "tag": "D",
+            "text": "土豆泥"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_cook_006",
+        "type": "single",
+        "question": "鱼肉卷需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "金枪鱼、墨西哥薄饼、红叶卷心菜"
+          },
+          {
+            "tag": "B",
+            "text": "鲑鱼、面包、生菜"
+          },
+          {
+            "tag": "C",
+            "text": "鳀鱼、玉米饼、番茄"
+          },
+          {
+            "tag": "D",
+            "text": "任何鱼、小麦粉、奶酪"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_007",
+        "type": "single",
+        "question": "哪道菜可以大幅提高最大体力？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "帕尔玛奶酪茄子"
+          },
+          {
+            "tag": "B",
+            "text": "炒鳗鱼"
+          },
+          {
+            "tag": "C",
+            "text": "鲑鱼晚餐"
+          },
+          {
+            "tag": "D",
+            "text": "蔬菜混合拼盘"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_cook_008",
+        "type": "single",
+        "question": "蓝莓馅饼需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "蓝莓、小麦粉、糖、鸡蛋"
+          },
+          {
+            "tag": "B",
+            "text": "蓝莓、牛奶、黄油"
+          },
+          {
+            "tag": "C",
+            "text": "蓝莓、面团、奶酪"
+          },
+          {
+            "tag": "D",
+            "text": "蓝莓、奶油、巧克力"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_009",
+        "type": "single",
+        "question": "海味菜肴需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "比目鱼、午夜鲤鱼、鱿鱼墨汁"
+          },
+          {
+            "tag": "B",
+            "text": "虾、螃蟹、蛤蜊"
+          },
+          {
+            "tag": "C",
+            "text": "金枪鱼、米饭、海苔"
+          },
+          {
+            "tag": "D",
+            "text": "龙虾、黄油、柠檬"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_010",
+        "type": "single",
+        "question": "三倍浓缩咖啡有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "大幅提高速度"
+          },
+          {
+            "tag": "B",
+            "text": "增加攻击力"
+          },
+          {
+            "tag": "C",
+            "text": "增加防御力"
+          },
+          {
+            "tag": "D",
+            "text": "增加运气"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_011",
+        "type": "single",
+        "question": "制作帕尔玛奶酪茄子需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "茄子、番茄"
+          },
+          {
+            "tag": "B",
+            "text": "茄子、奶酪、番茄"
+          },
+          {
+            "tag": "C",
+            "text": "茄子、面包屑"
+          },
+          {
+            "tag": "D",
+            "text": "茄子、鸡蛋、奶酪"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_012",
+        "type": "single",
+        "question": "制作米饭布丁需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "牛奶、糖、米饭"
+          },
+          {
+            "tag": "B",
+            "text": "米饭、鸡蛋"
+          },
+          {
+            "tag": "C",
+            "text": "牛奶、米饭"
+          },
+          {
+            "tag": "D",
+            "text": "糖、米饭、黄油"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_013",
+        "type": "single",
+        "question": "制作蔬菜什锦需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "番茄、甜菜"
+          },
+          {
+            "tag": "B",
+            "text": "胡萝卜、土豆"
+          },
+          {
+            "tag": "C",
+            "text": "甘蓝菜、番茄"
+          },
+          {
+            "tag": "D",
+            "text": "防风草、甘蓝菜"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_014",
+        "type": "single",
+        "question": "完美早餐提供什么增益效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "体力上限和体力恢复"
+          },
+          {
+            "tag": "B",
+            "text": "攻击力"
+          },
+          {
+            "tag": "C",
+            "text": "防御力"
+          },
+          {
+            "tag": "D",
+            "text": "速度"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_015",
+        "type": "single",
+        "question": "蔓越莓糖果需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "蔓越莓、苹果、糖"
+          },
+          {
+            "tag": "B",
+            "text": "蔓越莓、糖"
+          },
+          {
+            "tag": "C",
+            "text": "蔓越莓、蜂蜜"
+          },
+          {
+            "tag": "D",
+            "text": "蔓越莓、巧克力"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_016",
+        "type": "single",
+        "question": "炸鱿鱼需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "鱿鱼、小麦粉、油"
+          },
+          {
+            "tag": "B",
+            "text": "鱿鱼、鸡蛋"
+          },
+          {
+            "tag": "C",
+            "text": "鱿鱼、面包屑"
+          },
+          {
+            "tag": "D",
+            "text": "鱿鱼、柠檬"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_017",
+        "type": "single",
+        "question": "土豆煎饼需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "土豆、油"
+          },
+          {
+            "tag": "B",
+            "text": "土豆、黄油"
+          },
+          {
+            "tag": "C",
+            "text": "土豆、鸡蛋"
+          },
+          {
+            "tag": "D",
+            "text": "土豆、奶酪"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_018",
+        "type": "single",
+        "question": "哪种烹饪可以恢复最多体力？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "帕尔玛奶酪茄子"
+          },
+          {
+            "tag": "B",
+            "text": "沙拉"
+          },
+          {
+            "tag": "C",
+            "text": "面包"
+          },
+          {
+            "tag": "D",
+            "text": "防风草原"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_019",
+        "type": "single",
+        "question": "芝士卷心菜需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "红叶卷心菜、蛋黄酱"
+          },
+          {
+            "tag": "B",
+            "text": "卷心菜、醋"
+          },
+          {
+            "tag": "C",
+            "text": "卷心菜、胡萝卜"
+          },
+          {
+            "tag": "D",
+            "text": "卷心菜、盐"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_020",
+        "type": "single",
+        "question": "需要什么建筑才能烹饪？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "农舍升级一次获得厨房"
+          },
+          {
+            "tag": "B",
+            "text": "户外篝火"
+          },
+          {
+            "tag": "C",
+            "text": "任何地方都可以"
+          },
+          {
+            "tag": "D",
+            "text": "社区中心厨房"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_021",
+        "type": "single",
+        "question": "板栗烩饭需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "板栗、米饭、油、香料"
+          },
+          {
+            "tag": "B",
+            "text": "板栗、奶油"
+          },
+          {
+            "tag": "C",
+            "text": "板栗、牛奶"
+          },
+          {
+            "tag": "D",
+            "text": "板栗、蘑菇"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_022",
+        "type": "single",
+        "question": "鲑鱼晚餐需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "鲑鱼、苋菜、甘蓝菜"
+          },
+          {
+            "tag": "B",
+            "text": "鲑鱼、土豆"
+          },
+          {
+            "tag": "C",
+            "text": "鲑鱼、米飯"
+          },
+          {
+            "tag": "D",
+            "text": "鲑鱼、面包"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_023",
+        "type": "single",
+        "question": "哪些食物可以增加钓鱼技能？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "鱼肉卷、龙虾浓汤、海味菜肴"
+          },
+          {
+            "tag": "B",
+            "text": "只有鱼肉卷"
+          },
+          {
+            "tag": "C",
+            "text": "沙拉和面包"
+          },
+          {
+            "tag": "D",
+            "text": "幸运午餐"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_024",
+        "type": "single",
+        "question": "三倍浓缩咖啡的效果是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "大幅提高速度"
+          },
+          {
+            "tag": "B",
+            "text": "恢复大量体力"
+          },
+          {
+            "tag": "C",
+            "text": "提高攻击力"
+          },
+          {
+            "tag": "D",
+            "text": "提高运气"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_025",
+        "type": "single",
+        "question": "烹饪可以批量制作吗？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "每次只能做一份"
+          },
+          {
+            "tag": "B",
+            "text": "可以一次做多份"
+          },
+          {
+            "tag": "C",
+            "text": "取决于食谱"
+          },
+          {
+            "tag": "D",
+            "text": "需要特殊工具"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_026",
+        "type": "single",
+        "question": "姜汁汽水需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "生姜、糖"
+          },
+          {
+            "tag": "B",
+            "text": "生姜、柠檬"
+          },
+          {
+            "tag": "C",
+            "text": "生姜、蜂蜜"
+          },
+          {
+            "tag": "D",
+            "text": "姜汁、汽水"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_cook_027",
+        "type": "single",
+        "question": "榴石汤需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "没有这道菜"
+          },
+          {
+            "tag": "B",
+            "text": "钻石和牛奶"
+          },
+          {
+            "tag": "C",
+            "text": "红宝石和糖"
+          },
+          {
+            "tag": "D",
+            "text": "翡翠和水"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "fishing",
+    "category_i18n": "钓鱼",
+    "questionList": [
+      {
+        "id": "sv_fish_001",
+        "type": "single",
+        "question": "春季可以在河流中钓到什么鱼？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "鲶鱼"
+          },
+          {
+            "tag": "B",
+            "text": "沙丁鱼"
+          },
+          {
+            "tag": "C",
+            "text": "鲤鱼"
+          },
+          {
+            "tag": "D",
+            "text": "大眼鱼"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_fish_002",
+        "type": "single",
+        "question": "传说之鱼在哪里可以钓到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "矿井外的湖"
+          },
+          {
+            "tag": "B",
+            "text": "河流"
+          },
+          {
+            "tag": "C",
+            "text": "海洋"
+          },
+          {
+            "tag": "D",
+            "text": "秘密森林池塘"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_003",
+        "type": "single",
+        "question": "在星露谷中，什么天气更容易钓到鲶鱼？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "晴天"
+          },
+          {
+            "tag": "B",
+            "text": "雨天"
+          },
+          {
+            "tag": "C",
+            "text": "雪天"
+          },
+          {
+            "tag": "D",
+            "text": "任何天气"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_fish_004",
+        "type": "single",
+        "question": "威利在哪里出售钓鱼用具？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "渔具店（海边）"
+          },
+          {
+            "tag": "B",
+            "text": "杂货店"
+          },
+          {
+            "tag": "C",
+            "text": "铁匠铺"
+          },
+          {
+            "tag": "D",
+            "text": "木匠铺"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_005",
+        "type": "single",
+        "question": "哪种鱼可以在夏季的海洋中钓到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "红鲷鱼"
+          },
+          {
+            "tag": "B",
+            "text": "虹鳟鱼"
+          },
+          {
+            "tag": "C",
+            "text": "大嘴鲈鱼"
+          },
+          {
+            "tag": "D",
+            "text": "狗鱼"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_006",
+        "type": "single",
+        "question": "春季的雨天在河流中可以钓到什么鱼？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "鲶鱼"
+          },
+          {
+            "tag": "B",
+            "text": "太阳鱼"
+          },
+          {
+            "tag": "C",
+            "text": "小嘴鲈鱼"
+          },
+          {
+            "tag": "D",
+            "text": "虹鳟鱼"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_007",
+        "type": "single",
+        "question": "宝藏钓钩（渔具）有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "增加钓到宝箱的概率"
+          },
+          {
+            "tag": "B",
+            "text": "吸引金属鱼"
+          },
+          {
+            "tag": "C",
+            "text": "让鱼饵永不耗尽"
+          },
+          {
+            "tag": "D",
+            "text": "增加钓鱼条大小"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_008",
+        "type": "single",
+        "question": "比目鱼在什么季节可以钓到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "春季和夏季"
+          },
+          {
+            "tag": "B",
+            "text": "夏季和秋季"
+          },
+          {
+            "tag": "C",
+            "text": "春季"
+          },
+          {
+            "tag": "D",
+            "text": "所有季节"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_009",
+        "type": "single",
+        "question": "鱿鱼在哪个季节的夜晚可以钓到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "冬季"
+          },
+          {
+            "tag": "B",
+            "text": "夏季"
+          },
+          {
+            "tag": "C",
+            "text": "秋季"
+          },
+          {
+            "tag": "D",
+            "text": "春季"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_010",
+        "type": "single",
+        "question": "哪种鱼可以在任何季节的矿井水中钓到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "石鱼"
+          },
+          {
+            "tag": "B",
+            "text": "鬼鱼"
+          },
+          {
+            "tag": "C",
+            "text": "冰柱鱼"
+          },
+          {
+            "tag": "D",
+            "text": "岩浆鳗鱼"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_fish_011",
+        "type": "single",
+        "question": "传说之鱼二代可以在哪里钓到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "姜岛山顶的池塘"
+          },
+          {
+            "tag": "B",
+            "text": "星露谷高山湖"
+          },
+          {
+            "tag": "C",
+            "text": "秘密森林"
+          },
+          {
+            "tag": "D",
+            "text": "矿井40层"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_012",
+        "type": "single",
+        "question": "虎纹鳟鱼在什么季节可以钓到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "秋季和冬季"
+          },
+          {
+            "tag": "B",
+            "text": "春季和夏季"
+          },
+          {
+            "tag": "C",
+            "text": "所有季节"
+          },
+          {
+            "tag": "D",
+            "text": "只有秋季"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_013",
+        "type": "single",
+        "question": "沙鱼在哪里可以钓到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "沙漠池塘"
+          },
+          {
+            "tag": "B",
+            "text": "海洋"
+          },
+          {
+            "tag": "C",
+            "text": "河流"
+          },
+          {
+            "tag": "D",
+            "text": "高山湖泊"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_014",
+        "type": "single",
+        "question": "海参在什么季节可以钓到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "秋季和冬季"
+          },
+          {
+            "tag": "B",
+            "text": "春季和夏季"
+          },
+          {
+            "tag": "C",
+            "text": "所有季节"
+          },
+          {
+            "tag": "D",
+            "text": "夏季"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_015",
+        "type": "single",
+        "question": "章鱼需要什么钓鱼等级才能钓到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "钓鱼5级"
+          },
+          {
+            "tag": "B",
+            "text": "钓鱼3级"
+          },
+          {
+            "tag": "C",
+            "text": "钓鱼8级"
+          },
+          {
+            "tag": "D",
+            "text": "不需要"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_016",
+        "type": "single",
+        "question": "绯红鱼在哪个季节可以钓到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "夏季"
+          },
+          {
+            "tag": "B",
+            "text": "春季"
+          },
+          {
+            "tag": "C",
+            "text": "秋季"
+          },
+          {
+            "tag": "D",
+            "text": "冬季"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_017",
+        "type": "single",
+        "question": "铱金鱼竿有什么特殊功能？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "同时使用鱼饵和渔具"
+          },
+          {
+            "tag": "B",
+            "text": "钓鱼条最大"
+          },
+          {
+            "tag": "C",
+            "text": "自动钓鱼"
+          },
+          {
+            "tag": "D",
+            "text": "鱼永远不会挣脱"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_018",
+        "type": "single",
+        "question": "蟹笼需要什么材料制作？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "木材和铁锭"
+          },
+          {
+            "tag": "B",
+            "text": "木材和铜锭"
+          },
+          {
+            "tag": "C",
+            "text": "石头和木材"
+          },
+          {
+            "tag": "D",
+            "text": "纤维和木材"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_019",
+        "type": "single",
+        "question": "姜岛海滩在哪类水域钓鱼？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "海洋"
+          },
+          {
+            "tag": "B",
+            "text": "淡水"
+          },
+          {
+            "tag": "C",
+            "text": "半咸水"
+          },
+          {
+            "tag": "D",
+            "text": "特殊水域"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_020",
+        "type": "single",
+        "question": "变种鲤鱼在哪里可以钓到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "下水道"
+          },
+          {
+            "tag": "B",
+            "text": "河流"
+          },
+          {
+            "tag": "C",
+            "text": "秘密森林"
+          },
+          {
+            "tag": "D",
+            "text": "矿井"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_021",
+        "type": "single",
+        "question": "装备陷阱鱼钩渔具有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "鱼逃脱减慢"
+          },
+          {
+            "tag": "B",
+            "text": "增加钓鱼条大小"
+          },
+          {
+            "tag": "C",
+            "text": "吸引稀有鱼"
+          },
+          {
+            "tag": "D",
+            "text": "增加鱼的价值"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_022",
+        "type": "single",
+        "question": "海之菜肴（赛程）有什么效果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "大幅提高钓鱼等级"
+          },
+          {
+            "tag": "B",
+            "text": "增加钓鱼条大小"
+          },
+          {
+            "tag": "C",
+            "text": "加快鱼上钩"
+          },
+          {
+            "tag": "D",
+            "text": "增加宝箱概率"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_023",
+        "type": "single",
+        "question": "在沙漠中钓鱼需要什么条件？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "钓鱼4级在沙漠池塘"
+          },
+          {
+            "tag": "B",
+            "text": "任何等级都可以"
+          },
+          {
+            "tag": "C",
+            "text": "需要特殊鱼竿"
+          },
+          {
+            "tag": "D",
+            "text": "需要鱼饵"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_024",
+        "type": "single",
+        "question": "宝箱（钓鱼）中可能获得什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "文物、矿物、戒指和道具"
+          },
+          {
+            "tag": "B",
+            "text": "只有金"
+          },
+          {
+            "tag": "C",
+            "text": "只有鱼"
+          },
+          {
+            "tag": "D",
+            "text": "只垃圾"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_025",
+        "type": "single",
+        "question": "在夜市潜艇中可以钓到什么特殊鱼？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "午夜鱿鱼、幽灵鱼、熔岩鳗鱼"
+          },
+          {
+            "tag": "B",
+            "text": "只有普通鱼"
+          },
+          {
+            "tag": "C",
+            "text": "传说鱼"
+          },
+          {
+            "tag": "D",
+            "text": "无法钓鱼"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_026",
+        "type": "single",
+        "question": "威利最喜欢什么礼物？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "任何鱼或螃蟹"
+          },
+          {
+            "tag": "B",
+            "text": "啤酒"
+          },
+          {
+            "tag": "C",
+            "text": "咖啡"
+          },
+          {
+            "tag": "D",
+            "text": "钻石"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_fish_027",
+        "type": "single",
+        "question": "传说鱼的捕捉次数有限制吗？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "每档只能钓一次"
+          },
+          {
+            "tag": "B",
+            "text": "无限制"
+          },
+          {
+            "tag": "C",
+            "text": "每天一次"
+          },
+          {
+            "tag": "D",
+            "text": "每季一次"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "mining",
+    "category_i18n": "采矿",
+    "questionList": [
+      {
+        "id": "sv_mine_001",
+        "type": "single",
+        "question": "矿井一共有多少层？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "100层"
+          },
+          {
+            "tag": "B",
+            "text": "110层"
+          },
+          {
+            "tag": "C",
+            "text": "120层"
+          },
+          {
+            "tag": "D",
+            "text": "130层"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_mine_002",
+        "type": "single",
+        "question": "在矿井的哪个层数可以找到黄金矿石？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "40-60层"
+          },
+          {
+            "tag": "B",
+            "text": "60-80层"
+          },
+          {
+            "tag": "C",
+            "text": "80-120层"
+          },
+          {
+            "tag": "D",
+            "text": "20-40层"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_mine_003",
+        "type": "single",
+        "question": "下矿井时如何快速到达已解锁的较低层？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "使用电梯"
+          },
+          {
+            "tag": "B",
+            "text": "使用传送杖"
+          },
+          {
+            "tag": "C",
+            "text": "跳进矿洞"
+          },
+          {
+            "tag": "D",
+            "text": "使用炸弹"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_004",
+        "type": "single",
+        "question": "哪种怪物在矿井中掉落钻石？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "粉尘精灵"
+          },
+          {
+            "tag": "B",
+            "text": "石魔"
+          },
+          {
+            "tag": "C",
+            "text": "鬼魂"
+          },
+          {
+            "tag": "D",
+            "text": "骷髅"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_mine_005",
+        "type": "single",
+        "question": "骷髅洞穴位于哪里？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "矿井最底层"
+          },
+          {
+            "tag": "B",
+            "text": "沙漠"
+          },
+          {
+            "tag": "C",
+            "text": "秘密森林"
+          },
+          {
+            "tag": "D",
+            "text": "火车站"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_mine_006",
+        "type": "single",
+        "question": "矿井中的煤炭精灵掉落什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "煤炭"
+          },
+          {
+            "tag": "B",
+            "text": "铁矿石"
+          },
+          {
+            "tag": "C",
+            "text": "万能矿石"
+          },
+          {
+            "tag": "D",
+            "text": "炸弹"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_007",
+        "type": "single",
+        "question": "在矿井中挖掘获得的上古种子可以种出什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "上古果实"
+          },
+          {
+            "tag": "B",
+            "text": "稀有蘑菇"
+          },
+          {
+            "tag": "C",
+            "text": "神秘花朵"
+          },
+          {
+            "tag": "D",
+            "text": "宝石果树"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_008",
+        "type": "single",
+        "question": "哪个层数的怪物掉落铱矿石？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "矿井120层以下不掉落"
+          },
+          {
+            "tag": "B",
+            "text": "矿井80-120层"
+          },
+          {
+            "tag": "C",
+            "text": "骷髅洞穴更高层"
+          },
+          {
+            "tag": "D",
+            "text": "所有层"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_mine_009",
+        "type": "single",
+        "question": "敲开哪种矿石可以获得文物和矿物？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "所有类型的矿石"
+          },
+          {
+            "tag": "B",
+            "text": "只有万能矿石"
+          },
+          {
+            "tag": "C",
+            "text": "只有晶洞"
+          },
+          {
+            "tag": "D",
+            "text": "只有冰冻晶洞"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_010",
+        "type": "single",
+        "question": "在矿井中你可以用锄头耕种什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "挖掘点（有蠕虫的地块）"
+          },
+          {
+            "tag": "B",
+            "text": "普通地面"
+          },
+          {
+            "tag": "C",
+            "text": "岩石"
+          },
+          {
+            "tag": "D",
+            "text": "什么也不能"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_011",
+        "type": "single",
+        "question": "晶洞可以在哪里打开？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "克林特的铁匠铺"
+          },
+          {
+            "tag": "B",
+            "text": "博物馆"
+          },
+          {
+            "tag": "C",
+            "text": "冒险者公会"
+          },
+          {
+            "tag": "D",
+            "text": "木匠铺"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_012",
+        "type": "single",
+        "question": "矿井40-60层主要出产什么金属？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "铁"
+          },
+          {
+            "tag": "B",
+            "text": "铜"
+          },
+          {
+            "tag": "C",
+            "text": "金"
+          },
+          {
+            "tag": "D",
+            "text": "铱"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_013",
+        "type": "single",
+        "question": "哪种矿石打磨后可以得到更多的锭？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "没有，都是1:1"
+          },
+          {
+            "tag": "B",
+            "text": "铜矿"
+          },
+          {
+            "tag": "C",
+            "text": "铁矿"
+          },
+          {
+            "tag": "D",
+            "text": "金矿"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_014",
+        "type": "single",
+        "question": "矿井中彩虹碎片出现的概率如何提高？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "下到更深层"
+          },
+          {
+            "tag": "B",
+            "text": "吃幸运食物"
+          },
+          {
+            "tag": "C",
+            "text": "佩戴幸运戒指"
+          },
+          {
+            "tag": "D",
+            "text": "所有上述"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_015",
+        "type": "single",
+        "question": "红宝石可以在地质勘探器里交换什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "辣午餐"
+          },
+          {
+            "tag": "B",
+            "text": "三倍浓缩咖啡"
+          },
+          {
+            "tag": "C",
+            "text": "钻石"
+          },
+          {
+            "tag": "D",
+            "text": "炸弹"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_016",
+        "type": "single",
+        "question": "翡翠可以在沙漠商人处交换什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "楼梯"
+          },
+          {
+            "tag": "B",
+            "text": "炸弹"
+          },
+          {
+            "tag": "C",
+            "text": "钻石"
+          },
+          {
+            "tag": "D",
+            "text": "武器"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_017",
+        "type": "single",
+        "question": "矿井中哪层以后会出现黄金矿石？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "80层"
+          },
+          {
+            "tag": "B",
+            "text": "60层"
+          },
+          {
+            "tag": "C",
+            "text": "100层"
+          },
+          {
+            "tag": "D",
+            "text": "40层"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_018",
+        "type": "single",
+        "question": "骷髅洞穴有电梯吗？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "没有，必须从第1层开始"
+          },
+          {
+            "tag": "B",
+            "text": "每5层一个"
+          },
+          {
+            "tag": "C",
+            "text": "每10层一个"
+          },
+          {
+            "tag": "D",
+            "text": "只在入口有"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_019",
+        "type": "single",
+        "question": "矿车轨道什么时候修复？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "完成锅炉房收集包后"
+          },
+          {
+            "tag": "B",
+            "text": "花费50000金"
+          },
+          {
+            "tag": "C",
+            "text": "达到采矿5级"
+          },
+          {
+            "tag": "D",
+            "text": "第一年夏季"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_020",
+        "type": "single",
+        "question": "在矿井中使用楼梯可以直接下楼吗？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "可以，不论当前是否探完"
+          },
+          {
+            "tag": "B",
+            "text": "只能在没有怪物时用"
+          },
+          {
+            "tag": "C",
+            "text": "不能在矿井用"
+          },
+          {
+            "tag": "D",
+            "text": "只能在电梯层用"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_021",
+        "type": "single",
+        "question": "矿井中的木栅栏和箱子是做什么的？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "打碎后获得物品"
+          },
+          {
+            "tag": "B",
+            "text": "只是装饰"
+          },
+          {
+            "tag": "C",
+            "text": "不能交互"
+          },
+          {
+            "tag": "D",
+            "text": "是怪物伪装"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_022",
+        "type": "single",
+        "question": "沙漠商人用多少钻石换一个三倍浓缩咖啡？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "3颗"
+          },
+          {
+            "tag": "B",
+            "text": "1颗"
+          },
+          {
+            "tag": "C",
+            "text": "5颗"
+          },
+          {
+            "tag": "D",
+            "text": "10颗"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_023",
+        "type": "single",
+        "question": "矿井40层的怪物主要是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "粉尘精灵和冰冻蝙蝠"
+          },
+          {
+            "tag": "B",
+            "text": "史莱姆"
+          },
+          {
+            "tag": "C",
+            "text": "骷髅"
+          },
+          {
+            "tag": "D",
+            "text": "幽灵"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_024",
+        "type": "single",
+        "question": "矿井中从哪层开始有金色品质的矿石？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "没有金色品质矿石"
+          },
+          {
+            "tag": "B",
+            "text": "80层"
+          },
+          {
+            "tag": "C",
+            "text": "60层"
+          },
+          {
+            "tag": "D",
+            "text": "100层"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_025",
+        "type": "single",
+        "question": "哪种戒指可以防止矿井中的怪物靠近？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "由铱环的合成"
+          },
+          {
+            "tag": "B",
+            "text": "没有这种戒指"
+          },
+          {
+            "tag": "C",
+            "text": "电磁环"
+          },
+          {
+            "tag": "D",
+            "text": "荆棘环"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_026",
+        "type": "single",
+        "question": "齐先生的挑战任务在哪里接取？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "姜岛齐先生核桃房"
+          },
+          {
+            "tag": "B",
+            "text": "矿井入口"
+          },
+          {
+            "tag": "C",
+            "text": "沙漠商店"
+          },
+          {
+            "tag": "D",
+            "text": "秘密森林"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mine_027",
+        "type": "single",
+        "question": "铱矿石在骷髅洞穴第几层开始出现较多？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "50层以后"
+          },
+          {
+            "tag": "B",
+            "text": "10层以后"
+          },
+          {
+            "tag": "C",
+            "text": "100层以后"
+          },
+          {
+            "tag": "D",
+            "text": "一直很少"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_mine_028",
+        "type": "single",
+        "question": "宝石可以在哪里复制？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "宝石复制机"
+          },
+          {
+            "tag": "B",
+            "text": "克林特的铁匠铺"
+          },
+          {
+            "tag": "C",
+            "text": "博物馆"
+          },
+          {
+            "tag": "D",
+            "text": "农场洞穴"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "monsters",
+    "category_i18n": "怪物知识",
+    "questionList": [
+      {
+        "id": "sv_mon_001",
+        "type": "single",
+        "question": "绿史莱姆在矿井的哪些层出现？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "1-20层"
+          },
+          {
+            "tag": "B",
+            "text": "20-40层"
+          },
+          {
+            "tag": "C",
+            "text": "40-60层"
+          },
+          {
+            "tag": "D",
+            "text": "所有层"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_002",
+        "type": "single",
+        "question": "粉尘精灵掉落什么有用的物品？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "煤炭"
+          },
+          {
+            "tag": "B",
+            "text": "铁矿石"
+          },
+          {
+            "tag": "C",
+            "text": "金币"
+          },
+          {
+            "tag": "D",
+            "text": "炸弹"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_003",
+        "type": "single",
+        "question": "骷髅洞穴中常见的飞行怪物是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "蝙蝠"
+          },
+          {
+            "tag": "B",
+            "text": "幽灵"
+          },
+          {
+            "tag": "C",
+            "text": "飞龙"
+          },
+          {
+            "tag": "D",
+            "text": "蝴蝶"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_004",
+        "type": "single",
+        "question": "木跃鱼在什么地点可以钓到？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "秘密森林的池塘"
+          },
+          {
+            "tag": "B",
+            "text": "河流"
+          },
+          {
+            "tag": "C",
+            "text": "海洋"
+          },
+          {
+            "tag": "D",
+            "text": "高山湖泊"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_005",
+        "type": "single",
+        "question": "击杀哪种怪物可以获得'消灭怪物的目标'奖励中的圣环戒指？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "鬼魂"
+          },
+          {
+            "tag": "B",
+            "text": "骷髅"
+          },
+          {
+            "tag": "C",
+            "text": "蝙蝠"
+          },
+          {
+            "tag": "D",
+            "text": "史莱姆"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_mon_006",
+        "type": "single",
+        "question": "骷髅在矿井的哪些层出现？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "矿井70-120层"
+          },
+          {
+            "tag": "B",
+            "text": "矿井40-60层"
+          },
+          {
+            "tag": "C",
+            "text": "矿井1-20层"
+          },
+          {
+            "tag": "D",
+            "text": "骷髅洞穴"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_007",
+        "type": "single",
+        "question": "消灭1000只史莱姆的奖励是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "史莱姆戒指"
+          },
+          {
+            "tag": "B",
+            "text": "史莱姆孵化器"
+          },
+          {
+            "tag": "C",
+            "text": "史莱姆蛋压制机"
+          },
+          {
+            "tag": "D",
+            "text": "史莱姆压缩罐"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_008",
+        "type": "single",
+        "question": "在矿井中哪些怪物可以飞行？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "蝙蝠和鬼魂"
+          },
+          {
+            "tag": "B",
+            "text": "只有蝙蝠"
+          },
+          {
+            "tag": "C",
+            "text": "只有鬼魂"
+          },
+          {
+            "tag": "D",
+            "text": "史莱姆"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_009",
+        "type": "single",
+        "question": "在矿井的哪个区域会发现木乃伊？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "它们在矿井不出没"
+          },
+          {
+            "tag": "B",
+            "text": "70-80层"
+          },
+          {
+            "tag": "C",
+            "text": "90-120层"
+          },
+          {
+            "tag": "D",
+            "text": "40-60层"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_010",
+        "type": "single",
+        "question": "在骷髅洞穴中什么怪物会释放魔法弹？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "木乃伊"
+          },
+          {
+            "tag": "B",
+            "text": "飞龙"
+          },
+          {
+            "tag": "C",
+            "text": "骷髅法师"
+          },
+          {
+            "tag": "D",
+            "text": "巨蛇"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_mon_011",
+        "type": "single",
+        "question": "在矿井40-70层有什么怪物？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "冰冻蝙蝠、冰冻史莱姆、粉尘精灵"
+          },
+          {
+            "tag": "B",
+            "text": "只有史莱姆"
+          },
+          {
+            "tag": "C",
+            "text": "骷髅和幽灵"
+          },
+          {
+            "tag": "D",
+            "text": "金属头骨"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_012",
+        "type": "single",
+        "question": "骷髅洞穴中的飞龙可以掉落什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "炸弹、铱矿石、精华"
+          },
+          {
+            "tag": "B",
+            "text": "只有骨头"
+          },
+          {
+            "tag": "C",
+            "text": "只掉落钱"
+          },
+          {
+            "tag": "D",
+            "text": "钻石"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_013",
+        "type": "single",
+        "question": "矿井80-120层的主要怪物有哪些？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "骷髅、金属头骨、暗影战士、暗影法师"
+          },
+          {
+            "tag": "B",
+            "text": "只有骷髅"
+          },
+          {
+            "tag": "C",
+            "text": "只有史莱姆"
+          },
+          {
+            "tag": "D",
+            "text": "只蝙蝠"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_014",
+        "type": "single",
+        "question": "击杀哪种怪物可以完成消灭怪物的目标并获得铱星戒指？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "击杀500只暗影怪物"
+          },
+          {
+            "tag": "B",
+            "text": "歼灭1000只史莱姆"
+          },
+          {
+            "tag": "C",
+            "text": "消灭500只骷髅"
+          },
+          {
+            "tag": "D",
+            "text": "消灭100只木乃伊"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_015",
+        "type": "single",
+        "question": "在矿井中的哪一层可以找到木乃伊？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "矿井中没有木乃伊"
+          },
+          {
+            "tag": "B",
+            "text": "80-100层"
+          },
+          {
+            "tag": "C",
+            "text": "100-120层"
+          },
+          {
+            "tag": "D",
+            "text": "40-60层"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_016",
+        "type": "single",
+        "question": "臭蟲（Bug）在哪几层出现？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "矿井1-40层"
+          },
+          {
+            "tag": "B",
+            "text": "地下密室"
+          },
+          {
+            "tag": "C",
+            "text": "煤矿森林"
+          },
+          {
+            "tag": "D",
+            "text": "海滩"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_017",
+        "type": "single",
+        "question": "哪种怪物很容易被剑击退？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "史莱姆"
+          },
+          {
+            "tag": "B",
+            "text": "幽灵"
+          },
+          {
+            "tag": "C",
+            "text": "木乃伊"
+          },
+          {
+            "tag": "D",
+            "text": "飞龙"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_018",
+        "type": "single",
+        "question": "击杀250只Bat的怪物消灭目标奖励是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "蝙蝠翅膀不再掉落"
+          },
+          {
+            "tag": "B",
+            "text": "蝙蝠戒指"
+          },
+          {
+            "tag": "C",
+            "text": "1000金"
+          },
+          {
+            "tag": "D",
+            "text": "铱锭"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_019",
+        "type": "single",
+        "question": "武器附魔需要什么材料？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "钻石、五彩碎片等"
+          },
+          {
+            "tag": "B",
+            "text": "只有金"
+          },
+          {
+            "tag": "C",
+            "text": "铱锭"
+          },
+          {
+            "tag": "D",
+            "text": "龙牙"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_020",
+        "type": "single",
+        "question": "暗影怪物在矿井的哪些层出现？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "80-120层"
+          },
+          {
+            "tag": "B",
+            "text": "40-60层"
+          },
+          {
+            "tag": "C",
+            "text": "1-20层"
+          },
+          {
+            "tag": "D",
+            "text": "所有层"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_021",
+        "type": "single",
+        "question": "恐龙在哪个矿井中出现？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "骷髅洞穴"
+          },
+          {
+            "tag": "B",
+            "text": "矿井"
+          },
+          {
+            "tag": "C",
+            "text": "姜岛洞穴"
+          },
+          {
+            "tag": "D",
+            "text": "秘密森林"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_022",
+        "type": "single",
+        "question": "史莱姆屋可以用来做什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "养殖史莱姆以获取史莱姆球"
+          },
+          {
+            "tag": "B",
+            "text": "关押怪物"
+          },
+          {
+            "tag": "C",
+            "text": "种植作物"
+          },
+          {
+            "tag": "D",
+            "text": "练战斗技能"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_023",
+        "type": "single",
+        "question": "哪种怪物会从远处发射火球？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "暗影法师"
+          },
+          {
+            "tag": "B",
+            "text": "幽灵"
+          },
+          {
+            "tag": "C",
+            "text": "木乃伊"
+          },
+          {
+            "tag": "D",
+            "text": "史莱姆"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_024",
+        "type": "single",
+        "question": "骷髅洞穴中哪种怪物会掉落宝石？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "紫史莱姆"
+          },
+          {
+            "tag": "B",
+            "text": "飞龙"
+          },
+          {
+            "tag": "C",
+            "text": "木乃伊"
+          },
+          {
+            "tag": "D",
+            "text": "铱星螃蟹"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_025",
+        "type": "single",
+        "question": "击杀500只暗影怪物的奖励是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "铑戒"
+          },
+          {
+            "tag": "B",
+            "text": "暗影匕首"
+          },
+          {
+            "tag": "C",
+            "text": "5颗钻石"
+          },
+          {
+            "tag": "D",
+            "text": "暗影头盔"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_026",
+        "type": "single",
+        "question": "矿井中的幽灵可以掉落什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "钻石和鬼魂精华"
+          },
+          {
+            "tag": "B",
+            "text": "煤炭"
+          },
+          {
+            "tag": "C",
+            "text": "炸弹"
+          },
+          {
+            "tag": "D",
+            "text": "黄金矿石"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_027",
+        "type": "single",
+        "question": "木跃鱼在星露谷中以什么闻名？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "可以在秘密森林钓到"
+          },
+          {
+            "tag": "B",
+            "text": "掉落木材"
+          },
+          {
+            "tag": "C",
+            "text": "是最好的食物"
+          },
+          {
+            "tag": "D",
+            "text": "用来做收集包"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_mon_028",
+        "type": "single",
+        "question": "消灭怪物的目标在哪？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "冒险者公会"
+          },
+          {
+            "tag": "B",
+            "text": "矿井入口"
+          },
+          {
+            "tag": "C",
+            "text": "刘易斯的家"
+          },
+          {
+            "tag": "D",
+            "text": "罗宾的木匠铺"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "general",
+    "category_i18n": "综合知识",
+    "questionList": [
+      {
+        "id": "sv_gen_001",
+        "type": "single",
+        "question": "星露谷物语的第一年春季第1天你得到多少金？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "500金"
+          },
+          {
+            "tag": "B",
+            "text": "1000金"
+          },
+          {
+            "tag": "C",
+            "text": "2000金"
+          },
+          {
+            "tag": "D",
+            "text": "3000金"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_002",
+        "type": "single",
+        "question": "爷爷会在什么时候回来评价你的农场？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "第一年春季第1天"
+          },
+          {
+            "tag": "B",
+            "text": "第二年春季第1天"
+          },
+          {
+            "tag": "C",
+            "text": "第三年春季第1天"
+          },
+          {
+            "tag": "D",
+            "text": "第五年春季第1天"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_gen_003",
+        "type": "single",
+        "question": "如何获得马？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "从马妮购买"
+          },
+          {
+            "tag": "B",
+            "text": "建造马厩"
+          },
+          {
+            "tag": "C",
+            "text": "在野外驯服"
+          },
+          {
+            "tag": "D",
+            "text": "完成收集包奖励"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "sv_gen_004",
+        "type": "single",
+        "question": "玩家如何前往姜岛？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "修好威利的船"
+          },
+          {
+            "tag": "B",
+            "text": "乘坐巴士"
+          },
+          {
+            "tag": "C",
+            "text": "传送法杖"
+          },
+          {
+            "tag": "D",
+            "text": "走路过桥"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_005",
+        "type": "single",
+        "question": "在星露谷中，一天的时间是如何流逝的？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "1秒=1分钟"
+          },
+          {
+            "tag": "B",
+            "text": "10秒=10分钟"
+          },
+          {
+            "tag": "C",
+            "text": "约7秒=10分钟"
+          },
+          {
+            "tag": "D",
+            "text": "1分钟=1小时"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "sv_gen_006",
+        "type": "single",
+        "question": "爷爷的评分最高能获得什么奖励？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "铱星猫雕像"
+          },
+          {
+            "tag": "B",
+            "text": "钻石"
+          },
+          {
+            "tag": "C",
+            "text": "100000金"
+          },
+          {
+            "tag": "D",
+            "text": "铱锭"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_007",
+        "type": "single",
+        "question": "完美度百分比如何提升？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "完成所有收集包、烹饪、钓鱼、制造等"
+          },
+          {
+            "tag": "B",
+            "text": "赚够10000000金"
+          },
+          {
+            "tag": "C",
+            "text": "达到所有技能10级"
+          },
+          {
+            "tag": "D",
+            "text": "结婚并生子"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_008",
+        "type": "single",
+        "question": "可以同时拥有多个农场吗？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "可以在不同的存档中拥有"
+          },
+          {
+            "tag": "B",
+            "text": "不可以"
+          },
+          {
+            "tag": "C",
+            "text": "可以，在同一个存档中"
+          },
+          {
+            "tag": "D",
+            "text": "只有联机模式下可以"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_009",
+        "type": "single",
+        "question": "如何获得Joja可乐？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "垃圾桶、Joja自动售货机、钓鱼"
+          },
+          {
+            "tag": "B",
+            "text": "只能购买"
+          },
+          {
+            "tag": "C",
+            "text": "只能从垃圾桶获得"
+          },
+          {
+            "tag": "D",
+            "text": "Joja超市免费提供"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_010",
+        "type": "single",
+        "question": "在星露谷中你可以养宠物吗？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "可以选择猫或狗"
+          },
+          {
+            "tag": "B",
+            "text": "不能养宠物"
+          },
+          {
+            "tag": "C",
+            "text": "可以养猫、狗和乌龟"
+          },
+          {
+            "tag": "D",
+            "text": "只能养马"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_011",
+        "type": "single",
+        "question": "在博物馆你能捐赠多少物品？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "超过100件文物和矿物"
+          },
+          {
+            "tag": "B",
+            "text": "最多50件"
+          },
+          {
+            "tag": "C",
+            "text": "无限制"
+          },
+          {
+            "tag": "D",
+            "text": "仅限矿物"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_012",
+        "type": "single",
+        "question": "翻垃圾桶在某些情况下会有什么后果？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "可能被NPC看到降低好感度"
+          },
+          {
+            "tag": "B",
+            "text": "被罚款"
+          },
+          {
+            "tag": "C",
+            "text": "被关进监狱"
+          },
+          {
+            "tag": "D",
+            "text": "没有后果"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_013",
+        "type": "single",
+        "question": "齐先生的核桃房在哪里？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "姜岛岛屿最东边"
+          },
+          {
+            "tag": "B",
+            "text": "沙漠洞穴"
+          },
+          {
+            "tag": "C",
+            "text": "矿井底层"
+          },
+          {
+            "tag": "D",
+            "text": "秘密森林深处"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_014",
+        "type": "single",
+        "question": "在星露谷1.6更新中添加了什么新内容？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "新节日、新作物、新物品等众多内容"
+          },
+          {
+            "tag": "B",
+            "text": "只有新钓鱼机制"
+          },
+          {
+            "tag": "C",
+            "text": "只有新地图"
+          },
+          {
+            "tag": "D",
+            "text": "只有新角色"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_015",
+        "type": "single",
+        "question": "星露谷中如何保存游戏？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "睡觉结束一天自动保存"
+          },
+          {
+            "tag": "B",
+            "text": "手动按保存键"
+          },
+          {
+            "tag": "C",
+            "text": "每个季节结束时保存"
+          },
+          {
+            "tag": "D",
+            "text": "随时自动保存"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_016",
+        "type": "single",
+        "question": "Joja会员有什么用？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "可以用金钱完成社区中心升级"
+          },
+          {
+            "tag": "B",
+            "text": "商品打折"
+          },
+          {
+            "tag": "C",
+            "text": "获得Joja可乐"
+          },
+          {
+            "tag": "D",
+            "text": "免费传送"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_017",
+        "type": "single",
+        "question": "完成全部成就需要达到什么完美度？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "100%"
+          },
+          {
+            "tag": "B",
+            "text": "80%"
+          },
+          {
+            "tag": "C",
+            "text": "95%"
+          },
+          {
+            "tag": "D",
+            "text": "70%"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_018",
+        "type": "single",
+        "question": "农场洞窟可以选择什么用途？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "水果蝙蝠或蘑菇"
+          },
+          {
+            "tag": "B",
+            "text": "宝石或矿石"
+          },
+          {
+            "tag": "C",
+            "text": "鱼塘或储藏"
+          },
+          {
+            "tag": "D",
+            "text": "酿酒或炼药"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_019",
+        "type": "single",
+        "question": "在星露谷中结婚需要什么物品？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "美人鱼吊坠"
+          },
+          {
+            "tag": "B",
+            "text": "结婚戒指"
+          },
+          {
+            "tag": "C",
+            "text": "钻石"
+          },
+          {
+            "tag": "D",
+            "text": "花束"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_020",
+        "type": "single",
+        "question": "玩家可以有孩子吗？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "结婚后可以最多有两个孩子"
+          },
+          {
+            "tag": "B",
+            "text": "不能"
+          },
+          {
+            "tag": "C",
+            "text": "只能领养"
+          },
+          {
+            "tag": "D",
+            "text": "不确定"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_021",
+        "type": "single",
+        "question": "每次季节变化时作物会怎样？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "非当季作物死亡"
+          },
+          {
+            "tag": "B",
+            "text": "所有作物继续生长"
+          },
+          {
+            "tag": "C",
+            "text": "作物品质重置"
+          },
+          {
+            "tag": "D",
+            "text": "什么也不发生"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_022",
+        "type": "single",
+        "question": "回程魔杖有什么作用？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "传送回农场"
+          },
+          {
+            "tag": "B",
+            "text": "传送至任意地点"
+          },
+          {
+            "tag": "C",
+            "text": "召喚马匹"
+          },
+          {
+            "tag": "D",
+            "text": "打开菜单"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_023",
+        "type": "single",
+        "question": "星露谷中最大的堆叠数量是多少？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "999"
+          },
+          {
+            "tag": "B",
+            "text": "99"
+          },
+          {
+            "tag": "C",
+            "text": "9999"
+          },
+          {
+            "tag": "D",
+            "text": "无上限"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_024",
+        "type": "single",
+        "question": "在星露谷中如何获得马？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "从罗宾建造马厩"
+          },
+          {
+            "tag": "B",
+            "text": "从玛妮购买"
+          },
+          {
+            "tag": "C",
+            "text": "在野外驯服"
+          },
+          {
+            "tag": "D",
+            "text": "完成收集包获得"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_025",
+        "type": "single",
+        "question": "小桶可以用来加工什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "水果→酒、小麦→啤酒等"
+          },
+          {
+            "tag": "B",
+            "text": "只能酿酒"
+          },
+          {
+            "tag": "C",
+            "text": "只能做奶酪"
+          },
+          {
+            "tag": "D",
+            "text": "制作面包"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_026",
+        "type": "single",
+        "question": "星露谷1.6版本添加的新技能是什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "没有新技能"
+          },
+          {
+            "tag": "B",
+            "text": "烹饪"
+          },
+          {
+            "tag": "C",
+            "text": "钓鱼"
+          },
+          {
+            "tag": "D",
+            "text": "驯马"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_027",
+        "type": "single",
+        "question": "鱼塘可以用来做什么？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "养鱼并收获产品"
+          },
+          {
+            "tag": "B",
+            "text": "只是装饰"
+          },
+          {
+            "tag": "C",
+            "text": "游泳"
+          },
+          {
+            "tag": "D",
+            "text": "种植水生植物"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "sv_gen_028",
+        "type": "single",
+        "question": "在星露谷中最多可以和多少NPC提升好感度？",
+        "options": [
+          {
+            "tag": "A",
+            "text": "所有可互动的NPC"
+          },
+          {
+            "tag": "B",
+            "text": "最多10个"
+          },
+          {
+            "tag": "C",
+            "text": "最多20个"
+          },
+          {
+            "tag": "D",
+            "text": "只有可结婚对象"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      }
+    ]
+  }
+]
