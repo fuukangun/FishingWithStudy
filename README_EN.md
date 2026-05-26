@@ -162,7 +162,7 @@ Just fish as you normally would. When a fish bites, the quiz menu automatically 
 
 ### Study Mode
 
-Press the configured hotkey (default: **K**) to open the quiz in study mode at any time. Study mode lets you practice questions without fishing — no stamina cost, no rewards, pure learning. See [Study Mode](#study-mode).
+Press the configured hotkey (default: **K**) to open the quiz in study mode at any time. Study mode lets you practice questions without fishing — no stamina cost, no rewards, pure learning. See [Study Mode Introduction](#study-mode-introduction).
 
 ---
 
@@ -267,7 +267,7 @@ File naming:
 
 ---
 
-## Study Mode
+## Study Mode Introduction
 
 Study Mode allows you to practice questions anytime without fishing. This mode was designed so players can use Stardew Valley as a study platform — pair it with custom question banks to prepare for driving tests, certification exams, or any other subject.
 
