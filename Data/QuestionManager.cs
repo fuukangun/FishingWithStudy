@@ -136,6 +136,8 @@ namespace fishingWithStudy.Data
                             return false;
                         }
                         seenIds.Add(q.Id);
+                        q.Category = cat.Category;
+                        q.CategoryI18n = string.IsNullOrEmpty(cat.CategoryI18n) ? cat.Category : cat.CategoryI18n;
                         return true;
                     }).ToList();
                 }

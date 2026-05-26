@@ -82,7 +82,6 @@ namespace fishingWithStudy.UI
         private Rectangle questionRect;
         private readonly List<Rectangle> optionRects = new();
         private Rectangle submitRect;
-        private Rectangle categoryRect;
 
         // -----------------------------------------------------------------------
         // Wrapped text cache (rebuilt in ComputeLayout)
@@ -249,11 +248,10 @@ namespace fishingWithStudy.UI
             int remainingTop = y;
             int remainingH = (cy + ch) - y;
 
-            // Reserve room for options + submit + category
+            // Reserve room for options + submit
             bool hasOptions = currentQuestion != null && currentQuestion.Options.Count > 0;
             int optCount = hasOptions ? currentQuestion!.Options.Count : 0;
             int submitH = 36;
-            int catH = 24;
 
             // Word-wrap question text at full scale, then compute best scale to fit
             wrappedQuestionLines.Clear();
@@ -277,7 +275,7 @@ namespace fishingWithStudy.UI
             int optBlockH = optLineHeights.Sum() + (optCount > 0 ? 8 : 0);
 
             // Compute question height: try to fit at full scale, shrink if needed
-            int maxQ = remainingH - optBlockH - submitH - catH - 20;
+            int maxQ = remainingH - optBlockH - submitH - 20;
             if (maxQ < 40) maxQ = 40;
 
             questionRenderScale = 1f;
@@ -320,10 +318,6 @@ namespace fishingWithStudy.UI
             int btnW = 140;
             int btnH = submitH;
             submitRect = new Rectangle(cx + (cw - btnW) / 2, y, btnW, btnH);
-            y += btnH + 10;
-
-            // Category label
-            categoryRect = new Rectangle(cx, y, cw, catH);
         }
 
         // =======================================================================
@@ -630,6 +624,8 @@ namespace fishingWithStudy.UI
             // Ensure layout is up-to-date (viewport may not change, but safe)
             ComputeLayout();
 
+            DrawQuestionCategoryBadge(b);
+
             // -- Title --
             string title = isStudyMode
                 ? Logic.Translation.Get("ui.study_mode_title")
@@ -694,9 +690,6 @@ namespace fishingWithStudy.UI
                     DrawTransition(b);
                     break;
             }
-
-            // -- Category label (always visible) --
-            DrawCategoryLabel(b);
 
             // -- Mouse cursor --
             drawMouse(b);
@@ -829,26 +822,67 @@ namespace fishingWithStudy.UI
                 new Vector2(edge.Length(), thickness), SpriteEffects.None, 0f);
         }
 
+        private void DrawQuestionCategoryBadge(SpriteBatch b)
+        {
+            if (currentQuestion == null) return;
+
+            string categoryName = string.IsNullOrEmpty(currentQuestion.CategoryI18n)
+                ? currentQuestion.Category
+                : currentQuestion.CategoryI18n;
+            if (string.IsNullOrEmpty(categoryName))
+                categoryName = Logic.Translation.Get("config.category_all");
+
+            string categoryLabel = Logic.Translation.Get("ui.category", categoryName);
+            int maxWidth = Math.Max(160, width / 2);
+            categoryLabel = FitTextToWidth(categoryLabel, maxWidth - 52, Game1.smallFont);
+            DrawReadableBadge(b, categoryLabel, xPositionOnScreen + 18, yPositionOnScreen + 12,
+                new Color(70, 43, 24), Color.White);
+        }
+
         private void DrawQuestionTypeBadge(SpriteBatch b)
         {
             if (currentQuestion == null) return;
 
             bool isMultiple = currentQuestion.Type == "multiple";
             string label = Logic.Translation.Get(isMultiple ? "ui.type_multiple" : "ui.type_single");
-            Vector2 labelSize = Game1.smallFont.MeasureString(label);
-            int badgeWidth = (int)labelSize.X + 28;
-            int badgeHeight = 30;
-            var badgeRect = new Rectangle(questionRect.Right - badgeWidth - 4, questionRect.Y, badgeWidth, badgeHeight);
+            Vector2 typeSize = Game1.smallFont.MeasureString(label);
+            int typeWidth = (int)typeSize.X + 52;
+            DrawReadableBadge(b, label, questionRect.Right - typeWidth - 4, questionRect.Y,
+                isMultiple ? new Color(95, 54, 27) : new Color(74, 61, 38), Color.White);
+        }
 
-            IClickableMenu.drawTextureBox(b, Game1.mouseCursors,
-                new Rectangle(384, 373, 18, 18),
+        private static string FitTextToWidth(string text, float maxWidth, SpriteFont font)
+        {
+            if (font.MeasureString(text).X <= maxWidth)
+                return text;
+
+            const string ellipsis = "...";
+            string trimmed = text;
+            while (trimmed.Length > 0 && font.MeasureString(trimmed + ellipsis).X > maxWidth)
+                trimmed = trimmed[..^1];
+
+            return trimmed.Length == 0 ? ellipsis : trimmed + ellipsis;
+        }
+
+        private static void DrawReadableBadge(SpriteBatch b, string label, int x, int y, Color textColor,
+            Color? tint = null, int horizontalPadding = 52, int badgeHeight = 40)
+        {
+            Vector2 labelSize = Game1.smallFont.MeasureString(label);
+            int badgeWidth = (int)labelSize.X + horizontalPadding;
+            var badgeRect = new Rectangle(x, y, badgeWidth, badgeHeight);
+
+            b.Draw(Game1.staminaRect, new Rectangle(badgeRect.X + 2, badgeRect.Y + 2, badgeRect.Width, badgeRect.Height),
+                Color.Black * 0.25f);
+
+            IClickableMenu.drawTextureBox(b, Game1.menuTexture,
+                new Rectangle(0, 256, 60, 60),
                 badgeRect.X, badgeRect.Y, badgeRect.Width, badgeRect.Height,
-                Color.White, 3f, false);
+                tint ?? Color.White, 1f, false);
 
             b.DrawString(Game1.smallFont, label,
                 new Vector2(badgeRect.X + (badgeRect.Width - labelSize.X) / 2,
                     badgeRect.Y + (badgeRect.Height - labelSize.Y) / 2 + 1),
-                isMultiple ? new Color(95, 54, 27) : new Color(74, 61, 38));
+                textColor);
         }
 
         private void DrawSubmitButton(SpriteBatch b, string btnText)
@@ -946,25 +980,6 @@ namespace fishingWithStudy.UI
 
             b.DrawString(Game1.dialogueFont, msg,
                 new Vector2(msgX, msgY), Color.Black);
-        }
-
-        // =======================================================================
-        // Draw: Category label
-        // =======================================================================
-        private void DrawCategoryLabel(SpriteBatch b)
-        {
-            string bankId = questionManager.GetCurrentBankId();
-            string category = config.SelectedCategory;
-            if (string.IsNullOrEmpty(category)) return;
-
-            string? catName = questionManager.GetCategoryI18n(bankId, category);
-            if (catName == null) return;
-
-            string label = Logic.Translation.Get("ui.category", catName);
-            Vector2 labSize = Game1.smallFont.MeasureString(label);
-            float labX = categoryRect.X + (categoryRect.Width - labSize.X) / 2;
-            b.DrawString(Game1.smallFont, label,
-                new Vector2(labX, categoryRect.Y), Color.Gray);
         }
 
         // =======================================================================

@@ -31,6 +31,12 @@ namespace fishingWithStudy.Data
 
         [JsonPropertyName("answer")]
         public List<string> Answer { get; set; } = new();
+
+        [JsonIgnore]
+        public string Category { get; set; } = "";
+
+        [JsonIgnore]
+        public string CategoryI18n { get; set; } = "";
     }
 
     public class Option
