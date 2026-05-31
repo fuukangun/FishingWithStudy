@@ -1,0 +1,5363 @@
+[
+  {
+    "category": "ti_history",
+    "category_i18n": "TI History",
+    "questionList": [
+      {
+        "id": "dota2_ti_history_001",
+        "type": "single",
+        "question": "Which team won TI1? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Natus Vincere"
+          },
+          {
+            "tag": "B",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "C",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_002",
+        "type": "single",
+        "question": "Which team won TI2? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Invictus Gaming"
+          },
+          {
+            "tag": "C",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_003",
+        "type": "single",
+        "question": "Which team won TI3? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "C",
+            "text": "Alliance"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_004",
+        "type": "single",
+        "question": "Which team won TI4? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "C",
+            "text": "Virtus.pro"
+          },
+          {
+            "tag": "D",
+            "text": "Newbee"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_005",
+        "type": "single",
+        "question": "Which team won TI5? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Evil Geniuses"
+          },
+          {
+            "tag": "B",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "C",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_006",
+        "type": "single",
+        "question": "Which team won TI6? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Wings Gaming"
+          },
+          {
+            "tag": "C",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_007",
+        "type": "single",
+        "question": "Which team won TI7? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "C",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_008",
+        "type": "single",
+        "question": "Which team won TI8? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "C",
+            "text": "Virtus.pro"
+          },
+          {
+            "tag": "D",
+            "text": "OG"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_009",
+        "type": "single",
+        "question": "Which team won TI9? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "OG"
+          },
+          {
+            "tag": "B",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "C",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_010",
+        "type": "single",
+        "question": "Which team won TI10? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Spirit"
+          },
+          {
+            "tag": "C",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_011",
+        "type": "single",
+        "question": "Which team won TI11? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "C",
+            "text": "Tundra Esports"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_012",
+        "type": "single",
+        "question": "Which team won TI12? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "C",
+            "text": "Virtus.pro"
+          },
+          {
+            "tag": "D",
+            "text": "Team Spirit"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_013",
+        "type": "single",
+        "question": "Which team won TI13? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "B",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "C",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_014",
+        "type": "single",
+        "question": "Which team was the first to win The International twice? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Team Spirit"
+          },
+          {
+            "tag": "B",
+            "text": "OG"
+          },
+          {
+            "tag": "C",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "D",
+            "text": "Natus Vincere"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_015",
+        "type": "single",
+        "question": "Which team won back-to-back titles at TI8 and TI9? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "B",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "C",
+            "text": "OG"
+          },
+          {
+            "tag": "D",
+            "text": "Team Secret"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_016",
+        "type": "single",
+        "question": "Which region did TI5 champion Evil Geniuses represent? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Western Europe"
+          },
+          {
+            "tag": "B",
+            "text": "China"
+          },
+          {
+            "tag": "C",
+            "text": "Southeast Asia"
+          },
+          {
+            "tag": "D",
+            "text": "North America"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_017",
+        "type": "single",
+        "question": "Which region did TI6 champion Wings Gaming represent? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "China"
+          },
+          {
+            "tag": "B",
+            "text": "North America"
+          },
+          {
+            "tag": "C",
+            "text": "Western Europe"
+          },
+          {
+            "tag": "D",
+            "text": "Southeast Asia"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_018",
+        "type": "single",
+        "question": "Which team did Team Liquid defeat in the TI7 grand final? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "LGD Gaming"
+          },
+          {
+            "tag": "B",
+            "text": "Newbee"
+          },
+          {
+            "tag": "C",
+            "text": "Virtus.pro"
+          },
+          {
+            "tag": "D",
+            "text": "Team Secret"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_019",
+        "type": "single",
+        "question": "Which team did Team Spirit defeat in the TI10 grand final? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "B",
+            "text": "OG"
+          },
+          {
+            "tag": "C",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "D",
+            "text": "Tundra Esports"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_020",
+        "type": "single",
+        "question": "Which team did Tundra Esports defeat in the TI11 grand final? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "B",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "C",
+            "text": "OG"
+          },
+          {
+            "tag": "D",
+            "text": "Team Secret"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_021",
+        "type": "single",
+        "question": "Which team did Team Spirit defeat in the TI12 grand final? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Gaimin Gladiators"
+          },
+          {
+            "tag": "B",
+            "text": "LGD Gaming"
+          },
+          {
+            "tag": "C",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "D",
+            "text": "Azure Ray"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_022",
+        "type": "single",
+        "question": "Which team did Team Liquid defeat in the TI13 grand final? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Team Spirit"
+          },
+          {
+            "tag": "B",
+            "text": "Gaimin Gladiators"
+          },
+          {
+            "tag": "C",
+            "text": "Tundra Esports"
+          },
+          {
+            "tag": "D",
+            "text": "Xtreme Gaming"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_023",
+        "type": "single",
+        "question": "What is the TI championship trophy commonly called? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Butterfly"
+          },
+          {
+            "tag": "B",
+            "text": "Divine Rapier"
+          },
+          {
+            "tag": "C",
+            "text": "Aegis of Champions"
+          },
+          {
+            "tag": "D",
+            "text": "Black King Bar"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_024",
+        "type": "single",
+        "question": "In which country was TI1 held? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "United States"
+          },
+          {
+            "tag": "B",
+            "text": "Canada"
+          },
+          {
+            "tag": "C",
+            "text": "China"
+          },
+          {
+            "tag": "D",
+            "text": "Germany"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_025",
+        "type": "single",
+        "question": "In which year was TI10 held after being delayed? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "2021"
+          },
+          {
+            "tag": "B",
+            "text": "2020"
+          },
+          {
+            "tag": "C",
+            "text": "2022"
+          },
+          {
+            "tag": "D",
+            "text": "2019"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_026",
+        "type": "single",
+        "question": "Which opponent did OG defeat in the TI8 grand final? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "B",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "C",
+            "text": "Evil Geniuses"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_027",
+        "type": "single",
+        "question": "Which opponent did OG defeat in the TI9 grand final? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "C",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "D",
+            "text": "Newbee"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_028",
+        "type": "single",
+        "question": "Which opponent did Newbee defeat in the TI4 grand final? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "EHOME"
+          },
+          {
+            "tag": "B",
+            "text": "Team DK"
+          },
+          {
+            "tag": "C",
+            "text": "Invictus Gaming"
+          },
+          {
+            "tag": "D",
+            "text": "Vici Gaming"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_029",
+        "type": "single",
+        "question": "Which opponent did Invictus Gaming defeat in the TI2 grand final? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Natus Vincere"
+          },
+          {
+            "tag": "B",
+            "text": "EHOME"
+          },
+          {
+            "tag": "C",
+            "text": "Alliance"
+          },
+          {
+            "tag": "D",
+            "text": "Team DK"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_030",
+        "type": "single",
+        "question": "The TI3 grand final is famous for a five-game series. Who won it? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Natus Vincere"
+          },
+          {
+            "tag": "B",
+            "text": "Alliance"
+          },
+          {
+            "tag": "C",
+            "text": "Evil Geniuses"
+          },
+          {
+            "tag": "D",
+            "text": "Team Liquid"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_031",
+        "type": "multiple",
+        "question": "Which teams have won The International at least twice? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "OG"
+          },
+          {
+            "tag": "B",
+            "text": "Natus Vincere"
+          },
+          {
+            "tag": "C",
+            "text": "Team Spirit"
+          },
+          {
+            "tag": "D",
+            "text": "Team Liquid"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_032",
+        "type": "multiple",
+        "question": "Which TI champion teams represented China? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Invictus Gaming"
+          },
+          {
+            "tag": "B",
+            "text": "OG"
+          },
+          {
+            "tag": "C",
+            "text": "Newbee"
+          },
+          {
+            "tag": "D",
+            "text": "Wings Gaming"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_033",
+        "type": "multiple",
+        "question": "Which teams defeated PSG.LGD in a TI grand final? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "OG"
+          },
+          {
+            "tag": "B",
+            "text": "Tundra Esports"
+          },
+          {
+            "tag": "C",
+            "text": "Team Spirit"
+          },
+          {
+            "tag": "D",
+            "text": "Alliance"
+          }
+        ],
+        "answer": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_034",
+        "type": "multiple",
+        "question": "Which TI events were won by Team Spirit? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "TI10"
+          },
+          {
+            "tag": "B",
+            "text": "TI8"
+          },
+          {
+            "tag": "C",
+            "text": "TI12"
+          },
+          {
+            "tag": "D",
+            "text": "TI9"
+          }
+        ],
+        "answer": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_035",
+        "type": "multiple",
+        "question": "Which TI events were won by OG? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "TI8"
+          },
+          {
+            "tag": "B",
+            "text": "TI7"
+          },
+          {
+            "tag": "C",
+            "text": "TI9"
+          },
+          {
+            "tag": "D",
+            "text": "TI10"
+          }
+        ],
+        "answer": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_036",
+        "type": "multiple",
+        "question": "Which TI grand finals had a Chinese team as runner-up? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "TI1"
+          },
+          {
+            "tag": "B",
+            "text": "TI2"
+          },
+          {
+            "tag": "C",
+            "text": "TI4"
+          },
+          {
+            "tag": "D",
+            "text": "TI8"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_037",
+        "type": "multiple",
+        "question": "Which teams have won The International exactly once? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Alliance"
+          },
+          {
+            "tag": "B",
+            "text": "Newbee"
+          },
+          {
+            "tag": "C",
+            "text": "Evil Geniuses"
+          },
+          {
+            "tag": "D",
+            "text": "Wings Gaming"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_038",
+        "type": "multiple",
+        "question": "Which TIs were held in European cities? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "TI1"
+          },
+          {
+            "tag": "B",
+            "text": "TI8"
+          },
+          {
+            "tag": "C",
+            "text": "TI10"
+          },
+          {
+            "tag": "D",
+            "text": "TI13"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_039",
+        "type": "multiple",
+        "question": "Which teams reached TI grand finals in consecutive years? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Natus Vincere"
+          },
+          {
+            "tag": "B",
+            "text": "OG"
+          },
+          {
+            "tag": "C",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "D",
+            "text": "Gaimin Gladiators"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_040",
+        "type": "multiple",
+        "question": "Which are concepts associated with The International? (as of the end of TI13 / The International 2024)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Aegis of Champions"
+          },
+          {
+            "tag": "B",
+            "text": "Roshan pit side selection"
+          },
+          {
+            "tag": "C",
+            "text": "Compendium"
+          },
+          {
+            "tag": "D",
+            "text": "Battle Pass"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "heroes",
+    "category_i18n": "Heroes",
+    "questionList": [
+      {
+        "id": "dota2_heroes_001",
+        "type": "single",
+        "question": "What is Anti-Mage's English hero name? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Axe"
+          },
+          {
+            "tag": "B",
+            "text": "Juggernaut"
+          },
+          {
+            "tag": "C",
+            "text": "Anti-Mage"
+          },
+          {
+            "tag": "D",
+            "text": "Invoker"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_002",
+        "type": "single",
+        "question": "What is Axe's English hero name? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Bristleback"
+          },
+          {
+            "tag": "B",
+            "text": "Centaur Warrunner"
+          },
+          {
+            "tag": "C",
+            "text": "Mars"
+          },
+          {
+            "tag": "D",
+            "text": "Axe"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_003",
+        "type": "single",
+        "question": "What is Crystal Maiden's English hero name? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Crystal Maiden"
+          },
+          {
+            "tag": "B",
+            "text": "Lina"
+          },
+          {
+            "tag": "C",
+            "text": "Drow Ranger"
+          },
+          {
+            "tag": "D",
+            "text": "Mirana"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_heroes_004",
+        "type": "single",
+        "question": "What is Pudge's English hero name? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Puck"
+          },
+          {
+            "tag": "B",
+            "text": "Pudge"
+          },
+          {
+            "tag": "C",
+            "text": "Pugna"
+          },
+          {
+            "tag": "D",
+            "text": "Pangolier"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_heroes_005",
+        "type": "single",
+        "question": "What is Invoker's English hero name? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Oracle"
+          },
+          {
+            "tag": "B",
+            "text": "Silencer"
+          },
+          {
+            "tag": "C",
+            "text": "Invoker"
+          },
+          {
+            "tag": "D",
+            "text": "Rubick"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_006",
+        "type": "single",
+        "question": "Which hero is Universal? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Anti-Mage"
+          },
+          {
+            "tag": "B",
+            "text": "Axe"
+          },
+          {
+            "tag": "C",
+            "text": "Drow Ranger"
+          },
+          {
+            "tag": "D",
+            "text": "Void Spirit"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_007",
+        "type": "single",
+        "question": "Which hero is commonly nicknamed Elder Titan? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Elder Titan"
+          },
+          {
+            "tag": "B",
+            "text": "Earth Spirit"
+          },
+          {
+            "tag": "C",
+            "text": "Earthshaker"
+          },
+          {
+            "tag": "D",
+            "text": "Tiny"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_heroes_008",
+        "type": "single",
+        "question": "Which hero has the clone-style ultimate Divided We Stand? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Naga Siren"
+          },
+          {
+            "tag": "B",
+            "text": "Meepo"
+          },
+          {
+            "tag": "C",
+            "text": "Phantom Lancer"
+          },
+          {
+            "tag": "D",
+            "text": "Chaos Knight"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_heroes_009",
+        "type": "single",
+        "question": "Which hero is centered around placing mines? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Tinker"
+          },
+          {
+            "tag": "B",
+            "text": "Sniper"
+          },
+          {
+            "tag": "C",
+            "text": "Techies"
+          },
+          {
+            "tag": "D",
+            "text": "Gyrocopter"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_010",
+        "type": "single",
+        "question": "Which hero is known for stealing enemy spells? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Invoker"
+          },
+          {
+            "tag": "B",
+            "text": "Oracle"
+          },
+          {
+            "tag": "C",
+            "text": "Silencer"
+          },
+          {
+            "tag": "D",
+            "text": "Rubick"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_011",
+        "type": "single",
+        "question": "Which hero can permanently gain Agility through a core mechanic? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Slark"
+          },
+          {
+            "tag": "B",
+            "text": "Riki"
+          },
+          {
+            "tag": "C",
+            "text": "Bounty Hunter"
+          },
+          {
+            "tag": "D",
+            "text": "Weaver"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_heroes_012",
+        "type": "single",
+        "question": "Which hero can permanently steal Intelligence? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Outworld Destroyer"
+          },
+          {
+            "tag": "B",
+            "text": "Silencer"
+          },
+          {
+            "tag": "C",
+            "text": "Skywrath Mage"
+          },
+          {
+            "tag": "D",
+            "text": "Lion"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_heroes_013",
+        "type": "single",
+        "question": "Which hero is commonly nicknamed Treant? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Nature's Prophet"
+          },
+          {
+            "tag": "B",
+            "text": "Tiny"
+          },
+          {
+            "tag": "C",
+            "text": "Treant Protector"
+          },
+          {
+            "tag": "D",
+            "text": "Elder Titan"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_014",
+        "type": "single",
+        "question": "Which hero has a Spirit Bear companion? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Lycan"
+          },
+          {
+            "tag": "B",
+            "text": "Beastmaster"
+          },
+          {
+            "tag": "C",
+            "text": "Chen"
+          },
+          {
+            "tag": "D",
+            "text": "Lone Druid"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_015",
+        "type": "single",
+        "question": "Which Agility hero can switch between melee and ranged forms? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Troll Warlord"
+          },
+          {
+            "tag": "B",
+            "text": "Morphling"
+          },
+          {
+            "tag": "C",
+            "text": "Terrorblade"
+          },
+          {
+            "tag": "D",
+            "text": "Luna"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_heroes_016",
+        "type": "single",
+        "question": "Which hero is named Spectre in English? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Phantom Assassin"
+          },
+          {
+            "tag": "B",
+            "text": "Spectre"
+          },
+          {
+            "tag": "C",
+            "text": "Death Prophet"
+          },
+          {
+            "tag": "D",
+            "text": "Queen of Pain"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_heroes_017",
+        "type": "single",
+        "question": "Which hero is Gyrocopter? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Clockwerk"
+          },
+          {
+            "tag": "B",
+            "text": "Sniper"
+          },
+          {
+            "tag": "C",
+            "text": "Gyrocopter"
+          },
+          {
+            "tag": "D",
+            "text": "Tinker"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_018",
+        "type": "single",
+        "question": "Which hero is Brewmaster? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Alchemist"
+          },
+          {
+            "tag": "B",
+            "text": "Bristleback"
+          },
+          {
+            "tag": "C",
+            "text": "Tusk"
+          },
+          {
+            "tag": "D",
+            "text": "Brewmaster"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_019",
+        "type": "single",
+        "question": "Which hero is Beastmaster? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Beastmaster"
+          },
+          {
+            "tag": "B",
+            "text": "Lycan"
+          },
+          {
+            "tag": "C",
+            "text": "Primal Beast"
+          },
+          {
+            "tag": "D",
+            "text": "Chen"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_heroes_020",
+        "type": "single",
+        "question": "Which hero is Enigma? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Bane"
+          },
+          {
+            "tag": "B",
+            "text": "Enigma"
+          },
+          {
+            "tag": "C",
+            "text": "Dark Seer"
+          },
+          {
+            "tag": "D",
+            "text": "Faceless Void"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_heroes_021",
+        "type": "single",
+        "question": "Which hero can morph into enemy heroes? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Terrorblade"
+          },
+          {
+            "tag": "B",
+            "text": "Rubick"
+          },
+          {
+            "tag": "C",
+            "text": "Morphling"
+          },
+          {
+            "tag": "D",
+            "text": "Arc Warden"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_022",
+        "type": "single",
+        "question": "Which hero has Duel as an ultimate? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Axe"
+          },
+          {
+            "tag": "B",
+            "text": "Mars"
+          },
+          {
+            "tag": "C",
+            "text": "Centaur Warrunner"
+          },
+          {
+            "tag": "D",
+            "text": "Legion Commander"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_023",
+        "type": "single",
+        "question": "Which hero has Black Hole as an ultimate? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Enigma"
+          },
+          {
+            "tag": "B",
+            "text": "Faceless Void"
+          },
+          {
+            "tag": "C",
+            "text": "Dark Seer"
+          },
+          {
+            "tag": "D",
+            "text": "Warlock"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_heroes_024",
+        "type": "single",
+        "question": "Which hero has Chronosphere as an ultimate? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Void Spirit"
+          },
+          {
+            "tag": "B",
+            "text": "Faceless Void"
+          },
+          {
+            "tag": "C",
+            "text": "Dark Seer"
+          },
+          {
+            "tag": "D",
+            "text": "Oracle"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_heroes_025",
+        "type": "single",
+        "question": "Which hero has Global Silence as an ultimate? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Drow Ranger"
+          },
+          {
+            "tag": "B",
+            "text": "Death Prophet"
+          },
+          {
+            "tag": "C",
+            "text": "Silencer"
+          },
+          {
+            "tag": "D",
+            "text": "Disruptor"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_026",
+        "type": "single",
+        "question": "Which hero has Vengeance Aura? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Drow Ranger"
+          },
+          {
+            "tag": "B",
+            "text": "Luna"
+          },
+          {
+            "tag": "C",
+            "text": "Crystal Maiden"
+          },
+          {
+            "tag": "D",
+            "text": "Vengeful Spirit"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_027",
+        "type": "single",
+        "question": "Which hero has Refraction? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Templar Assassin"
+          },
+          {
+            "tag": "B",
+            "text": "Phantom Assassin"
+          },
+          {
+            "tag": "C",
+            "text": "Spectre"
+          },
+          {
+            "tag": "D",
+            "text": "Lina"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_heroes_028",
+        "type": "single",
+        "question": "Which hero has Walrus PUNCH!? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Tiny"
+          },
+          {
+            "tag": "B",
+            "text": "Tusk"
+          },
+          {
+            "tag": "C",
+            "text": "Earthshaker"
+          },
+          {
+            "tag": "D",
+            "text": "Brewmaster"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_heroes_029",
+        "type": "single",
+        "question": "Which hero has Supernova? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Dawnbreaker"
+          },
+          {
+            "tag": "B",
+            "text": "Lina"
+          },
+          {
+            "tag": "C",
+            "text": "Phoenix"
+          },
+          {
+            "tag": "D",
+            "text": "Jakiro"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_030",
+        "type": "single",
+        "question": "Which hero has God's Strength? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Omniknight"
+          },
+          {
+            "tag": "B",
+            "text": "Wraith King"
+          },
+          {
+            "tag": "C",
+            "text": "Chaos Knight"
+          },
+          {
+            "tag": "D",
+            "text": "Sven"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_031",
+        "type": "multiple",
+        "question": "Which heroes are Universal heroes? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Void Spirit"
+          },
+          {
+            "tag": "B",
+            "text": "Anti-Mage"
+          },
+          {
+            "tag": "C",
+            "text": "Windranger"
+          },
+          {
+            "tag": "D",
+            "text": "Batrider"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_032",
+        "type": "multiple",
+        "question": "Which heroes strongly feature summons or controlled units? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Chen"
+          },
+          {
+            "tag": "B",
+            "text": "Enchantress"
+          },
+          {
+            "tag": "C",
+            "text": "Lone Druid"
+          },
+          {
+            "tag": "D",
+            "text": "Beastmaster"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_033",
+        "type": "multiple",
+        "question": "Which heroes have global or near-global impact skills? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Zeus"
+          },
+          {
+            "tag": "B",
+            "text": "Spectre"
+          },
+          {
+            "tag": "C",
+            "text": "Nature's Prophet"
+          },
+          {
+            "tag": "D",
+            "text": "Silencer"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_034",
+        "type": "multiple",
+        "question": "Which heroes are known for strong mobility? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Storm Spirit"
+          },
+          {
+            "tag": "B",
+            "text": "Ember Spirit"
+          },
+          {
+            "tag": "C",
+            "text": "Void Spirit"
+          },
+          {
+            "tag": "D",
+            "text": "Queen of Pain"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_035",
+        "type": "multiple",
+        "question": "Which heroes have Spirit in their English names? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Storm Spirit"
+          },
+          {
+            "tag": "B",
+            "text": "Ember Spirit"
+          },
+          {
+            "tag": "C",
+            "text": "Earth Spirit"
+          },
+          {
+            "tag": "D",
+            "text": "Void Spirit"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_036",
+        "type": "multiple",
+        "question": "Which heroes can significantly change form or model? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Dragon Knight"
+          },
+          {
+            "tag": "B",
+            "text": "Terrorblade"
+          },
+          {
+            "tag": "C",
+            "text": "Lycan"
+          },
+          {
+            "tag": "D",
+            "text": "Lone Druid"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_037",
+        "type": "multiple",
+        "question": "Which heroes are strongly associated with invisibility? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Riki"
+          },
+          {
+            "tag": "B",
+            "text": "Bounty Hunter"
+          },
+          {
+            "tag": "C",
+            "text": "Clinkz"
+          },
+          {
+            "tag": "D",
+            "text": "Nyx Assassin"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_038",
+        "type": "multiple",
+        "question": "Which heroes have major teamfight-control ultimates? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Enigma"
+          },
+          {
+            "tag": "B",
+            "text": "Faceless Void"
+          },
+          {
+            "tag": "C",
+            "text": "Magnus"
+          },
+          {
+            "tag": "D",
+            "text": "Tidehunter"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_039",
+        "type": "multiple",
+        "question": "Which heroes are commonly associated with illusion-based cores? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Phantom Lancer"
+          },
+          {
+            "tag": "B",
+            "text": "Naga Siren"
+          },
+          {
+            "tag": "C",
+            "text": "Terrorblade"
+          },
+          {
+            "tag": "D",
+            "text": "Chaos Knight"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_040",
+        "type": "multiple",
+        "question": "Which heroes can heal or protect allies? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Dazzle"
+          },
+          {
+            "tag": "B",
+            "text": "Oracle"
+          },
+          {
+            "tag": "C",
+            "text": "Omniknight"
+          },
+          {
+            "tag": "D",
+            "text": "Treant Protector"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "abilities",
+    "category_i18n": "Hero Abilities",
+    "questionList": [
+      {
+        "id": "dota2_abilities_001",
+        "type": "single",
+        "question": "What is the main effect of Axe's Berserker's Call? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Taunts nearby enemies"
+          },
+          {
+            "tag": "B",
+            "text": "Silences enemies"
+          },
+          {
+            "tag": "C",
+            "text": "Heals allies"
+          },
+          {
+            "tag": "D",
+            "text": "Creates illusions"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_002",
+        "type": "single",
+        "question": "What does Pudge's Meat Hook do when it hits? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Turns the target invisible"
+          },
+          {
+            "tag": "B",
+            "text": "Pulls the target toward Pudge"
+          },
+          {
+            "tag": "C",
+            "text": "Creates a rune"
+          },
+          {
+            "tag": "D",
+            "text": "Disarms Pudge"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_003",
+        "type": "single",
+        "question": "Invoker combines Quas, Wex, and Exort to use what mechanic? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Buyback instantly"
+          },
+          {
+            "tag": "B",
+            "text": "Control Roshan"
+          },
+          {
+            "tag": "C",
+            "text": "Invoke spells"
+          },
+          {
+            "tag": "D",
+            "text": "Upgrade neutral items"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_abilities_004",
+        "type": "single",
+        "question": "What type of ability is Enigma's Black Hole? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Passive lifesteal"
+          },
+          {
+            "tag": "B",
+            "text": "Toggle attack modifier"
+          },
+          {
+            "tag": "C",
+            "text": "Self-only blink"
+          },
+          {
+            "tag": "D",
+            "text": "Channeled area disable"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_005",
+        "type": "single",
+        "question": "What does Faceless Void's Chronosphere create? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "A dome that freezes units inside"
+          },
+          {
+            "tag": "B",
+            "text": "A healing fountain"
+          },
+          {
+            "tag": "C",
+            "text": "A courier shield"
+          },
+          {
+            "tag": "D",
+            "text": "A creep wave"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_006",
+        "type": "single",
+        "question": "What is Lion's Finger of Death mainly used for? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Long-duration invisibility"
+          },
+          {
+            "tag": "B",
+            "text": "High burst damage"
+          },
+          {
+            "tag": "C",
+            "text": "Permanent warding"
+          },
+          {
+            "tag": "D",
+            "text": "Creep conversion"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_007",
+        "type": "single",
+        "question": "What does Crystal Maiden's Arcane Aura primarily help with? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Armor reduction"
+          },
+          {
+            "tag": "B",
+            "text": "Attack range"
+          },
+          {
+            "tag": "C",
+            "text": "Mana regeneration"
+          },
+          {
+            "tag": "D",
+            "text": "Illusion damage"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_abilities_008",
+        "type": "single",
+        "question": "What is special about Zeus's Thundergod's Wrath? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "It only affects buildings"
+          },
+          {
+            "tag": "B",
+            "text": "It summons illusions"
+          },
+          {
+            "tag": "C",
+            "text": "It buys items"
+          },
+          {
+            "tag": "D",
+            "text": "It affects enemy heroes globally"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_009",
+        "type": "single",
+        "question": "What does Slark's Essence Shift steal? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Attributes"
+          },
+          {
+            "tag": "B",
+            "text": "Gold"
+          },
+          {
+            "tag": "C",
+            "text": "Neutral tokens"
+          },
+          {
+            "tag": "D",
+            "text": "Courier speed"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_010",
+        "type": "single",
+        "question": "What does Silencer's Global Silence mainly do? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Stuns Roshan"
+          },
+          {
+            "tag": "B",
+            "text": "Silences enemy heroes globally"
+          },
+          {
+            "tag": "C",
+            "text": "Heals towers"
+          },
+          {
+            "tag": "D",
+            "text": "Drops gems"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_011",
+        "type": "single",
+        "question": "What can Rubick gain with Spell Steal? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Enemy gold"
+          },
+          {
+            "tag": "B",
+            "text": "Aegis ownership"
+          },
+          {
+            "tag": "C",
+            "text": "The last spell cast by a target enemy hero"
+          },
+          {
+            "tag": "D",
+            "text": "Neutral camp control"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_abilities_012",
+        "type": "single",
+        "question": "What does Sven's God's Strength mainly increase? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Mana cost"
+          },
+          {
+            "tag": "B",
+            "text": "Respawn time"
+          },
+          {
+            "tag": "C",
+            "text": "Courier speed"
+          },
+          {
+            "tag": "D",
+            "text": "Attack damage"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_013",
+        "type": "single",
+        "question": "What is Tidehunter's Ravage mainly used for? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Large area stun initiation"
+          },
+          {
+            "tag": "B",
+            "text": "Healing allies"
+          },
+          {
+            "tag": "C",
+            "text": "Buying wards"
+          },
+          {
+            "tag": "D",
+            "text": "Permanent invisibility"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_014",
+        "type": "single",
+        "question": "What is Magnus' Reverse Polarity mainly known for? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Healing creeps"
+          },
+          {
+            "tag": "B",
+            "text": "Pulling and stunning enemies around Magnus"
+          },
+          {
+            "tag": "C",
+            "text": "Disarming towers"
+          },
+          {
+            "tag": "D",
+            "text": "Opening secret shop"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_015",
+        "type": "single",
+        "question": "How can enemies stop Phoenix's Supernova? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Deny their tower"
+          },
+          {
+            "tag": "B",
+            "text": "Drop a neutral item"
+          },
+          {
+            "tag": "C",
+            "text": "Destroy the sun with attacks"
+          },
+          {
+            "tag": "D",
+            "text": "Kill Roshan"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_abilities_016",
+        "type": "single",
+        "question": "What does Legion Commander gain after winning Duel? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Permanent intelligence steal"
+          },
+          {
+            "tag": "B",
+            "text": "A free Aegis"
+          },
+          {
+            "tag": "C",
+            "text": "Extra neutral slot"
+          },
+          {
+            "tag": "D",
+            "text": "Permanent bonus damage"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_017",
+        "type": "single",
+        "question": "What does Templar Assassin's Refraction provide? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Damage block and bonus damage charges"
+          },
+          {
+            "tag": "B",
+            "text": "Global silence"
+          },
+          {
+            "tag": "C",
+            "text": "Roshan control"
+          },
+          {
+            "tag": "D",
+            "text": "Courier recall"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_018",
+        "type": "single",
+        "question": "What is special about Nature's Prophet's Teleportation? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "It only works in base"
+          },
+          {
+            "tag": "B",
+            "text": "It allows global map movement"
+          },
+          {
+            "tag": "C",
+            "text": "It summons Aegis"
+          },
+          {
+            "tag": "D",
+            "text": "It steals spells"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_019",
+        "type": "single",
+        "question": "What ally benefit is associated with Kunkka's Ghostship? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Permanent agility"
+          },
+          {
+            "tag": "B",
+            "text": "Free teleport scrolls"
+          },
+          {
+            "tag": "C",
+            "text": "Delayed damage reduction through rum buff"
+          },
+          {
+            "tag": "D",
+            "text": "Neutral item upgrades"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_abilities_020",
+        "type": "single",
+        "question": "What kind of ability is Witch Doctor's Death Ward? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Passive bash"
+          },
+          {
+            "tag": "B",
+            "text": "Toggle invisibility"
+          },
+          {
+            "tag": "C",
+            "text": "Instant buyback"
+          },
+          {
+            "tag": "D",
+            "text": "Channeled ward attack"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_021",
+        "type": "single",
+        "question": "What is Dazzle's Shallow Grave mainly used for? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Preventing an ally from dying briefly"
+          },
+          {
+            "tag": "B",
+            "text": "Increasing tower armor permanently"
+          },
+          {
+            "tag": "C",
+            "text": "Summoning illusions"
+          },
+          {
+            "tag": "D",
+            "text": "Stealing spells"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_022",
+        "type": "single",
+        "question": "What does Oracle's False Promise mainly protect? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Courier inventory"
+          },
+          {
+            "tag": "B",
+            "text": "A target hero during delayed damage/healing resolution"
+          },
+          {
+            "tag": "C",
+            "text": "Neutral camps"
+          },
+          {
+            "tag": "D",
+            "text": "Enemy barracks"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_023",
+        "type": "single",
+        "question": "Shadow Fiend's Requiem of Souls is tied to what resource? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Neutral tokens"
+          },
+          {
+            "tag": "B",
+            "text": "Tower charges"
+          },
+          {
+            "tag": "C",
+            "text": "Necromastery souls"
+          },
+          {
+            "tag": "D",
+            "text": "Courier levels"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_abilities_024",
+        "type": "single",
+        "question": "What does Dragon Knight's Elder Dragon Form change? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "His player slot"
+          },
+          {
+            "tag": "B",
+            "text": "The game timer"
+          },
+          {
+            "tag": "C",
+            "text": "Roshan spawn side"
+          },
+          {
+            "tag": "D",
+            "text": "His attack form and bonuses"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_025",
+        "type": "single",
+        "question": "What is Morphling's Attribute Shift centered on? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Shifting between Strength and Agility"
+          },
+          {
+            "tag": "B",
+            "text": "Stealing intelligence"
+          },
+          {
+            "tag": "C",
+            "text": "Creating wards"
+          },
+          {
+            "tag": "D",
+            "text": "Buying recipes"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_026",
+        "type": "single",
+        "question": "What is a core feature of Techies' ability kit? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Permanent Roshan control"
+          },
+          {
+            "tag": "B",
+            "text": "Mines and explosive area control"
+          },
+          {
+            "tag": "C",
+            "text": "Global healing aura"
+          },
+          {
+            "tag": "D",
+            "text": "Illusion-only damage"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_027",
+        "type": "single",
+        "question": "Luna's Eclipse uses what damage source? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Right-click cleave only"
+          },
+          {
+            "tag": "B",
+            "text": "Courier attacks"
+          },
+          {
+            "tag": "C",
+            "text": "Lucent Beam strikes"
+          },
+          {
+            "tag": "D",
+            "text": "Neutral item procs only"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_abilities_028",
+        "type": "single",
+        "question": "Puck's Dream Coil punishes what behavior? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Buying items"
+          },
+          {
+            "tag": "B",
+            "text": "Denying creeps"
+          },
+          {
+            "tag": "C",
+            "text": "Using courier"
+          },
+          {
+            "tag": "D",
+            "text": "Moving too far from the coil point"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_029",
+        "type": "single",
+        "question": "What does Bounty Hunter's Track mainly provide? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Vision and bonus gold on kills"
+          },
+          {
+            "tag": "B",
+            "text": "Permanent stun immunity"
+          },
+          {
+            "tag": "C",
+            "text": "Roshan armor"
+          },
+          {
+            "tag": "D",
+            "text": "Tower healing"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_030",
+        "type": "single",
+        "question": "What does Meepo's Divided We Stand allow the player to control? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Multiple couriers"
+          },
+          {
+            "tag": "B",
+            "text": "Multiple Meepos sharing risk"
+          },
+          {
+            "tag": "C",
+            "text": "All neutral creeps"
+          },
+          {
+            "tag": "D",
+            "text": "Enemy heroes"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_031",
+        "type": "multiple",
+        "question": "Which abilities are large area teamfight controls? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Black Hole"
+          },
+          {
+            "tag": "B",
+            "text": "Chronosphere"
+          },
+          {
+            "tag": "C",
+            "text": "Ravage"
+          },
+          {
+            "tag": "D",
+            "text": "Reverse Polarity"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_032",
+        "type": "multiple",
+        "question": "Which abilities have global impact? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Thundergod's Wrath"
+          },
+          {
+            "tag": "B",
+            "text": "Global Silence"
+          },
+          {
+            "tag": "C",
+            "text": "Haunt"
+          },
+          {
+            "tag": "D",
+            "text": "Wrath of Nature"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_033",
+        "type": "multiple",
+        "question": "Which abilities are commonly channeled? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Black Hole"
+          },
+          {
+            "tag": "B",
+            "text": "Blink Strike"
+          },
+          {
+            "tag": "C",
+            "text": "Death Ward"
+          },
+          {
+            "tag": "D",
+            "text": "Freezing Field"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_034",
+        "type": "multiple",
+        "question": "Which abilities can directly protect ally survival? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Shallow Grave"
+          },
+          {
+            "tag": "B",
+            "text": "False Promise"
+          },
+          {
+            "tag": "C",
+            "text": "Guardian Angel"
+          },
+          {
+            "tag": "D",
+            "text": "Living Armor"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_035",
+        "type": "multiple",
+        "question": "Which abilities are related to permanent scaling or permanent gains? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Duel"
+          },
+          {
+            "tag": "B",
+            "text": "Finger of Death"
+          },
+          {
+            "tag": "C",
+            "text": "Glaives of Wisdom"
+          },
+          {
+            "tag": "D",
+            "text": "Essence Shift"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_036",
+        "type": "multiple",
+        "question": "Which abilities can apply silence? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Global Silence"
+          },
+          {
+            "tag": "B",
+            "text": "Orchid Malevolence active"
+          },
+          {
+            "tag": "C",
+            "text": "Blood Rite"
+          },
+          {
+            "tag": "D",
+            "text": "Last Word"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_037",
+        "type": "multiple",
+        "question": "Which abilities are commonly used to initiate fights? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Blink + Berserker's Call"
+          },
+          {
+            "tag": "B",
+            "text": "Reverse Polarity"
+          },
+          {
+            "tag": "C",
+            "text": "Ravage"
+          },
+          {
+            "tag": "D",
+            "text": "Chronosphere"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_038",
+        "type": "multiple",
+        "question": "Which abilities involve illusions or copies? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Mirror Image"
+          },
+          {
+            "tag": "B",
+            "text": "Conjure Image"
+          },
+          {
+            "tag": "C",
+            "text": "Phantasm"
+          },
+          {
+            "tag": "D",
+            "text": "Tempest Double"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_039",
+        "type": "multiple",
+        "question": "Which abilities involve invisibility or fading? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Permanent Invisibility"
+          },
+          {
+            "tag": "B",
+            "text": "Shadow Walk"
+          },
+          {
+            "tag": "C",
+            "text": "Skeleton Walk"
+          },
+          {
+            "tag": "D",
+            "text": "Meld"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_040",
+        "type": "multiple",
+        "question": "Which abilities are hero ultimates? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Black Hole"
+          },
+          {
+            "tag": "B",
+            "text": "Chronosphere"
+          },
+          {
+            "tag": "C",
+            "text": "God's Strength"
+          },
+          {
+            "tag": "D",
+            "text": "Global Silence"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "items",
+    "category_i18n": "Items",
+    "questionList": [
+      {
+        "id": "dota2_items_001",
+        "type": "single",
+        "question": "What is the common English abbreviation for Black King Bar? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "MKB"
+          },
+          {
+            "tag": "B",
+            "text": "Bfury"
+          },
+          {
+            "tag": "C",
+            "text": "BKB"
+          },
+          {
+            "tag": "D",
+            "text": "AC"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_002",
+        "type": "single",
+        "question": "What is Blink Dagger mainly used for? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Passive lifesteal"
+          },
+          {
+            "tag": "B",
+            "text": "Mana regeneration aura"
+          },
+          {
+            "tag": "C",
+            "text": "Tower repair"
+          },
+          {
+            "tag": "D",
+            "text": "Instant positioning"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_003",
+        "type": "single",
+        "question": "What is Desolator mainly known for? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Reducing enemy armor on attacks"
+          },
+          {
+            "tag": "B",
+            "text": "Silencing allies"
+          },
+          {
+            "tag": "C",
+            "text": "Healing buildings"
+          },
+          {
+            "tag": "D",
+            "text": "Creating illusions"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_items_004",
+        "type": "single",
+        "question": "What core attribute type does Butterfly primarily provide? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Strength and cleave"
+          },
+          {
+            "tag": "B",
+            "text": "Agility and evasion"
+          },
+          {
+            "tag": "C",
+            "text": "Intelligence and silence"
+          },
+          {
+            "tag": "D",
+            "text": "Gold income"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_items_005",
+        "type": "single",
+        "question": "Monkey King Bar is commonly used to counter what? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Buyback"
+          },
+          {
+            "tag": "B",
+            "text": "Courier sniping"
+          },
+          {
+            "tag": "C",
+            "text": "Evasion"
+          },
+          {
+            "tag": "D",
+            "text": "Roshan timer"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_006",
+        "type": "single",
+        "question": "Linken's Sphere can primarily block what? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "All physical attacks"
+          },
+          {
+            "tag": "B",
+            "text": "Every tower shot"
+          },
+          {
+            "tag": "C",
+            "text": "Neutral item drops"
+          },
+          {
+            "tag": "D",
+            "text": "One targeted spell effect"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_007",
+        "type": "single",
+        "question": "What is the notable risk of Divine Rapier? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "It drops on death"
+          },
+          {
+            "tag": "B",
+            "text": "It deletes buyback"
+          },
+          {
+            "tag": "C",
+            "text": "It removes all armor"
+          },
+          {
+            "tag": "D",
+            "text": "It blocks healing"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_items_008",
+        "type": "single",
+        "question": "What drawback is associated with Mask of Madness active? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Destroys the item"
+          },
+          {
+            "tag": "B",
+            "text": "Silences the user"
+          },
+          {
+            "tag": "C",
+            "text": "Drops gold"
+          },
+          {
+            "tag": "D",
+            "text": "Summons Roshan"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_items_009",
+        "type": "single",
+        "question": "What does Shadow Blade active provide? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Aegis revival"
+          },
+          {
+            "tag": "B",
+            "text": "Permanent armor"
+          },
+          {
+            "tag": "C",
+            "text": "Invisibility and movement speed"
+          },
+          {
+            "tag": "D",
+            "text": "Teamwide heal"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_010",
+        "type": "single",
+        "question": "What does Orchid Malevolence active mainly apply? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Taunt"
+          },
+          {
+            "tag": "B",
+            "text": "Fear immunity"
+          },
+          {
+            "tag": "C",
+            "text": "Cleave"
+          },
+          {
+            "tag": "D",
+            "text": "Silence"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_011",
+        "type": "single",
+        "question": "What does Shiva's Guard active usually do? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Area damage and slow"
+          },
+          {
+            "tag": "B",
+            "text": "Global teleport"
+          },
+          {
+            "tag": "C",
+            "text": "Aegis steal"
+          },
+          {
+            "tag": "D",
+            "text": "Item duplication"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_items_012",
+        "type": "single",
+        "question": "What team benefit is Assault Cuirass known for? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Spell lifesteal only"
+          },
+          {
+            "tag": "B",
+            "text": "Armor and attack speed aura effects"
+          },
+          {
+            "tag": "C",
+            "text": "Rune duplication"
+          },
+          {
+            "tag": "D",
+            "text": "Buyback discount"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_items_013",
+        "type": "single",
+        "question": "When can Aghanim's Shard usually be purchased? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "At game start"
+          },
+          {
+            "tag": "B",
+            "text": "Only after Roshan 5"
+          },
+          {
+            "tag": "C",
+            "text": "After 15 minutes"
+          },
+          {
+            "tag": "D",
+            "text": "Only after barracks fall"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_014",
+        "type": "single",
+        "question": "What is Aghanim's Scepter usually used for? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Buying wards automatically"
+          },
+          {
+            "tag": "B",
+            "text": "Adding courier slots"
+          },
+          {
+            "tag": "C",
+            "text": "Changing team side"
+          },
+          {
+            "tag": "D",
+            "text": "Upgrading hero abilities"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_015",
+        "type": "single",
+        "question": "What is Refresher Orb mainly used for? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Resetting cooldowns of many abilities/items"
+          },
+          {
+            "tag": "B",
+            "text": "Increasing bounty runes"
+          },
+          {
+            "tag": "C",
+            "text": "Dropping Aegis"
+          },
+          {
+            "tag": "D",
+            "text": "Converting attributes"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_items_016",
+        "type": "single",
+        "question": "What active effect is Dagon known for? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Area physical cleave"
+          },
+          {
+            "tag": "B",
+            "text": "Single-target magical burst damage"
+          },
+          {
+            "tag": "C",
+            "text": "Global silence"
+          },
+          {
+            "tag": "D",
+            "text": "Permanent illusion"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_items_017",
+        "type": "single",
+        "question": "Sange and Yasha combines which item themes? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Intelligence and warding"
+          },
+          {
+            "tag": "B",
+            "text": "Roshan and runes"
+          },
+          {
+            "tag": "C",
+            "text": "Strength/status resistance and agility/move speed themes"
+          },
+          {
+            "tag": "D",
+            "text": "Courier and shop"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_018",
+        "type": "single",
+        "question": "What does Manta Style active create? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "A courier"
+          },
+          {
+            "tag": "B",
+            "text": "A tower"
+          },
+          {
+            "tag": "C",
+            "text": "A rune"
+          },
+          {
+            "tag": "D",
+            "text": "Illusions"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_019",
+        "type": "single",
+        "question": "What does Satanic active strongly enhance? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Lifesteal"
+          },
+          {
+            "tag": "B",
+            "text": "Silence duration"
+          },
+          {
+            "tag": "C",
+            "text": "Ward vision"
+          },
+          {
+            "tag": "D",
+            "text": "Courier armor"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_items_020",
+        "type": "single",
+        "question": "Kaya primarily enhances what kind of capability? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Building damage only"
+          },
+          {
+            "tag": "B",
+            "text": "Spell-related output/mana efficiency"
+          },
+          {
+            "tag": "C",
+            "text": "Courier speed"
+          },
+          {
+            "tag": "D",
+            "text": "Neutral camp spawn"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_items_021",
+        "type": "single",
+        "question": "Meteor Hammer active is commonly used for what? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Instant blink"
+          },
+          {
+            "tag": "B",
+            "text": "Permanent invisibility"
+          },
+          {
+            "tag": "C",
+            "text": "Channeling delayed area damage/building pressure"
+          },
+          {
+            "tag": "D",
+            "text": "Spell steal"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_022",
+        "type": "single",
+        "question": "Pipe of Insight mainly helps a team against what? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Courier death"
+          },
+          {
+            "tag": "B",
+            "text": "Roshan respawn"
+          },
+          {
+            "tag": "C",
+            "text": "Buyback cost"
+          },
+          {
+            "tag": "D",
+            "text": "Magical damage"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_023",
+        "type": "single",
+        "question": "Crimson Guard mainly helps a team against what? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Physical attack damage"
+          },
+          {
+            "tag": "B",
+            "text": "Spell cooldowns"
+          },
+          {
+            "tag": "C",
+            "text": "Rune denial"
+          },
+          {
+            "tag": "D",
+            "text": "Courier silence"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_items_024",
+        "type": "single",
+        "question": "Glimmer Cape active can provide what? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Aegis revival"
+          },
+          {
+            "tag": "B",
+            "text": "Invisibility and magic resistance"
+          },
+          {
+            "tag": "C",
+            "text": "Permanent damage"
+          },
+          {
+            "tag": "D",
+            "text": "Roshan control"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_items_025",
+        "type": "single",
+        "question": "How does Force Staff active move a unit? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Teleports to fountain"
+          },
+          {
+            "tag": "B",
+            "text": "Swaps with Roshan"
+          },
+          {
+            "tag": "C",
+            "text": "Pushes it in its facing direction"
+          },
+          {
+            "tag": "D",
+            "text": "Roots in place"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_026",
+        "type": "single",
+        "question": "Hurricane Pike upgrades from which item line? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Blink Dagger"
+          },
+          {
+            "tag": "B",
+            "text": "Quelling Blade"
+          },
+          {
+            "tag": "C",
+            "text": "Bottle"
+          },
+          {
+            "tag": "D",
+            "text": "Dragon Lance"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_027",
+        "type": "single",
+        "question": "Aether Lens primarily increases what? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Cast range"
+          },
+          {
+            "tag": "B",
+            "text": "Attack cleave"
+          },
+          {
+            "tag": "C",
+            "text": "Evasion only"
+          },
+          {
+            "tag": "D",
+            "text": "Courier speed"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_items_028",
+        "type": "single",
+        "question": "Octarine Core is known for what benefit? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Tower invulnerability"
+          },
+          {
+            "tag": "B",
+            "text": "Cooldown reduction related benefit"
+          },
+          {
+            "tag": "C",
+            "text": "Aegis drop"
+          },
+          {
+            "tag": "D",
+            "text": "Permanent silence"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_items_029",
+        "type": "single",
+        "question": "What can Blade Mail active do? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Heal Roshan"
+          },
+          {
+            "tag": "B",
+            "text": "Create runes"
+          },
+          {
+            "tag": "C",
+            "text": "Return damage to attackers"
+          },
+          {
+            "tag": "D",
+            "text": "Steal spells"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_030",
+        "type": "single",
+        "question": "Veil of Discord active mainly amplifies what follow-up damage? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Courier attacks"
+          },
+          {
+            "tag": "B",
+            "text": "Tower denies"
+          },
+          {
+            "tag": "C",
+            "text": "Roshan bash"
+          },
+          {
+            "tag": "D",
+            "text": "Spell damage"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_031",
+        "type": "multiple",
+        "question": "Which items are commonly used for mobility or repositioning? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Blink Dagger"
+          },
+          {
+            "tag": "B",
+            "text": "Force Staff"
+          },
+          {
+            "tag": "C",
+            "text": "Hurricane Pike"
+          },
+          {
+            "tag": "D",
+            "text": "Shadow Blade"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_032",
+        "type": "multiple",
+        "question": "Which items commonly improve spell output or casting? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Kaya"
+          },
+          {
+            "tag": "B",
+            "text": "Aether Lens"
+          },
+          {
+            "tag": "C",
+            "text": "Octarine Core"
+          },
+          {
+            "tag": "D",
+            "text": "Dagon"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_033",
+        "type": "multiple",
+        "question": "Which items are commonly used for team defense? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Pipe of Insight"
+          },
+          {
+            "tag": "B",
+            "text": "Crimson Guard"
+          },
+          {
+            "tag": "C",
+            "text": "Guardian Greaves"
+          },
+          {
+            "tag": "D",
+            "text": "Glimmer Cape"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_034",
+        "type": "multiple",
+        "question": "Which items can silence or limit casting? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Orchid Malevolence"
+          },
+          {
+            "tag": "B",
+            "text": "Butterfly"
+          },
+          {
+            "tag": "C",
+            "text": "Bloodthorn"
+          },
+          {
+            "tag": "D",
+            "text": "Scythe of Vyse"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_035",
+        "type": "multiple",
+        "question": "Which items create or involve illusions? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Manta Style"
+          },
+          {
+            "tag": "B",
+            "text": "Black King Bar"
+          },
+          {
+            "tag": "C",
+            "text": "Illusion Rune interaction"
+          },
+          {
+            "tag": "D",
+            "text": "Mirror Shield illusion?"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_036",
+        "type": "multiple",
+        "question": "Which items/objectives can drop or transfer on death? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Divine Rapier"
+          },
+          {
+            "tag": "B",
+            "text": "Blink Dagger"
+          },
+          {
+            "tag": "C",
+            "text": "Gem of True Sight"
+          },
+          {
+            "tag": "D",
+            "text": "Boots of Speed"
+          }
+        ],
+        "answer": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_037",
+        "type": "multiple",
+        "question": "Which items are common core physical damage items? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Daedalus"
+          },
+          {
+            "tag": "B",
+            "text": "Butterfly"
+          },
+          {
+            "tag": "C",
+            "text": "Monkey King Bar"
+          },
+          {
+            "tag": "D",
+            "text": "Desolator"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_038",
+        "type": "multiple",
+        "question": "Which items are related to Aghanim upgrades? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Aghanim's Scepter"
+          },
+          {
+            "tag": "B",
+            "text": "Butterfly"
+          },
+          {
+            "tag": "C",
+            "text": "Aghanim's Shard"
+          },
+          {
+            "tag": "D",
+            "text": "Aghanim's Blessing"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_039",
+        "type": "multiple",
+        "question": "Which items can be used for dispels or debuff removal? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Black King Bar"
+          },
+          {
+            "tag": "B",
+            "text": "Manta Style"
+          },
+          {
+            "tag": "C",
+            "text": "Lotus Orb"
+          },
+          {
+            "tag": "D",
+            "text": "Guardian Greaves"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_040",
+        "type": "multiple",
+        "question": "Which items are common support save items? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Glimmer Cape"
+          },
+          {
+            "tag": "B",
+            "text": "Force Staff"
+          },
+          {
+            "tag": "C",
+            "text": "Lotus Orb"
+          },
+          {
+            "tag": "D",
+            "text": "Pavise"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "mechanics",
+    "category_i18n": "Game Mechanics",
+    "questionList": [
+      {
+        "id": "dota2_mechanics_001",
+        "type": "single",
+        "question": "What is the main purpose of buyback? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Respawn immediately by spending gold"
+          },
+          {
+            "tag": "B",
+            "text": "Upgrade neutral items"
+          },
+          {
+            "tag": "C",
+            "text": "Control Roshan"
+          },
+          {
+            "tag": "D",
+            "text": "Spawn runes early"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_002",
+        "type": "single",
+        "question": "What is Town Portal Scroll mainly used for? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Buying items remotely"
+          },
+          {
+            "tag": "B",
+            "text": "Teleporting to allied buildings/outposts where allowed"
+          },
+          {
+            "tag": "C",
+            "text": "Stealing spells"
+          },
+          {
+            "tag": "D",
+            "text": "Creating wards"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_003",
+        "type": "single",
+        "question": "What core item does Roshan always drop when killed? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Divine Rapier"
+          },
+          {
+            "tag": "B",
+            "text": "Black King Bar"
+          },
+          {
+            "tag": "C",
+            "text": "Aegis of the Immortal"
+          },
+          {
+            "tag": "D",
+            "text": "Butterfly"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_004",
+        "type": "single",
+        "question": "What does Aegis of the Immortal primarily provide? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Permanent invisibility"
+          },
+          {
+            "tag": "B",
+            "text": "Unlimited buyback"
+          },
+          {
+            "tag": "C",
+            "text": "Tower control"
+          },
+          {
+            "tag": "D",
+            "text": "A one-time resurrection"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_005",
+        "type": "single",
+        "question": "What do Bounty Runes primarily provide? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Gold"
+          },
+          {
+            "tag": "B",
+            "text": "Permanent damage"
+          },
+          {
+            "tag": "C",
+            "text": "Tower armor"
+          },
+          {
+            "tag": "D",
+            "text": "Hero level reset"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_006",
+        "type": "single",
+        "question": "What do Wisdom Runes primarily provide? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Aegis"
+          },
+          {
+            "tag": "B",
+            "text": "Experience"
+          },
+          {
+            "tag": "C",
+            "text": "Neutral item slots"
+          },
+          {
+            "tag": "D",
+            "text": "Tower damage"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_007",
+        "type": "single",
+        "question": "What usually happens when you deny an allied creep? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "The enemy gains Aegis"
+          },
+          {
+            "tag": "B",
+            "text": "Your hero dies"
+          },
+          {
+            "tag": "C",
+            "text": "The enemy receives reduced reward"
+          },
+          {
+            "tag": "D",
+            "text": "Roshan respawns"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_008",
+        "type": "single",
+        "question": "When a tower is denied, what does the enemy usually receive? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "A free Divine Rapier"
+          },
+          {
+            "tag": "B",
+            "text": "All neutral tokens"
+          },
+          {
+            "tag": "C",
+            "text": "Immediate Roshan kill"
+          },
+          {
+            "tag": "D",
+            "text": "Reduced/no last-hit reward compared with killing it"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_009",
+        "type": "single",
+        "question": "What does high-ground vision usually mean? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Units on low ground may miss vision uphill"
+          },
+          {
+            "tag": "B",
+            "text": "All attacks crit"
+          },
+          {
+            "tag": "C",
+            "text": "Spells cannot be cast"
+          },
+          {
+            "tag": "D",
+            "text": "Couriers die instantly"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_010",
+        "type": "single",
+        "question": "What does fog of war limit? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Gold spending"
+          },
+          {
+            "tag": "B",
+            "text": "Vision of unseen areas"
+          },
+          {
+            "tag": "C",
+            "text": "Hero selection"
+          },
+          {
+            "tag": "D",
+            "text": "Item recipes"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_011",
+        "type": "single",
+        "question": "What is Gem of True Sight mainly used for? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Summoning Roshan"
+          },
+          {
+            "tag": "B",
+            "text": "Buying back allies"
+          },
+          {
+            "tag": "C",
+            "text": "Detecting invisible units/wards"
+          },
+          {
+            "tag": "D",
+            "text": "Increasing XP runes"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_012",
+        "type": "single",
+        "question": "What do Observer Wards primarily provide? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "True strike"
+          },
+          {
+            "tag": "B",
+            "text": "Lifesteal"
+          },
+          {
+            "tag": "C",
+            "text": "Buyback discount"
+          },
+          {
+            "tag": "D",
+            "text": "Vision"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_013",
+        "type": "single",
+        "question": "What do Sentry Wards primarily provide? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "True sight in an area"
+          },
+          {
+            "tag": "B",
+            "text": "Gold over time"
+          },
+          {
+            "tag": "C",
+            "text": "Hero damage"
+          },
+          {
+            "tag": "D",
+            "text": "Roshan stun"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_014",
+        "type": "single",
+        "question": "What does creep pulling mainly manipulate? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Roshan inventory"
+          },
+          {
+            "tag": "B",
+            "text": "Lane equilibrium and neutral camp interaction"
+          },
+          {
+            "tag": "C",
+            "text": "Draft order"
+          },
+          {
+            "tag": "D",
+            "text": "Hero talents"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_015",
+        "type": "single",
+        "question": "What is the core result of stacking neutral camps? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Instant tower kill"
+          },
+          {
+            "tag": "B",
+            "text": "Free Aegis"
+          },
+          {
+            "tag": "C",
+            "text": "More neutral creeps in a camp"
+          },
+          {
+            "tag": "D",
+            "text": "Hero swap"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_016",
+        "type": "single",
+        "question": "What does lane equilibrium management control? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Which team owns Roshan"
+          },
+          {
+            "tag": "B",
+            "text": "Shop prices"
+          },
+          {
+            "tag": "C",
+            "text": "Hero voice lines"
+          },
+          {
+            "tag": "D",
+            "text": "Where creep waves meet"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_017",
+        "type": "single",
+        "question": "What does aggro mechanics affect? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Unit attack targeting behavior"
+          },
+          {
+            "tag": "B",
+            "text": "Cosmetic drops"
+          },
+          {
+            "tag": "C",
+            "text": "Server region"
+          },
+          {
+            "tag": "D",
+            "text": "Replay speed"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_018",
+        "type": "single",
+        "question": "Debuff immunity or spell immunity is usually used for what? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Increasing courier slots"
+          },
+          {
+            "tag": "B",
+            "text": "Avoiding or reducing enemy control/spell impact"
+          },
+          {
+            "tag": "C",
+            "text": "Spawning extra Roshan"
+          },
+          {
+            "tag": "D",
+            "text": "Changing team color"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_019",
+        "type": "single",
+        "question": "What happens when teleport channeling is interrupted? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "The hero gains Aegis"
+          },
+          {
+            "tag": "B",
+            "text": "The tower moves"
+          },
+          {
+            "tag": "C",
+            "text": "The teleport fails and cooldown rules apply"
+          },
+          {
+            "tag": "D",
+            "text": "All runes despawn"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_020",
+        "type": "single",
+        "question": "Where do neutral items primarily come from? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Enemy fountain"
+          },
+          {
+            "tag": "B",
+            "text": "Destroyed wards only"
+          },
+          {
+            "tag": "C",
+            "text": "Chat commands"
+          },
+          {
+            "tag": "D",
+            "text": "Neutral creep drops/tokens system"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_021",
+        "type": "single",
+        "question": "What can the day-night cycle affect? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Vision ranges and some abilities"
+          },
+          {
+            "tag": "B",
+            "text": "Item recipes only"
+          },
+          {
+            "tag": "C",
+            "text": "Hero names"
+          },
+          {
+            "tag": "D",
+            "text": "Server tick rate"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_022",
+        "type": "single",
+        "question": "Armor primarily affects what damage type? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Pure damage"
+          },
+          {
+            "tag": "B",
+            "text": "Physical damage"
+          },
+          {
+            "tag": "C",
+            "text": "Gold loss"
+          },
+          {
+            "tag": "D",
+            "text": "Experience gain"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_023",
+        "type": "single",
+        "question": "Magic resistance primarily affects what damage type? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Physical last hits"
+          },
+          {
+            "tag": "B",
+            "text": "Gold bounty"
+          },
+          {
+            "tag": "C",
+            "text": "Magical damage"
+          },
+          {
+            "tag": "D",
+            "text": "Courier speed"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_024",
+        "type": "single",
+        "question": "What is typical of pure damage? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "It only hits buildings"
+          },
+          {
+            "tag": "B",
+            "text": "It heals enemies"
+          },
+          {
+            "tag": "C",
+            "text": "It creates runes"
+          },
+          {
+            "tag": "D",
+            "text": "It bypasses many armor/magic resistance reductions"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_025",
+        "type": "single",
+        "question": "What does status resistance mainly affect? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Duration of many debuffs/control effects"
+          },
+          {
+            "tag": "B",
+            "text": "Gold earned from creeps"
+          },
+          {
+            "tag": "C",
+            "text": "Hero model size only"
+          },
+          {
+            "tag": "D",
+            "text": "Shop availability"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_026",
+        "type": "single",
+        "question": "What do illusions usually inherit? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Full item actives freely"
+          },
+          {
+            "tag": "B",
+            "text": "Some hero stats with modified damage rules"
+          },
+          {
+            "tag": "C",
+            "text": "Player MMR"
+          },
+          {
+            "tag": "D",
+            "text": "Roshan inventory"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_027",
+        "type": "single",
+        "question": "What is the courier mainly used for? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Casting hero ultimates"
+          },
+          {
+            "tag": "B",
+            "text": "Capturing Roshan"
+          },
+          {
+            "tag": "C",
+            "text": "Delivering items"
+          },
+          {
+            "tag": "D",
+            "text": "Denying towers"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_028",
+        "type": "single",
+        "question": "What strategic value do Outposts provide? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Free Divine Rapier"
+          },
+          {
+            "tag": "B",
+            "text": "Instant lane win"
+          },
+          {
+            "tag": "C",
+            "text": "Hero duplication"
+          },
+          {
+            "tag": "D",
+            "text": "Map control and teleport/vision-related utility"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_029",
+        "type": "single",
+        "question": "What is backdoor protection mainly for? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Reducing damage to protected buildings without nearby creeps"
+          },
+          {
+            "tag": "B",
+            "text": "Increasing hero spell amp"
+          },
+          {
+            "tag": "C",
+            "text": "Creating bounty runes"
+          },
+          {
+            "tag": "D",
+            "text": "Blocking chat"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_030",
+        "type": "single",
+        "question": "What is pause mainly used for in matches? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Changing drafted heroes"
+          },
+          {
+            "tag": "B",
+            "text": "Temporarily stopping game action"
+          },
+          {
+            "tag": "C",
+            "text": "Buying items for enemies"
+          },
+          {
+            "tag": "D",
+            "text": "Resetting Roshan"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_031",
+        "type": "multiple",
+        "question": "Which mechanics are directly related to map vision? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Observer Wards"
+          },
+          {
+            "tag": "B",
+            "text": "Sentry Wards"
+          },
+          {
+            "tag": "C",
+            "text": "Fog of War"
+          },
+          {
+            "tag": "D",
+            "text": "High-ground vision"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_032",
+        "type": "multiple",
+        "question": "Which mechanics are related to economy gains? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Last hitting"
+          },
+          {
+            "tag": "B",
+            "text": "Bounty Runes"
+          },
+          {
+            "tag": "C",
+            "text": "Hero kill bounty"
+          },
+          {
+            "tag": "D",
+            "text": "Tower bounty"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_033",
+        "type": "multiple",
+        "question": "Which mechanics relate to respawn or post-death states? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Buyback"
+          },
+          {
+            "tag": "B",
+            "text": "Lane equilibrium"
+          },
+          {
+            "tag": "C",
+            "text": "Aegis resurrection"
+          },
+          {
+            "tag": "D",
+            "text": "Respawn timer"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_034",
+        "type": "multiple",
+        "question": "Which mechanics are related to lane control? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Pulling"
+          },
+          {
+            "tag": "B",
+            "text": "Stacking"
+          },
+          {
+            "tag": "C",
+            "text": "Creep aggro"
+          },
+          {
+            "tag": "D",
+            "text": "Denying"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_035",
+        "type": "multiple",
+        "question": "Which are damage types or damage-resolution concepts? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Physical damage"
+          },
+          {
+            "tag": "B",
+            "text": "Magical damage"
+          },
+          {
+            "tag": "C",
+            "text": "Pure damage"
+          },
+          {
+            "tag": "D",
+            "text": "Armor"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_036",
+        "type": "multiple",
+        "question": "Which mechanics can reveal invisible units or wards? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Sentry Ward"
+          },
+          {
+            "tag": "B",
+            "text": "Bounty Rune"
+          },
+          {
+            "tag": "C",
+            "text": "Gem of True Sight"
+          },
+          {
+            "tag": "D",
+            "text": "Dust of Appearance"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_037",
+        "type": "multiple",
+        "question": "Which objectives are important map resources? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Roshan"
+          },
+          {
+            "tag": "B",
+            "text": "Tormentor"
+          },
+          {
+            "tag": "C",
+            "text": "Outposts"
+          },
+          {
+            "tag": "D",
+            "text": "Power Runes"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_038",
+        "type": "multiple",
+        "question": "Which actions can change creep wave position? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Pulling creeps"
+          },
+          {
+            "tag": "B",
+            "text": "Aggro manipulation"
+          },
+          {
+            "tag": "C",
+            "text": "Denying creeps"
+          },
+          {
+            "tag": "D",
+            "text": "Clearing waves quickly"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_039",
+        "type": "multiple",
+        "question": "Which mechanics relate to casting or landing abilities? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Cast range"
+          },
+          {
+            "tag": "B",
+            "text": "Channeling"
+          },
+          {
+            "tag": "C",
+            "text": "Projectile speed"
+          },
+          {
+            "tag": "D",
+            "text": "Status resistance"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_040",
+        "type": "multiple",
+        "question": "Which mechanics usually require team communication? (based on Dota 2 patch 7.41c)",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Roshan timing"
+          },
+          {
+            "tag": "B",
+            "text": "Smoke movement"
+          },
+          {
+            "tag": "C",
+            "text": "Buyback status"
+          },
+          {
+            "tag": "D",
+            "text": "Ward placement"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ]
+  }
+]

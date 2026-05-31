@@ -1,0 +1,5363 @@
+[
+  {
+    "category": "ti_history",
+    "category_i18n": "TI赛事",
+    "questionList": [
+      {
+        "id": "dota2_ti_history_001",
+        "type": "single",
+        "question": "TI1 的冠军是哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Natus Vincere（Na'Vi）"
+          },
+          {
+            "tag": "B",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "C",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_002",
+        "type": "single",
+        "question": "TI2 的冠军是哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Invictus Gaming（iG）"
+          },
+          {
+            "tag": "C",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_003",
+        "type": "single",
+        "question": "TI3 的冠军是哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "C",
+            "text": "Alliance"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_004",
+        "type": "single",
+        "question": "TI4 的冠军是哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "C",
+            "text": "Virtus.pro"
+          },
+          {
+            "tag": "D",
+            "text": "Newbee"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_005",
+        "type": "single",
+        "question": "TI5 的冠军是哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Evil Geniuses（EG）"
+          },
+          {
+            "tag": "B",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "C",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_006",
+        "type": "single",
+        "question": "TI6 的冠军是哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Wings Gaming"
+          },
+          {
+            "tag": "C",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_007",
+        "type": "single",
+        "question": "TI7 的冠军是哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "C",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_008",
+        "type": "single",
+        "question": "TI8 的冠军是哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "C",
+            "text": "Virtus.pro"
+          },
+          {
+            "tag": "D",
+            "text": "OG"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_009",
+        "type": "single",
+        "question": "TI9 的冠军是哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "OG"
+          },
+          {
+            "tag": "B",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "C",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_010",
+        "type": "single",
+        "question": "TI10 的冠军是哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Spirit"
+          },
+          {
+            "tag": "C",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_011",
+        "type": "single",
+        "question": "TI11 的冠军是哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "C",
+            "text": "Tundra Esports"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_012",
+        "type": "single",
+        "question": "TI12 的冠军是哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "C",
+            "text": "Virtus.pro"
+          },
+          {
+            "tag": "D",
+            "text": "Team Spirit"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_013",
+        "type": "single",
+        "question": "TI13 的冠军是哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "B",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "C",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_014",
+        "type": "single",
+        "question": "哪支队伍是首支两次获得 TI 冠军的队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Team Spirit"
+          },
+          {
+            "tag": "B",
+            "text": "OG"
+          },
+          {
+            "tag": "C",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "D",
+            "text": "Natus Vincere（Na'Vi）"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_015",
+        "type": "single",
+        "question": "哪支队伍完成了 TI8 与 TI9 连冠？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "B",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "C",
+            "text": "OG"
+          },
+          {
+            "tag": "D",
+            "text": "Team Secret"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_016",
+        "type": "single",
+        "question": "TI5 的冠军 Evil Geniuses 来自哪个赛区？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "西欧"
+          },
+          {
+            "tag": "B",
+            "text": "中国"
+          },
+          {
+            "tag": "C",
+            "text": "东南亚"
+          },
+          {
+            "tag": "D",
+            "text": "北美"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_017",
+        "type": "single",
+        "question": "TI6 冠军 Wings Gaming 来自哪个赛区？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "中国"
+          },
+          {
+            "tag": "B",
+            "text": "北美"
+          },
+          {
+            "tag": "C",
+            "text": "西欧"
+          },
+          {
+            "tag": "D",
+            "text": "东南亚"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_018",
+        "type": "single",
+        "question": "TI7 冠军 Team Liquid 在决赛击败了哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "LGD Gaming"
+          },
+          {
+            "tag": "B",
+            "text": "Newbee"
+          },
+          {
+            "tag": "C",
+            "text": "Virtus.pro"
+          },
+          {
+            "tag": "D",
+            "text": "Team Secret"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_019",
+        "type": "single",
+        "question": "TI10 冠军 Team Spirit 在决赛击败了哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "B",
+            "text": "OG"
+          },
+          {
+            "tag": "C",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "D",
+            "text": "Tundra Esports"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_020",
+        "type": "single",
+        "question": "TI11 冠军 Tundra Esports 在决赛击败了哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "B",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "C",
+            "text": "OG"
+          },
+          {
+            "tag": "D",
+            "text": "Team Secret"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_021",
+        "type": "single",
+        "question": "TI12 冠军 Team Spirit 在决赛击败了哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Gaimin Gladiators"
+          },
+          {
+            "tag": "B",
+            "text": "LGD Gaming"
+          },
+          {
+            "tag": "C",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "D",
+            "text": "Azure Ray"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_022",
+        "type": "single",
+        "question": "TI13 冠军 Team Liquid 在决赛击败了哪支队伍？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Team Spirit"
+          },
+          {
+            "tag": "B",
+            "text": "Gaimin Gladiators"
+          },
+          {
+            "tag": "C",
+            "text": "Tundra Esports"
+          },
+          {
+            "tag": "D",
+            "text": "Xtreme Gaming"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_023",
+        "type": "single",
+        "question": "TI 冠军奖杯通常被称为什么？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "蝴蝶"
+          },
+          {
+            "tag": "B",
+            "text": "圣剑"
+          },
+          {
+            "tag": "C",
+            "text": "冠军神盾"
+          },
+          {
+            "tag": "D",
+            "text": "黑皇杖"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_024",
+        "type": "single",
+        "question": "TI1 举办地所在国家是？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "美国"
+          },
+          {
+            "tag": "B",
+            "text": "加拿大"
+          },
+          {
+            "tag": "C",
+            "text": "中国"
+          },
+          {
+            "tag": "D",
+            "text": "德国"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_025",
+        "type": "single",
+        "question": "TI10 因疫情延期后在哪一年举行？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "2021"
+          },
+          {
+            "tag": "B",
+            "text": "2020"
+          },
+          {
+            "tag": "C",
+            "text": "2022"
+          },
+          {
+            "tag": "D",
+            "text": "2019"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_026",
+        "type": "single",
+        "question": "TI8 决赛中 OG 击败的对手是？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "B",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "C",
+            "text": "Evil Geniuses（EG）"
+          },
+          {
+            "tag": "D",
+            "text": "Virtus.pro"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_027",
+        "type": "single",
+        "question": "TI9 决赛中 OG 击败的对手是？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "PSG.LGD"
+          },
+          {
+            "tag": "B",
+            "text": "Team Secret"
+          },
+          {
+            "tag": "C",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "D",
+            "text": "Newbee"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_028",
+        "type": "single",
+        "question": "TI4 决赛中 Newbee 击败的对手是？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "EHOME"
+          },
+          {
+            "tag": "B",
+            "text": "Team DK"
+          },
+          {
+            "tag": "C",
+            "text": "Invictus Gaming（iG）"
+          },
+          {
+            "tag": "D",
+            "text": "Vici Gaming"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_029",
+        "type": "single",
+        "question": "TI2 决赛中 iG 击败的对手是？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Natus Vincere（Na'Vi）"
+          },
+          {
+            "tag": "B",
+            "text": "EHOME"
+          },
+          {
+            "tag": "C",
+            "text": "Alliance"
+          },
+          {
+            "tag": "D",
+            "text": "Team DK"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_030",
+        "type": "single",
+        "question": "TI3 决赛以经典五局大战闻名，冠军是？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Natus Vincere（Na'Vi）"
+          },
+          {
+            "tag": "B",
+            "text": "Alliance"
+          },
+          {
+            "tag": "C",
+            "text": "Evil Geniuses（EG）"
+          },
+          {
+            "tag": "D",
+            "text": "Team Liquid"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_031",
+        "type": "multiple",
+        "question": "哪些队伍至少两次获得 TI 冠军？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "OG"
+          },
+          {
+            "tag": "B",
+            "text": "Natus Vincere（Na'Vi）"
+          },
+          {
+            "tag": "C",
+            "text": "Team Spirit"
+          },
+          {
+            "tag": "D",
+            "text": "Team Liquid"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_032",
+        "type": "multiple",
+        "question": "哪些 TI 冠军队伍来自中国赛区？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Invictus Gaming（iG）"
+          },
+          {
+            "tag": "B",
+            "text": "OG"
+          },
+          {
+            "tag": "C",
+            "text": "Newbee"
+          },
+          {
+            "tag": "D",
+            "text": "Wings Gaming"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_033",
+        "type": "multiple",
+        "question": "哪些队伍曾在 TI 决赛击败 PSG.LGD？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "OG"
+          },
+          {
+            "tag": "B",
+            "text": "Tundra Esports"
+          },
+          {
+            "tag": "C",
+            "text": "Team Spirit"
+          },
+          {
+            "tag": "D",
+            "text": "Alliance"
+          }
+        ],
+        "answer": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_034",
+        "type": "multiple",
+        "question": "哪些赛事冠军是 Team Spirit？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "第十届国际邀请赛"
+          },
+          {
+            "tag": "B",
+            "text": "第八届国际邀请赛"
+          },
+          {
+            "tag": "C",
+            "text": "第十二届国际邀请赛"
+          },
+          {
+            "tag": "D",
+            "text": "第九届国际邀请赛"
+          }
+        ],
+        "answer": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_035",
+        "type": "multiple",
+        "question": "哪些赛事冠军是 OG？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "第八届国际邀请赛"
+          },
+          {
+            "tag": "B",
+            "text": "第七届国际邀请赛"
+          },
+          {
+            "tag": "C",
+            "text": "第九届国际邀请赛"
+          },
+          {
+            "tag": "D",
+            "text": "第十届国际邀请赛"
+          }
+        ],
+        "answer": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_036",
+        "type": "multiple",
+        "question": "哪些 TI 决赛包含中国战队作为亚军？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "第一届国际邀请赛"
+          },
+          {
+            "tag": "B",
+            "text": "第二届国际邀请赛"
+          },
+          {
+            "tag": "C",
+            "text": "第四届国际邀请赛"
+          },
+          {
+            "tag": "D",
+            "text": "第八届国际邀请赛"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_037",
+        "type": "multiple",
+        "question": "哪些队伍获得过一次 TI 冠军？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Alliance"
+          },
+          {
+            "tag": "B",
+            "text": "Newbee"
+          },
+          {
+            "tag": "C",
+            "text": "Evil Geniuses（EG）"
+          },
+          {
+            "tag": "D",
+            "text": "Wings Gaming"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_038",
+        "type": "multiple",
+        "question": "哪些 TI 在欧洲城市举办？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "第一届国际邀请赛"
+          },
+          {
+            "tag": "B",
+            "text": "第八届国际邀请赛"
+          },
+          {
+            "tag": "C",
+            "text": "第十届国际邀请赛"
+          },
+          {
+            "tag": "D",
+            "text": "第十三届国际邀请赛"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_039",
+        "type": "multiple",
+        "question": "哪些队伍曾连续两年进入 TI 决赛？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "Natus Vincere（Na'Vi）"
+          },
+          {
+            "tag": "B",
+            "text": "OG"
+          },
+          {
+            "tag": "C",
+            "text": "Team Liquid"
+          },
+          {
+            "tag": "D",
+            "text": "Gaimin Gladiators"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_ti_history_040",
+        "type": "multiple",
+        "question": "哪些是 The International 相关概念？ （截至 TI13 / 2024 年 The International 结束）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "冠军神盾"
+          },
+          {
+            "tag": "B",
+            "text": "肉山坑位置选择"
+          },
+          {
+            "tag": "C",
+            "text": "互动指南"
+          },
+          {
+            "tag": "D",
+            "text": "勇士令状"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "heroes",
+    "category_i18n": "英雄",
+    "questionList": [
+      {
+        "id": "dota2_heroes_001",
+        "type": "single",
+        "question": "敌法师的英文名是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "斧王"
+          },
+          {
+            "tag": "B",
+            "text": "主宰"
+          },
+          {
+            "tag": "C",
+            "text": "敌法师"
+          },
+          {
+            "tag": "D",
+            "text": "祈求者"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_002",
+        "type": "single",
+        "question": "斧王的英文名是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "钢背兽"
+          },
+          {
+            "tag": "B",
+            "text": "半人马战行者"
+          },
+          {
+            "tag": "C",
+            "text": "玛尔斯"
+          },
+          {
+            "tag": "D",
+            "text": "斧王"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_003",
+        "type": "single",
+        "question": "水晶室女的英文名是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "水晶室女"
+          },
+          {
+            "tag": "B",
+            "text": "莉娜"
+          },
+          {
+            "tag": "C",
+            "text": "卓尔游侠"
+          },
+          {
+            "tag": "D",
+            "text": "米拉娜"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_heroes_004",
+        "type": "single",
+        "question": "帕吉的英文名是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "帕克"
+          },
+          {
+            "tag": "B",
+            "text": "帕吉"
+          },
+          {
+            "tag": "C",
+            "text": "帕格纳"
+          },
+          {
+            "tag": "D",
+            "text": "石鳞剑士"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_heroes_005",
+        "type": "single",
+        "question": "祈求者的英文名是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "神谕者"
+          },
+          {
+            "tag": "B",
+            "text": "沉默术士"
+          },
+          {
+            "tag": "C",
+            "text": "祈求者"
+          },
+          {
+            "tag": "D",
+            "text": "拉比克"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_006",
+        "type": "single",
+        "question": "主属性为全才的英雄是哪一个？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "敌法师"
+          },
+          {
+            "tag": "B",
+            "text": "斧王"
+          },
+          {
+            "tag": "C",
+            "text": "卓尔游侠"
+          },
+          {
+            "tag": "D",
+            "text": "虚无之灵"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_007",
+        "type": "single",
+        "question": "通常被称为“大牛”的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "上古巨神"
+          },
+          {
+            "tag": "B",
+            "text": "大地之灵"
+          },
+          {
+            "tag": "C",
+            "text": "撼地者"
+          },
+          {
+            "tag": "D",
+            "text": "小小"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_heroes_008",
+        "type": "single",
+        "question": "拥有分身型终极技能“分则能成”的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "娜迦海妖"
+          },
+          {
+            "tag": "B",
+            "text": "米波"
+          },
+          {
+            "tag": "C",
+            "text": "幻影长矛手"
+          },
+          {
+            "tag": "D",
+            "text": "混沌骑士"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_heroes_009",
+        "type": "single",
+        "question": "以放置地雷为核心特色的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "修补匠"
+          },
+          {
+            "tag": "B",
+            "text": "狙击手"
+          },
+          {
+            "tag": "C",
+            "text": "工程师"
+          },
+          {
+            "tag": "D",
+            "text": "矮人直升机"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_010",
+        "type": "single",
+        "question": "以“复制”敌方技能闻名的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "祈求者"
+          },
+          {
+            "tag": "B",
+            "text": "神谕者"
+          },
+          {
+            "tag": "C",
+            "text": "沉默术士"
+          },
+          {
+            "tag": "D",
+            "text": "拉比克"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_011",
+        "type": "single",
+        "question": "拥有永久敏捷成长机制的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "斯拉克"
+          },
+          {
+            "tag": "B",
+            "text": "力丸"
+          },
+          {
+            "tag": "C",
+            "text": "赏金猎人"
+          },
+          {
+            "tag": "D",
+            "text": "编织者"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_heroes_012",
+        "type": "single",
+        "question": "拥有永久智力偷取机制的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "殁境神蚀者"
+          },
+          {
+            "tag": "B",
+            "text": "沉默术士"
+          },
+          {
+            "tag": "C",
+            "text": "天怒法师"
+          },
+          {
+            "tag": "D",
+            "text": "莱恩"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_heroes_013",
+        "type": "single",
+        "question": "可以吞食树木并常被称为“大树”的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "先知"
+          },
+          {
+            "tag": "B",
+            "text": "小小"
+          },
+          {
+            "tag": "C",
+            "text": "树精卫士"
+          },
+          {
+            "tag": "D",
+            "text": "上古巨神"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_014",
+        "type": "single",
+        "question": "拥有熊灵伙伴的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "狼人"
+          },
+          {
+            "tag": "B",
+            "text": "兽王"
+          },
+          {
+            "tag": "C",
+            "text": "陈"
+          },
+          {
+            "tag": "D",
+            "text": "德鲁伊"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_015",
+        "type": "single",
+        "question": "能切换近战和远程形态的敏捷英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "巨魔战将"
+          },
+          {
+            "tag": "B",
+            "text": "变体精灵"
+          },
+          {
+            "tag": "C",
+            "text": "恐怖利刃"
+          },
+          {
+            "tag": "D",
+            "text": "露娜"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_heroes_016",
+        "type": "single",
+        "question": "以“幽鬼”中文名对应的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "幻影刺客"
+          },
+          {
+            "tag": "B",
+            "text": "幽鬼"
+          },
+          {
+            "tag": "C",
+            "text": "死亡先知"
+          },
+          {
+            "tag": "D",
+            "text": "痛苦女王"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_heroes_017",
+        "type": "single",
+        "question": "中文名“矮人直升机”对应的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "发条技师"
+          },
+          {
+            "tag": "B",
+            "text": "狙击手"
+          },
+          {
+            "tag": "C",
+            "text": "矮人直升机"
+          },
+          {
+            "tag": "D",
+            "text": "修补匠"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_018",
+        "type": "single",
+        "question": "以“酒仙”中文名对应的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "炼金术士"
+          },
+          {
+            "tag": "B",
+            "text": "钢背兽"
+          },
+          {
+            "tag": "C",
+            "text": "巨牙海民"
+          },
+          {
+            "tag": "D",
+            "text": "酒仙"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_019",
+        "type": "single",
+        "question": "以“兽王”中文名对应的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "兽王"
+          },
+          {
+            "tag": "B",
+            "text": "狼人"
+          },
+          {
+            "tag": "C",
+            "text": "兽"
+          },
+          {
+            "tag": "D",
+            "text": "陈"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_heroes_020",
+        "type": "single",
+        "question": "以“谜团”中文名对应的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "祸乱之源"
+          },
+          {
+            "tag": "B",
+            "text": "谜团"
+          },
+          {
+            "tag": "C",
+            "text": "黑暗贤者"
+          },
+          {
+            "tag": "D",
+            "text": "虚空假面"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_heroes_021",
+        "type": "single",
+        "question": "可以变形成敌方英雄的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "恐怖利刃"
+          },
+          {
+            "tag": "B",
+            "text": "拉比克"
+          },
+          {
+            "tag": "C",
+            "text": "变体精灵"
+          },
+          {
+            "tag": "D",
+            "text": "天穹守望者"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_022",
+        "type": "single",
+        "question": "拥有“决斗”终极技能的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "斧王"
+          },
+          {
+            "tag": "B",
+            "text": "玛尔斯"
+          },
+          {
+            "tag": "C",
+            "text": "半人马战行者"
+          },
+          {
+            "tag": "D",
+            "text": "军团指挥官"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_023",
+        "type": "single",
+        "question": "拥有“黑洞”终极技能的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "谜团"
+          },
+          {
+            "tag": "B",
+            "text": "虚空假面"
+          },
+          {
+            "tag": "C",
+            "text": "黑暗贤者"
+          },
+          {
+            "tag": "D",
+            "text": "术士"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_heroes_024",
+        "type": "single",
+        "question": "拥有“时间结界”终极技能的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "虚无之灵"
+          },
+          {
+            "tag": "B",
+            "text": "虚空假面"
+          },
+          {
+            "tag": "C",
+            "text": "黑暗贤者"
+          },
+          {
+            "tag": "D",
+            "text": "神谕者"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_heroes_025",
+        "type": "single",
+        "question": "拥有“全球流沉默”终极技能的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "卓尔游侠"
+          },
+          {
+            "tag": "B",
+            "text": "死亡先知"
+          },
+          {
+            "tag": "C",
+            "text": "沉默术士"
+          },
+          {
+            "tag": "D",
+            "text": "干扰者"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_026",
+        "type": "single",
+        "question": "拥有“复仇光环”的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "卓尔游侠"
+          },
+          {
+            "tag": "B",
+            "text": "露娜"
+          },
+          {
+            "tag": "C",
+            "text": "水晶室女"
+          },
+          {
+            "tag": "D",
+            "text": "复仇之魂"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_027",
+        "type": "single",
+        "question": "拥有“折光”技能的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "圣堂刺客"
+          },
+          {
+            "tag": "B",
+            "text": "幻影刺客"
+          },
+          {
+            "tag": "C",
+            "text": "幽鬼"
+          },
+          {
+            "tag": "D",
+            "text": "莉娜"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_heroes_028",
+        "type": "single",
+        "question": "拥有“海象神拳”的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "小小"
+          },
+          {
+            "tag": "B",
+            "text": "巨牙海民"
+          },
+          {
+            "tag": "C",
+            "text": "撼地者"
+          },
+          {
+            "tag": "D",
+            "text": "酒仙"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_heroes_029",
+        "type": "single",
+        "question": "拥有“超新星”的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "破晓辰星"
+          },
+          {
+            "tag": "B",
+            "text": "莉娜"
+          },
+          {
+            "tag": "C",
+            "text": "凤凰"
+          },
+          {
+            "tag": "D",
+            "text": "杰奇洛"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_heroes_030",
+        "type": "single",
+        "question": "拥有“神之力量”的英雄是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "全能骑士"
+          },
+          {
+            "tag": "B",
+            "text": "冥魂大帝"
+          },
+          {
+            "tag": "C",
+            "text": "混沌骑士"
+          },
+          {
+            "tag": "D",
+            "text": "斯温"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_031",
+        "type": "multiple",
+        "question": "哪些英雄是全才英雄？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "虚无之灵"
+          },
+          {
+            "tag": "B",
+            "text": "敌法师"
+          },
+          {
+            "tag": "C",
+            "text": "风行者"
+          },
+          {
+            "tag": "D",
+            "text": "蝙蝠骑士"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_032",
+        "type": "multiple",
+        "question": "哪些英雄以召唤或控制单位为重要特色？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "陈"
+          },
+          {
+            "tag": "B",
+            "text": "魅惑魔女"
+          },
+          {
+            "tag": "C",
+            "text": "德鲁伊"
+          },
+          {
+            "tag": "D",
+            "text": "兽王"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_033",
+        "type": "multiple",
+        "question": "哪些英雄拥有全地图或近似全地图影响力技能？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "宙斯"
+          },
+          {
+            "tag": "B",
+            "text": "幽鬼"
+          },
+          {
+            "tag": "C",
+            "text": "先知"
+          },
+          {
+            "tag": "D",
+            "text": "沉默术士"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_034",
+        "type": "multiple",
+        "question": "哪些英雄常被认为拥有强位移或高机动性？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "风暴之灵"
+          },
+          {
+            "tag": "B",
+            "text": "灰烬之灵"
+          },
+          {
+            "tag": "C",
+            "text": "虚无之灵"
+          },
+          {
+            "tag": "D",
+            "text": "痛苦女王"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_035",
+        "type": "multiple",
+        "question": "哪些英雄名字中包含 Spirit？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "风暴之灵"
+          },
+          {
+            "tag": "B",
+            "text": "灰烬之灵"
+          },
+          {
+            "tag": "C",
+            "text": "大地之灵"
+          },
+          {
+            "tag": "D",
+            "text": "虚无之灵"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_036",
+        "type": "multiple",
+        "question": "哪些英雄可以显著改变自身形态或模型？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "龙骑士"
+          },
+          {
+            "tag": "B",
+            "text": "恐怖利刃"
+          },
+          {
+            "tag": "C",
+            "text": "狼人"
+          },
+          {
+            "tag": "D",
+            "text": "德鲁伊"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_037",
+        "type": "multiple",
+        "question": "哪些英雄以隐身机制闻名？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "力丸"
+          },
+          {
+            "tag": "B",
+            "text": "赏金猎人"
+          },
+          {
+            "tag": "C",
+            "text": "克林克兹"
+          },
+          {
+            "tag": "D",
+            "text": "司夜刺客"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_038",
+        "type": "multiple",
+        "question": "哪些英雄拥有强控制型大招？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "谜团"
+          },
+          {
+            "tag": "B",
+            "text": "虚空假面"
+          },
+          {
+            "tag": "C",
+            "text": "马格纳斯"
+          },
+          {
+            "tag": "D",
+            "text": "潮汐猎人"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_039",
+        "type": "multiple",
+        "question": "哪些英雄常被归类为幻象核心？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "幻影长矛手"
+          },
+          {
+            "tag": "B",
+            "text": "娜迦海妖"
+          },
+          {
+            "tag": "C",
+            "text": "恐怖利刃"
+          },
+          {
+            "tag": "D",
+            "text": "混沌骑士"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_heroes_040",
+        "type": "multiple",
+        "question": "哪些英雄有治疗或保护队友能力？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "戴泽"
+          },
+          {
+            "tag": "B",
+            "text": "神谕者"
+          },
+          {
+            "tag": "C",
+            "text": "全能骑士"
+          },
+          {
+            "tag": "D",
+            "text": "树精卫士"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "abilities",
+    "category_i18n": "英雄技能",
+    "questionList": [
+      {
+        "id": "dota2_abilities_001",
+        "type": "single",
+        "question": "斧王的“狂战士之吼”主要效果是什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "嘲讽附近敌人"
+          },
+          {
+            "tag": "B",
+            "text": "沉默敌人"
+          },
+          {
+            "tag": "C",
+            "text": "治疗友军"
+          },
+          {
+            "tag": "D",
+            "text": "制造幻象"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_002",
+        "type": "single",
+        "question": "帕吉的“肉钩”命中后通常会造成什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "使目标隐身"
+          },
+          {
+            "tag": "B",
+            "text": "将目标拉向帕吉"
+          },
+          {
+            "tag": "C",
+            "text": "制造一个神符"
+          },
+          {
+            "tag": "D",
+            "text": "缴械帕吉"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_003",
+        "type": "single",
+        "question": "祈求者组合 Quas Wex Exort 用于施放什么机制？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "立即买活"
+          },
+          {
+            "tag": "B",
+            "text": "控制肉山"
+          },
+          {
+            "tag": "C",
+            "text": "祈唤技能"
+          },
+          {
+            "tag": "D",
+            "text": "升级中立物品"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_abilities_004",
+        "type": "single",
+        "question": "谜团的“黑洞”属于哪类技能？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "被动吸血"
+          },
+          {
+            "tag": "B",
+            "text": "切换攻击法球"
+          },
+          {
+            "tag": "C",
+            "text": "仅自身闪烁"
+          },
+          {
+            "tag": "D",
+            "text": "持续施法的范围控制"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_005",
+        "type": "single",
+        "question": "虚空假面的“时间结界”会产生什么效果？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "冻结范围内单位的圆形结界"
+          },
+          {
+            "tag": "B",
+            "text": "治疗泉水"
+          },
+          {
+            "tag": "C",
+            "text": "信使护盾"
+          },
+          {
+            "tag": "D",
+            "text": "一波小兵"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_006",
+        "type": "single",
+        "question": "莱恩的“死亡一指”主要定位是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "长时间隐身"
+          },
+          {
+            "tag": "B",
+            "text": "高额爆发伤害"
+          },
+          {
+            "tag": "C",
+            "text": "永久插眼"
+          },
+          {
+            "tag": "D",
+            "text": "转化小兵"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_007",
+        "type": "single",
+        "question": "水晶室女的“奥术光环”主要帮助什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "降低护甲"
+          },
+          {
+            "tag": "B",
+            "text": "攻击距离"
+          },
+          {
+            "tag": "C",
+            "text": "魔法恢复"
+          },
+          {
+            "tag": "D",
+            "text": "幻象伤害"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_abilities_008",
+        "type": "single",
+        "question": "宙斯的“雷神之怒”特点是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "它只影响建筑"
+          },
+          {
+            "tag": "B",
+            "text": "它召唤幻象"
+          },
+          {
+            "tag": "C",
+            "text": "它购买物品"
+          },
+          {
+            "tag": "D",
+            "text": "它会全地图影响敌方英雄"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_009",
+        "type": "single",
+        "question": "斯拉克的“能量转移”会偷取什么属性？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "属性"
+          },
+          {
+            "tag": "B",
+            "text": "金钱"
+          },
+          {
+            "tag": "C",
+            "text": "中立代币"
+          },
+          {
+            "tag": "D",
+            "text": "信使速度"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_010",
+        "type": "single",
+        "question": "沉默术士的“全领域静默”主要效果是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "眩晕肉山"
+          },
+          {
+            "tag": "B",
+            "text": "全地图沉默敌方英雄"
+          },
+          {
+            "tag": "C",
+            "text": "治疗防御塔"
+          },
+          {
+            "tag": "D",
+            "text": "掉落宝石"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_011",
+        "type": "single",
+        "question": "拉比克的“技能窃取”可以获得什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "敌方金钱"
+          },
+          {
+            "tag": "B",
+            "text": "不朽盾归属"
+          },
+          {
+            "tag": "C",
+            "text": "目标敌方英雄最后施放的技能"
+          },
+          {
+            "tag": "D",
+            "text": "中立野点控制"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_abilities_012",
+        "type": "single",
+        "question": "斯温的“神之力量”主要提升什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "魔法消耗"
+          },
+          {
+            "tag": "B",
+            "text": "复活时间"
+          },
+          {
+            "tag": "C",
+            "text": "信使速度"
+          },
+          {
+            "tag": "D",
+            "text": "攻击力"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_013",
+        "type": "single",
+        "question": "潮汐猎人的“毁灭”主要用于什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "大范围眩晕先手"
+          },
+          {
+            "tag": "B",
+            "text": "治疗友军"
+          },
+          {
+            "tag": "C",
+            "text": "购买守卫"
+          },
+          {
+            "tag": "D",
+            "text": "永久隐身"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_014",
+        "type": "single",
+        "question": "猛犸的“两极反转”主要效果是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "治疗小兵"
+          },
+          {
+            "tag": "B",
+            "text": "牵引并眩晕马格纳斯周围敌人"
+          },
+          {
+            "tag": "C",
+            "text": "缴械防御塔"
+          },
+          {
+            "tag": "D",
+            "text": "打开神秘商店"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_015",
+        "type": "single",
+        "question": "凤凰的“超新星”需要敌人做什么来阻止？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "反补己方防御塔"
+          },
+          {
+            "tag": "B",
+            "text": "丢下一件中立物品"
+          },
+          {
+            "tag": "C",
+            "text": "用攻击摧毁太阳"
+          },
+          {
+            "tag": "D",
+            "text": "击杀肉山"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_abilities_016",
+        "type": "single",
+        "question": "军团指挥官的“决斗”胜利会获得什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "永久智力偷取"
+          },
+          {
+            "tag": "B",
+            "text": "免费的不朽盾"
+          },
+          {
+            "tag": "C",
+            "text": "额外中立物品栏"
+          },
+          {
+            "tag": "D",
+            "text": "永久额外攻击力"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_017",
+        "type": "single",
+        "question": "圣堂刺客的“折光”提供什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "伤害格挡与额外伤害次数"
+          },
+          {
+            "tag": "B",
+            "text": "全地图沉默"
+          },
+          {
+            "tag": "C",
+            "text": "肉山控制"
+          },
+          {
+            "tag": "D",
+            "text": "信使召回"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_018",
+        "type": "single",
+        "question": "先知的“传送”特点是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "它只在基地生效"
+          },
+          {
+            "tag": "B",
+            "text": "它允许全地图移动"
+          },
+          {
+            "tag": "C",
+            "text": "它召唤不朽盾"
+          },
+          {
+            "tag": "D",
+            "text": "它偷取技能"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_019",
+        "type": "single",
+        "question": "昆卡的“幽灵船”会给友军什么增益？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "永久敏捷"
+          },
+          {
+            "tag": "B",
+            "text": "免费回城卷轴"
+          },
+          {
+            "tag": "C",
+            "text": "朗姆酒增益带来的延迟伤害减免"
+          },
+          {
+            "tag": "D",
+            "text": "中立物品升级"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_abilities_020",
+        "type": "single",
+        "question": "巫医的“死亡守卫”是哪种施法？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "被动重击"
+          },
+          {
+            "tag": "B",
+            "text": "切换隐身"
+          },
+          {
+            "tag": "C",
+            "text": "立即买活"
+          },
+          {
+            "tag": "D",
+            "text": "持续施法的守卫攻击"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_021",
+        "type": "single",
+        "question": "戴泽的“薄葬”主要用于什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "短时间防止友军死亡"
+          },
+          {
+            "tag": "B",
+            "text": "永久提高防御塔护甲"
+          },
+          {
+            "tag": "C",
+            "text": "召唤幻象"
+          },
+          {
+            "tag": "D",
+            "text": "偷取技能"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_022",
+        "type": "single",
+        "question": "神谕者的“虚妄之诺”主要保护什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "信使物品栏"
+          },
+          {
+            "tag": "B",
+            "text": "一个在延迟伤害/治疗结算中受保护的目标英雄"
+          },
+          {
+            "tag": "C",
+            "text": "中立野点"
+          },
+          {
+            "tag": "D",
+            "text": "敌方兵营"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_023",
+        "type": "single",
+        "question": "影魔的“魂之挽歌”通常和什么资源相关？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "中立代币"
+          },
+          {
+            "tag": "B",
+            "text": "防御塔充能"
+          },
+          {
+            "tag": "C",
+            "text": "支配死灵的灵魂"
+          },
+          {
+            "tag": "D",
+            "text": "信使等级"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_abilities_024",
+        "type": "single",
+        "question": "龙骑士的“古龙形态”会改变什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "他的玩家槽位"
+          },
+          {
+            "tag": "B",
+            "text": "游戏计时器"
+          },
+          {
+            "tag": "C",
+            "text": "肉山刷新侧"
+          },
+          {
+            "tag": "D",
+            "text": "他的攻击形态和加成"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_025",
+        "type": "single",
+        "question": "变体精灵的“属性变换”核心机制是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "在力量和敏捷之间转换"
+          },
+          {
+            "tag": "B",
+            "text": "偷取智力"
+          },
+          {
+            "tag": "C",
+            "text": "放置守卫"
+          },
+          {
+            "tag": "D",
+            "text": "购买卷轴"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_026",
+        "type": "single",
+        "question": "工程师的技能组核心特色是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "永久控制肉山"
+          },
+          {
+            "tag": "B",
+            "text": "地雷和爆炸范围控制"
+          },
+          {
+            "tag": "C",
+            "text": "全地图治疗光环"
+          },
+          {
+            "tag": "D",
+            "text": "仅幻象伤害"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_027",
+        "type": "single",
+        "question": "露娜的“月蚀”依赖哪类伤害来源？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "仅普通攻击分裂"
+          },
+          {
+            "tag": "B",
+            "text": "信使攻击"
+          },
+          {
+            "tag": "C",
+            "text": "月光打击"
+          },
+          {
+            "tag": "D",
+            "text": "仅中立物品触发"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_abilities_028",
+        "type": "single",
+        "question": "帕克的“梦境缠绕”惩罚什么行为？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "购买物品"
+          },
+          {
+            "tag": "B",
+            "text": "反补小兵"
+          },
+          {
+            "tag": "C",
+            "text": "使用信使"
+          },
+          {
+            "tag": "D",
+            "text": "离缠绕中心点移动过远"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_029",
+        "type": "single",
+        "question": "赏金猎人的“追踪术”主要提供什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "视野以及击杀额外金钱"
+          },
+          {
+            "tag": "B",
+            "text": "永久眩晕免疫"
+          },
+          {
+            "tag": "C",
+            "text": "肉山护甲"
+          },
+          {
+            "tag": "D",
+            "text": "防御塔治疗"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_abilities_030",
+        "type": "single",
+        "question": "米波的“分则能成”让玩家控制什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "多只信使"
+          },
+          {
+            "tag": "B",
+            "text": "多个米波共同承担风险"
+          },
+          {
+            "tag": "C",
+            "text": "所有中立生物"
+          },
+          {
+            "tag": "D",
+            "text": "敌方英雄"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_abilities_031",
+        "type": "multiple",
+        "question": "哪些技能属于大范围团控技能？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "黑洞"
+          },
+          {
+            "tag": "B",
+            "text": "时间结界"
+          },
+          {
+            "tag": "C",
+            "text": "毁灭"
+          },
+          {
+            "tag": "D",
+            "text": "两极反转"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_032",
+        "type": "multiple",
+        "question": "哪些技能具有全地图影响？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "雷神之怒"
+          },
+          {
+            "tag": "B",
+            "text": "全领域静默"
+          },
+          {
+            "tag": "C",
+            "text": "鬼影重重"
+          },
+          {
+            "tag": "D",
+            "text": "自然之怒"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_033",
+        "type": "multiple",
+        "question": "哪些技能通常需要持续施法？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "黑洞"
+          },
+          {
+            "tag": "B",
+            "text": "闪烁突袭"
+          },
+          {
+            "tag": "C",
+            "text": "死亡守卫"
+          },
+          {
+            "tag": "D",
+            "text": "极寒领域"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_034",
+        "type": "multiple",
+        "question": "哪些技能能直接保护队友生存？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "薄葬"
+          },
+          {
+            "tag": "B",
+            "text": "虚妄之诺"
+          },
+          {
+            "tag": "C",
+            "text": "守护天使"
+          },
+          {
+            "tag": "D",
+            "text": "活体护甲"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_035",
+        "type": "multiple",
+        "question": "哪些技能与永久成长或永久收益相关？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "决斗"
+          },
+          {
+            "tag": "B",
+            "text": "死亡一指"
+          },
+          {
+            "tag": "C",
+            "text": "智慧之刃"
+          },
+          {
+            "tag": "D",
+            "text": "能量转移"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_036",
+        "type": "multiple",
+        "question": "哪些技能可以造成沉默效果？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "全领域静默"
+          },
+          {
+            "tag": "B",
+            "text": "紫苑主动效果"
+          },
+          {
+            "tag": "C",
+            "text": "血祭"
+          },
+          {
+            "tag": "D",
+            "text": "遗言"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_037",
+        "type": "multiple",
+        "question": "哪些技能常用于先手开团？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "跳刀接狂战士之吼"
+          },
+          {
+            "tag": "B",
+            "text": "两极反转"
+          },
+          {
+            "tag": "C",
+            "text": "毁灭"
+          },
+          {
+            "tag": "D",
+            "text": "时间结界"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_038",
+        "type": "multiple",
+        "question": "哪些技能与幻象或复制有关？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "镜像"
+          },
+          {
+            "tag": "B",
+            "text": "魔化之锋"
+          },
+          {
+            "tag": "C",
+            "text": "幻象"
+          },
+          {
+            "tag": "D",
+            "text": "风暴双雄"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_039",
+        "type": "multiple",
+        "question": "哪些技能与隐身或淡出有关？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "永久隐身"
+          },
+          {
+            "tag": "B",
+            "text": "暗影步"
+          },
+          {
+            "tag": "C",
+            "text": "骨隐步"
+          },
+          {
+            "tag": "D",
+            "text": "隐匿"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_abilities_040",
+        "type": "multiple",
+        "question": "哪些技能属于英雄终极技能？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "黑洞"
+          },
+          {
+            "tag": "B",
+            "text": "时间结界"
+          },
+          {
+            "tag": "C",
+            "text": "神之力量"
+          },
+          {
+            "tag": "D",
+            "text": "全领域静默"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "items",
+    "category_i18n": "游戏物品",
+    "questionList": [
+      {
+        "id": "dota2_items_001",
+        "type": "single",
+        "question": "黑皇杖的英文简称通常是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "金箍棒"
+          },
+          {
+            "tag": "B",
+            "text": "狂战斧"
+          },
+          {
+            "tag": "C",
+            "text": "黑皇杖"
+          },
+          {
+            "tag": "D",
+            "text": "强袭胸甲"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_002",
+        "type": "single",
+        "question": "闪烁匕首的主要用途是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "被动吸血"
+          },
+          {
+            "tag": "B",
+            "text": "魔法恢复光环"
+          },
+          {
+            "tag": "C",
+            "text": "防御塔修理"
+          },
+          {
+            "tag": "D",
+            "text": "瞬间调整位置"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_003",
+        "type": "single",
+        "question": "黯灭的核心效果是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "攻击降低敌方护甲"
+          },
+          {
+            "tag": "B",
+            "text": "沉默友军"
+          },
+          {
+            "tag": "C",
+            "text": "治疗建筑"
+          },
+          {
+            "tag": "D",
+            "text": "制造幻象"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_items_004",
+        "type": "single",
+        "question": "蝴蝶主要提供哪类核心属性？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "力量和分裂"
+          },
+          {
+            "tag": "B",
+            "text": "敏捷与闪避"
+          },
+          {
+            "tag": "C",
+            "text": "智力与沉默"
+          },
+          {
+            "tag": "D",
+            "text": "金钱收入"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_items_005",
+        "type": "single",
+        "question": "金箍棒常用于克制什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "买活"
+          },
+          {
+            "tag": "B",
+            "text": "击杀信使"
+          },
+          {
+            "tag": "C",
+            "text": "闪避"
+          },
+          {
+            "tag": "D",
+            "text": "肉山计时"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_006",
+        "type": "single",
+        "question": "林肯法球主要可以抵挡什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "所有物理攻击"
+          },
+          {
+            "tag": "B",
+            "text": "每次防御塔攻击"
+          },
+          {
+            "tag": "C",
+            "text": "中立物品掉落"
+          },
+          {
+            "tag": "D",
+            "text": "一次指向性技能效果"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_007",
+        "type": "single",
+        "question": "圣剑的显著风险是什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "死亡时会掉落"
+          },
+          {
+            "tag": "B",
+            "text": "它删除买活"
+          },
+          {
+            "tag": "C",
+            "text": "它移除所有护甲"
+          },
+          {
+            "tag": "D",
+            "text": "它阻止治疗"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_items_008",
+        "type": "single",
+        "question": "疯狂面具主动效果通常带来什么代价？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "摧毁该物品"
+          },
+          {
+            "tag": "B",
+            "text": "沉默使用者"
+          },
+          {
+            "tag": "C",
+            "text": "掉落金钱"
+          },
+          {
+            "tag": "D",
+            "text": "召唤肉山"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_items_009",
+        "type": "single",
+        "question": "影刃主动效果提供什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "不朽盾复活"
+          },
+          {
+            "tag": "B",
+            "text": "永久护甲"
+          },
+          {
+            "tag": "C",
+            "text": "隐身和移动速度"
+          },
+          {
+            "tag": "D",
+            "text": "团队治疗"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_010",
+        "type": "single",
+        "question": "紫苑的主动效果主要施加什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "嘲讽"
+          },
+          {
+            "tag": "B",
+            "text": "恐惧免疫"
+          },
+          {
+            "tag": "C",
+            "text": "分裂"
+          },
+          {
+            "tag": "D",
+            "text": "沉默"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_011",
+        "type": "single",
+        "question": "希瓦的守护主动效果通常造成什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "范围伤害和减速"
+          },
+          {
+            "tag": "B",
+            "text": "全地图传送"
+          },
+          {
+            "tag": "C",
+            "text": "偷取不朽盾"
+          },
+          {
+            "tag": "D",
+            "text": "复制物品"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_items_012",
+        "type": "single",
+        "question": "强袭胸甲主要提供什么团队收益？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "仅技能吸血"
+          },
+          {
+            "tag": "B",
+            "text": "护甲和攻击速度光环效果"
+          },
+          {
+            "tag": "C",
+            "text": "复制神符"
+          },
+          {
+            "tag": "D",
+            "text": "买活折扣"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_items_013",
+        "type": "single",
+        "question": "魔晶通常在什么时间后可购买？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "游戏开始时"
+          },
+          {
+            "tag": "B",
+            "text": "仅第5代肉山后"
+          },
+          {
+            "tag": "C",
+            "text": "15分钟后"
+          },
+          {
+            "tag": "D",
+            "text": "仅兵营被摧毁后"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_014",
+        "type": "single",
+        "question": "阿哈利姆神杖通常用于什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "自动购买守卫"
+          },
+          {
+            "tag": "B",
+            "text": "增加信使栏位"
+          },
+          {
+            "tag": "C",
+            "text": "改变阵营方"
+          },
+          {
+            "tag": "D",
+            "text": "升级英雄技能"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_015",
+        "type": "single",
+        "question": "刷新球的核心功能是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "重置许多技能/物品的冷却"
+          },
+          {
+            "tag": "B",
+            "text": "增强赏金神符"
+          },
+          {
+            "tag": "C",
+            "text": "掉落不朽盾"
+          },
+          {
+            "tag": "D",
+            "text": "转换属性"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_items_016",
+        "type": "single",
+        "question": "达贡之神力主要提供什么主动效果？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "范围物理分裂"
+          },
+          {
+            "tag": "B",
+            "text": "单体魔法爆发伤害"
+          },
+          {
+            "tag": "C",
+            "text": "全地图沉默"
+          },
+          {
+            "tag": "D",
+            "text": "永久幻象"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_items_017",
+        "type": "single",
+        "question": "散夜对剑由哪些风格属性组合而成？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "智力和插眼"
+          },
+          {
+            "tag": "B",
+            "text": "肉山和神符"
+          },
+          {
+            "tag": "C",
+            "text": "力量/状态抗性与敏捷/移速主题"
+          },
+          {
+            "tag": "D",
+            "text": "信使和商店"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_018",
+        "type": "single",
+        "question": "幻影斧主动效果会产生什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "一只信使"
+          },
+          {
+            "tag": "B",
+            "text": "一座防御塔"
+          },
+          {
+            "tag": "C",
+            "text": "一个神符"
+          },
+          {
+            "tag": "D",
+            "text": "幻象"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_019",
+        "type": "single",
+        "question": "撒旦之邪力主动效果强化什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "吸血"
+          },
+          {
+            "tag": "B",
+            "text": "沉默持续时间"
+          },
+          {
+            "tag": "C",
+            "text": "守卫视野"
+          },
+          {
+            "tag": "D",
+            "text": "信使护甲"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_items_020",
+        "type": "single",
+        "question": "慧光主要强化什么类型能力？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "仅建筑伤害"
+          },
+          {
+            "tag": "B",
+            "text": "法术相关输出/魔法效率"
+          },
+          {
+            "tag": "C",
+            "text": "信使速度"
+          },
+          {
+            "tag": "D",
+            "text": "中立野点刷新"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_items_021",
+        "type": "single",
+        "question": "陨星锤主动效果常用于什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "瞬间闪烁"
+          },
+          {
+            "tag": "B",
+            "text": "永久隐身"
+          },
+          {
+            "tag": "C",
+            "text": "持续施法的延迟范围伤害/建筑推进"
+          },
+          {
+            "tag": "D",
+            "text": "技能窃取"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_022",
+        "type": "single",
+        "question": "洞察烟斗主要帮助团队抵御什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "信使死亡"
+          },
+          {
+            "tag": "B",
+            "text": "肉山复活"
+          },
+          {
+            "tag": "C",
+            "text": "买活费用"
+          },
+          {
+            "tag": "D",
+            "text": "魔法伤害"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_023",
+        "type": "single",
+        "question": "赤红甲主要帮助团队抵御什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "物理攻击伤害"
+          },
+          {
+            "tag": "B",
+            "text": "技能冷却"
+          },
+          {
+            "tag": "C",
+            "text": "神符反补"
+          },
+          {
+            "tag": "D",
+            "text": "信使沉默"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_items_024",
+        "type": "single",
+        "question": "微光披风主动效果可以提供什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "不朽盾复活"
+          },
+          {
+            "tag": "B",
+            "text": "隐身和魔法抗性"
+          },
+          {
+            "tag": "C",
+            "text": "永久伤害"
+          },
+          {
+            "tag": "D",
+            "text": "肉山控制"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_items_025",
+        "type": "single",
+        "question": "原力法杖主动效果会怎样移动单位？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "传送到泉水"
+          },
+          {
+            "tag": "B",
+            "text": "与肉山交换位置"
+          },
+          {
+            "tag": "C",
+            "text": "沿其面朝方向推送"
+          },
+          {
+            "tag": "D",
+            "text": "原地缠绕"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_026",
+        "type": "single",
+        "question": "飓风长戟是哪件物品的升级方向之一？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "闪烁匕首"
+          },
+          {
+            "tag": "B",
+            "text": "压制之刃"
+          },
+          {
+            "tag": "C",
+            "text": "魔瓶"
+          },
+          {
+            "tag": "D",
+            "text": "魔龙枪"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_027",
+        "type": "single",
+        "question": "以太透镜主要提升什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "施法距离"
+          },
+          {
+            "tag": "B",
+            "text": "攻击分裂"
+          },
+          {
+            "tag": "C",
+            "text": "仅闪避"
+          },
+          {
+            "tag": "D",
+            "text": "信使速度"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_items_028",
+        "type": "single",
+        "question": "玲珑心通常提供什么收益？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "防御塔无敌"
+          },
+          {
+            "tag": "B",
+            "text": "与冷却缩减相关的收益"
+          },
+          {
+            "tag": "C",
+            "text": "不朽盾掉落"
+          },
+          {
+            "tag": "D",
+            "text": "永久沉默"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_items_029",
+        "type": "single",
+        "question": "刃甲主动效果可以做什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "治疗肉山"
+          },
+          {
+            "tag": "B",
+            "text": "制造神符"
+          },
+          {
+            "tag": "C",
+            "text": "向攻击者反弹伤害"
+          },
+          {
+            "tag": "D",
+            "text": "偷取技能"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_030",
+        "type": "single",
+        "question": "纷争面纱主动效果主要增强什么后续伤害？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "信使攻击"
+          },
+          {
+            "tag": "B",
+            "text": "防御塔反补"
+          },
+          {
+            "tag": "C",
+            "text": "肉山重击"
+          },
+          {
+            "tag": "D",
+            "text": "技能伤害"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_031",
+        "type": "multiple",
+        "question": "哪些物品常用于提升机动性或位移？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "闪烁匕首"
+          },
+          {
+            "tag": "B",
+            "text": "原力法杖"
+          },
+          {
+            "tag": "C",
+            "text": "飓风长戟"
+          },
+          {
+            "tag": "D",
+            "text": "影刃"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_032",
+        "type": "multiple",
+        "question": "哪些物品常用于增强法术输出或施法？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "慧光"
+          },
+          {
+            "tag": "B",
+            "text": "以太透镜"
+          },
+          {
+            "tag": "C",
+            "text": "玲珑心"
+          },
+          {
+            "tag": "D",
+            "text": "达贡之神力"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_033",
+        "type": "multiple",
+        "question": "哪些物品常用于团队防御？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "洞察烟斗"
+          },
+          {
+            "tag": "B",
+            "text": "赤红甲"
+          },
+          {
+            "tag": "C",
+            "text": "卫士胫甲"
+          },
+          {
+            "tag": "D",
+            "text": "微光披风"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_034",
+        "type": "multiple",
+        "question": "哪些物品可以提供沉默或限制施法？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "紫苑"
+          },
+          {
+            "tag": "B",
+            "text": "蝴蝶"
+          },
+          {
+            "tag": "C",
+            "text": "血棘"
+          },
+          {
+            "tag": "D",
+            "text": "邪恶镰刀"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_035",
+        "type": "multiple",
+        "question": "哪些物品能制造或涉及幻象？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "幻影斧"
+          },
+          {
+            "tag": "B",
+            "text": "黑皇杖"
+          },
+          {
+            "tag": "C",
+            "text": "幻象神符交互"
+          },
+          {
+            "tag": "D",
+            "text": "镜盾幻象？"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_036",
+        "type": "multiple",
+        "question": "哪些物品死亡后可能掉落或转移？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "圣剑"
+          },
+          {
+            "tag": "B",
+            "text": "闪烁匕首"
+          },
+          {
+            "tag": "C",
+            "text": "真视宝石"
+          },
+          {
+            "tag": "D",
+            "text": "速度之靴"
+          }
+        ],
+        "answer": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_items_037",
+        "type": "multiple",
+        "question": "哪些物品通常是核心物理输出装？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "代达罗斯之殇"
+          },
+          {
+            "tag": "B",
+            "text": "蝴蝶"
+          },
+          {
+            "tag": "C",
+            "text": "金箍棒"
+          },
+          {
+            "tag": "D",
+            "text": "黯灭"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_038",
+        "type": "multiple",
+        "question": "哪些物品与阿哈利姆升级体系有关？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "阿哈利姆神杖"
+          },
+          {
+            "tag": "B",
+            "text": "蝴蝶"
+          },
+          {
+            "tag": "C",
+            "text": "阿哈利姆魔晶"
+          },
+          {
+            "tag": "D",
+            "text": "阿哈利姆福佑"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_039",
+        "type": "multiple",
+        "question": "哪些物品可用于驱散或解除负面状态？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "黑皇杖"
+          },
+          {
+            "tag": "B",
+            "text": "幻影斧"
+          },
+          {
+            "tag": "C",
+            "text": "清莲宝珠"
+          },
+          {
+            "tag": "D",
+            "text": "卫士胫甲"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_items_040",
+        "type": "multiple",
+        "question": "哪些物品常见于辅助保人？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "微光披风"
+          },
+          {
+            "tag": "B",
+            "text": "原力法杖"
+          },
+          {
+            "tag": "C",
+            "text": "清莲宝珠"
+          },
+          {
+            "tag": "D",
+            "text": "长盾"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "mechanics",
+    "category_i18n": "游戏机制",
+    "questionList": [
+      {
+        "id": "dota2_mechanics_001",
+        "type": "single",
+        "question": "买活的主要作用是什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "花费金钱立即复活"
+          },
+          {
+            "tag": "B",
+            "text": "升级中立物品"
+          },
+          {
+            "tag": "C",
+            "text": "控制肉山"
+          },
+          {
+            "tag": "D",
+            "text": "提前刷新神符"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_002",
+        "type": "single",
+        "question": "回城卷轴主要用于什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "远程购买物品"
+          },
+          {
+            "tag": "B",
+            "text": "传送到允许的友方建筑/前哨"
+          },
+          {
+            "tag": "C",
+            "text": "偷取技能"
+          },
+          {
+            "tag": "D",
+            "text": "放置守卫"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_003",
+        "type": "single",
+        "question": "肉山死亡后一定会掉落什么核心物品？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "圣剑"
+          },
+          {
+            "tag": "B",
+            "text": "黑皇杖"
+          },
+          {
+            "tag": "C",
+            "text": "不朽之守护"
+          },
+          {
+            "tag": "D",
+            "text": "蝴蝶"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_004",
+        "type": "single",
+        "question": "不朽之守护的主要效果是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "永久隐身"
+          },
+          {
+            "tag": "B",
+            "text": "无限买活"
+          },
+          {
+            "tag": "C",
+            "text": "防御塔控制"
+          },
+          {
+            "tag": "D",
+            "text": "一次复活效果"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_005",
+        "type": "single",
+        "question": "赏金神符主要提供什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "金钱"
+          },
+          {
+            "tag": "B",
+            "text": "永久伤害"
+          },
+          {
+            "tag": "C",
+            "text": "防御塔护甲"
+          },
+          {
+            "tag": "D",
+            "text": "英雄等级重置"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_006",
+        "type": "single",
+        "question": "智慧神符主要提供什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "不朽之守护"
+          },
+          {
+            "tag": "B",
+            "text": "经验"
+          },
+          {
+            "tag": "C",
+            "text": "中立物品栏"
+          },
+          {
+            "tag": "D",
+            "text": "防御塔伤害"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_007",
+        "type": "single",
+        "question": "否决己方小兵通常会让敌人获得什么变化？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "敌人获得不朽盾"
+          },
+          {
+            "tag": "B",
+            "text": "你的英雄死亡"
+          },
+          {
+            "tag": "C",
+            "text": "敌人获得减少后的奖励"
+          },
+          {
+            "tag": "D",
+            "text": "肉山复活"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_008",
+        "type": "single",
+        "question": "反补防御塔成功时敌方通常获得什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "免费的圣剑"
+          },
+          {
+            "tag": "B",
+            "text": "所有中立代币"
+          },
+          {
+            "tag": "C",
+            "text": "立即击杀肉山"
+          },
+          {
+            "tag": "D",
+            "text": "相比击杀获得更少或没有补刀奖励"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_009",
+        "type": "single",
+        "question": "高地视野机制通常意味着什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "低地单位可能看不到高地"
+          },
+          {
+            "tag": "B",
+            "text": "所有攻击暴击"
+          },
+          {
+            "tag": "C",
+            "text": "不能施放技能"
+          },
+          {
+            "tag": "D",
+            "text": "信使立即死亡"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_010",
+        "type": "single",
+        "question": "战争迷雾会限制什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "花费金钱"
+          },
+          {
+            "tag": "B",
+            "text": "未见区域的视野"
+          },
+          {
+            "tag": "C",
+            "text": "英雄选择"
+          },
+          {
+            "tag": "D",
+            "text": "物品卷轴"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_011",
+        "type": "single",
+        "question": "真视宝石主要用于什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "召唤肉山"
+          },
+          {
+            "tag": "B",
+            "text": "让队友买活"
+          },
+          {
+            "tag": "C",
+            "text": "侦测隐身单位/守卫"
+          },
+          {
+            "tag": "D",
+            "text": "增强经验神符"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_012",
+        "type": "single",
+        "question": "侦查守卫主要提供什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "必中"
+          },
+          {
+            "tag": "B",
+            "text": "吸血"
+          },
+          {
+            "tag": "C",
+            "text": "买活折扣"
+          },
+          {
+            "tag": "D",
+            "text": "视野"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_013",
+        "type": "single",
+        "question": "岗哨守卫主要提供什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "区域真视"
+          },
+          {
+            "tag": "B",
+            "text": "持续获得金钱"
+          },
+          {
+            "tag": "C",
+            "text": "英雄伤害"
+          },
+          {
+            "tag": "D",
+            "text": "肉山眩晕"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_014",
+        "type": "single",
+        "question": "拉野主要影响什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "肉山物品栏"
+          },
+          {
+            "tag": "B",
+            "text": "兵线平衡与野点交互"
+          },
+          {
+            "tag": "C",
+            "text": "选人顺序"
+          },
+          {
+            "tag": "D",
+            "text": "英雄天赋"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_015",
+        "type": "single",
+        "question": "叠野的核心结果是什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "立即摧毁防御塔"
+          },
+          {
+            "tag": "B",
+            "text": "免费不朽盾"
+          },
+          {
+            "tag": "C",
+            "text": "野点中更多中立生物"
+          },
+          {
+            "tag": "D",
+            "text": "交换英雄"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_016",
+        "type": "single",
+        "question": "控线通常指控制什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "哪支队伍拥有肉山"
+          },
+          {
+            "tag": "B",
+            "text": "商店价格"
+          },
+          {
+            "tag": "C",
+            "text": "英雄语音"
+          },
+          {
+            "tag": "D",
+            "text": "兵线交汇位置"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_017",
+        "type": "single",
+        "question": "仇恨机制会影响什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "单位攻击目标选择行为"
+          },
+          {
+            "tag": "B",
+            "text": "饰品掉落"
+          },
+          {
+            "tag": "C",
+            "text": "服务器区域"
+          },
+          {
+            "tag": "D",
+            "text": "录像速度"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_018",
+        "type": "single",
+        "question": "魔法免疫或减益免疫通常用于什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "增加信使栏位"
+          },
+          {
+            "tag": "B",
+            "text": "规避或降低敌方控制/法术影响"
+          },
+          {
+            "tag": "C",
+            "text": "额外刷新肉山"
+          },
+          {
+            "tag": "D",
+            "text": "改变队伍颜色"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_019",
+        "type": "single",
+        "question": "传送被打断通常会导致什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "英雄获得不朽盾"
+          },
+          {
+            "tag": "B",
+            "text": "防御塔移动"
+          },
+          {
+            "tag": "C",
+            "text": "传送失败并按规则进入冷却"
+          },
+          {
+            "tag": "D",
+            "text": "所有神符消失"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_020",
+        "type": "single",
+        "question": "中立物品机制主要来自哪里？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "敌方泉水"
+          },
+          {
+            "tag": "B",
+            "text": "仅摧毁守卫"
+          },
+          {
+            "tag": "C",
+            "text": "聊天命令"
+          },
+          {
+            "tag": "D",
+            "text": "中立生物掉落/代币系统"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_021",
+        "type": "single",
+        "question": "昼夜循环会影响什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "视野范围和部分技能"
+          },
+          {
+            "tag": "B",
+            "text": "仅物品卷轴"
+          },
+          {
+            "tag": "C",
+            "text": "英雄名称"
+          },
+          {
+            "tag": "D",
+            "text": "服务器刷新频率"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_022",
+        "type": "single",
+        "question": "护甲主要影响什么类型伤害？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "纯粹伤害"
+          },
+          {
+            "tag": "B",
+            "text": "物理伤害"
+          },
+          {
+            "tag": "C",
+            "text": "金钱损失"
+          },
+          {
+            "tag": "D",
+            "text": "经验获取"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_023",
+        "type": "single",
+        "question": "魔法抗性主要影响什么类型伤害？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "物理补刀"
+          },
+          {
+            "tag": "B",
+            "text": "金钱奖励"
+          },
+          {
+            "tag": "C",
+            "text": "魔法伤害"
+          },
+          {
+            "tag": "D",
+            "text": "信使速度"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_024",
+        "type": "single",
+        "question": "纯粹伤害的特点通常是？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "它只命中建筑"
+          },
+          {
+            "tag": "B",
+            "text": "它治疗敌人"
+          },
+          {
+            "tag": "C",
+            "text": "它制造神符"
+          },
+          {
+            "tag": "D",
+            "text": "它绕过许多护甲/魔抗减免"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_025",
+        "type": "single",
+        "question": "状态抗性主要影响什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "许多负面状态/控制效果的持续时间"
+          },
+          {
+            "tag": "B",
+            "text": "从小兵获得的金钱"
+          },
+          {
+            "tag": "C",
+            "text": "仅英雄模型大小"
+          },
+          {
+            "tag": "D",
+            "text": "商店可用性"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_026",
+        "type": "single",
+        "question": "幻象通常继承什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "完整自由使用物品主动效果"
+          },
+          {
+            "tag": "B",
+            "text": "部分英雄属性，并使用修正后的伤害规则"
+          },
+          {
+            "tag": "C",
+            "text": "玩家匹配积分"
+          },
+          {
+            "tag": "D",
+            "text": "肉山物品栏"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_027",
+        "type": "single",
+        "question": "信使主要负责什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "施放英雄终极技能"
+          },
+          {
+            "tag": "B",
+            "text": "占领肉山"
+          },
+          {
+            "tag": "C",
+            "text": "运送物品"
+          },
+          {
+            "tag": "D",
+            "text": "反补防御塔"
+          }
+        ],
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_028",
+        "type": "single",
+        "question": "前哨主要提供什么战略价值？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "免费圣剑"
+          },
+          {
+            "tag": "B",
+            "text": "立即赢线"
+          },
+          {
+            "tag": "C",
+            "text": "复制英雄"
+          },
+          {
+            "tag": "D",
+            "text": "地图控制以及传送/视野相关功能"
+          }
+        ],
+        "answer": [
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_029",
+        "type": "single",
+        "question": "防御塔后门保护主要用于什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "附近无小兵时降低受保护建筑受到的伤害"
+          },
+          {
+            "tag": "B",
+            "text": "提高英雄技能增强"
+          },
+          {
+            "tag": "C",
+            "text": "生成赏金神符"
+          },
+          {
+            "tag": "D",
+            "text": "阻止聊天"
+          }
+        ],
+        "answer": [
+          "A"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_030",
+        "type": "single",
+        "question": "暂停功能在比赛中主要用于什么？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "更换已选英雄"
+          },
+          {
+            "tag": "B",
+            "text": "临时停止游戏行动"
+          },
+          {
+            "tag": "C",
+            "text": "给敌人购买物品"
+          },
+          {
+            "tag": "D",
+            "text": "重置肉山"
+          }
+        ],
+        "answer": [
+          "B"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_031",
+        "type": "multiple",
+        "question": "哪些机制与地图视野直接相关？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "侦查守卫"
+          },
+          {
+            "tag": "B",
+            "text": "岗哨守卫"
+          },
+          {
+            "tag": "C",
+            "text": "战争迷雾"
+          },
+          {
+            "tag": "D",
+            "text": "高地视野"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_032",
+        "type": "multiple",
+        "question": "哪些机制与经济收益相关？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "补刀"
+          },
+          {
+            "tag": "B",
+            "text": "赏金神符"
+          },
+          {
+            "tag": "C",
+            "text": "英雄击杀奖励"
+          },
+          {
+            "tag": "D",
+            "text": "防御塔奖励"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_033",
+        "type": "multiple",
+        "question": "哪些机制与复活或死亡后状态相关？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "买活"
+          },
+          {
+            "tag": "B",
+            "text": "兵线平衡"
+          },
+          {
+            "tag": "C",
+            "text": "不朽盾复活"
+          },
+          {
+            "tag": "D",
+            "text": "复活计时"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_034",
+        "type": "multiple",
+        "question": "哪些机制与兵线控制相关？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "拉野"
+          },
+          {
+            "tag": "B",
+            "text": "叠野"
+          },
+          {
+            "tag": "C",
+            "text": "小兵仇恨"
+          },
+          {
+            "tag": "D",
+            "text": "反补"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_035",
+        "type": "multiple",
+        "question": "哪些属于伤害类型或伤害结算相关概念？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "物理伤害"
+          },
+          {
+            "tag": "B",
+            "text": "魔法伤害"
+          },
+          {
+            "tag": "C",
+            "text": "纯粹伤害"
+          },
+          {
+            "tag": "D",
+            "text": "护甲"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_036",
+        "type": "multiple",
+        "question": "哪些机制能揭示隐身单位或守卫？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "岗哨守卫"
+          },
+          {
+            "tag": "B",
+            "text": "赏金神符"
+          },
+          {
+            "tag": "C",
+            "text": "真视宝石"
+          },
+          {
+            "tag": "D",
+            "text": "显影之尘"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_037",
+        "type": "multiple",
+        "question": "哪些目标属于重要地图资源？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "肉山"
+          },
+          {
+            "tag": "B",
+            "text": "痛苦魔方"
+          },
+          {
+            "tag": "C",
+            "text": "前哨"
+          },
+          {
+            "tag": "D",
+            "text": "强化神符"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_038",
+        "type": "multiple",
+        "question": "哪些行为可能改变兵线位置？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "拉小兵"
+          },
+          {
+            "tag": "B",
+            "text": "仇恨操控"
+          },
+          {
+            "tag": "C",
+            "text": "反补小兵"
+          },
+          {
+            "tag": "D",
+            "text": "快速清线"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_039",
+        "type": "multiple",
+        "question": "哪些机制与施法或技能命中相关？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "施法距离"
+          },
+          {
+            "tag": "B",
+            "text": "持续施法"
+          },
+          {
+            "tag": "C",
+            "text": "弹道速度"
+          },
+          {
+            "tag": "D",
+            "text": "状态抗性"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "dota2_mechanics_040",
+        "type": "multiple",
+        "question": "哪些机制通常需要团队沟通？ （以 Dota 2 7.41c 版本为准）",
+        "options": [
+          {
+            "tag": "A",
+            "text": "肉山时间"
+          },
+          {
+            "tag": "B",
+            "text": "开雾行动"
+          },
+          {
+            "tag": "C",
+            "text": "买活状态"
+          },
+          {
+            "tag": "D",
+            "text": "守卫放置"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ]
+  }
+]
