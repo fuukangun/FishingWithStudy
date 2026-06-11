@@ -34,6 +34,7 @@ namespace fishingWithStudy
         {
             Config = helper.ReadConfig<Config.ModConfig>();
             StaticMonitor = Monitor;
+            Logic.Translation.Initialize(helper.Translation);
 
             var questionManager = new QuestionManager(Monitor, helper);
             questionManager.Initialize();
